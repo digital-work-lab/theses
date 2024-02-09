@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Feedback
-nav_exclude: true
+has_toc: true
+nav_order: 6
 ---
 
 # Theses: Feedback
