@@ -16,7 +16,7 @@ permalink: /
 
 The thesis is one of the key accomplishments when studying at a University.
 To support you throughout the process, we provide a clear overview of the steps, transparent evaluation criteria, as well as a developmental approach.
-An overview of the process is available [here](topics.html).
+An overview of the process is available [here](docs/process.html).
 
 - A [changelog](https://github.com/digital-work-lab/theses/commits/main/README.md) is available for this document.
 
@@ -28,7 +28,7 @@ An overview of the process is available [here](topics.html).
 
 ## 1. Initial meetings to discuss the general topic
 
-Students can select [open topics](30.40.theses_topics.html) or suggest topics related to our research areas.
+Students can select [open topics](topics.html) or suggest topics related to our research areas.
 To start the process, reach out via e-mail and schedule a meeting to discuss topic and next steps:
 
 {: .text-center}
@@ -40,7 +40,7 @@ To prepare the next step, it is recommended to start developing an exposé.
 ## 2. Formal admission
 
 Students send the **application for admission** to the thesis to the *examination office* via their Stud e-mail address.
-You can use [this e-mail template](30.40.thesis_admission_mail.html).
+You can use [this e-mail template](docs/admission_mail.html).
 
 The examination office **verifies** the admission requirements.
 
