@@ -114,12 +114,12 @@ Note: the digital appendix can be a CD-ROM or USB stick.
 
 ## 6. Grading
 
-The thesis advisor (professor) grades the thesis based on the predefined [criteria](30.40.theses_criteria.html). Grades are entered by the examination office. Students can check the grade via FlexNow.
+The thesis advisor (professor) grades the thesis based on the predefined [criteria](docs/evaluation.html). Grades are entered by the examination office. Students can check the grade via FlexNow.
 
 ## 7. Feedback session
 
 We provide feedback on the thesis and explain the grading.
-A short summary is stored on our [feedback page](30.40.theses_feedback.html) if students agree.
+A short summary is stored on our [feedback page](docs/feedback.html) if students agree.
 
 {: .text-center}
 [Schedule feedback session](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
