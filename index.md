@@ -14,7 +14,7 @@ permalink: /
 
 # Bachelor's and Master's Theses
 
-This page provides an overview and resources for writing a thesis in the area of [digital work](https://www.uni-bamberg.de/digital-work/){: .btn .btn-green target="_blank"}.
+This page provides an overview and resources for writing a thesis in the area of [digital work](https://www.uni-bamberg.de/digital-work/){: target="_blank"}.
 The thesis is one of the key accomplishments when studying at a University.
 To support you throughout the process, we provide a clear overview of the steps, transparent evaluation criteria, as well as a developmental approach.
 An overview of the process is available [here](docs/process.html).
