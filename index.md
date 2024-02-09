@@ -6,12 +6,6 @@ description: "Welcome"
 permalink: /
 ---
 
-**TODO**:
-
-- move links/pages to repository
-- in handbook: focus on administration
-- in handbook: add link to this pate
-
 # Bachelor's and Master's Theses
 
 This page provides an overview and resources for writing a thesis in the area of [digital work](https://www.uni-bamberg.de/digital-work/){: target="_blank"}.
