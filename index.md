@@ -107,10 +107,7 @@ Note: the digital appendix can be a CD-ROM or USB stick.
 ## 5. Thesis presentation
 
 - The student must present at her/his master thesis ...
-- The thesis advisor and professor set a date for the presentation
-- A second examiner is required (check whether this is adequate)
-- The grading template is available here (**TODO**)
-- Protocols should be archived (digitally / paper versions?)
+- The thesis advisor selects a second examienr and sets a date for the presentation
 
 ## 6. Grading
 
