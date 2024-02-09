@@ -16,7 +16,7 @@ permalink: /
 
 The thesis is one of the key accomplishments when studying at a University.
 To support you throughout the process, we provide a clear overview of the steps, transparent evaluation criteria, as well as a developmental approach.
-An overview of the process is available [here](30.40.theses_process.html).
+An overview of the process is available [here](topics.html).
 
 - A [changelog](https://github.com/digital-work-lab/theses/commits/main/README.md) is available for this document.
 
