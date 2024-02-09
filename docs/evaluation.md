@@ -2,7 +2,7 @@
 layout: default
 title: "Evaluation criteria"
 has_toc: true
-nav_order: 2
+nav_order: 5
 ---
 
 # Theses: Evaluation criteria
