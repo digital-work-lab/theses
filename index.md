@@ -28,7 +28,7 @@ An overview of the process is available [here](docs/process.html).
 
 ## 1. Initial meetings to discuss the general topic
 
-Students can select [open topics](topics.html) or suggest topics related to our research areas.
+Students can select [open topics](docs/topics.html) or suggest topics related to our research areas.
 To start the process, reach out via e-mail and schedule a meeting to discuss topic and next steps:
 
 {: .text-center}
@@ -71,7 +71,7 @@ We encourage students to complete an exposé before writing the thesis.
 A thesis must be written in English.
 The following resources may be helpful:
 
-- The [evaluation criteria](30.40.theses_criteria.html)
+- The [evaluation criteria](docs/evaluation.html)
 - The [schedule](30.40.theses_schedule.html)
 - The thesis template for [markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}) or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx)
 - The [literature review section](../../20-research/20_processes/20.10.literature-review.html)
