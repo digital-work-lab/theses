@@ -58,7 +58,7 @@ If the appointment is online, you can print and sign the confirmation, and send 
 It is important that we receive **two paper versions with original signatures**:
 
 - 1 original with signature of the professor and the student **for the student**.
-- 1 original with signature of the professor and the student **for archiving at the chair** (added to the [19-archive](https://nc-2272638881871040784.nextcloud-ionos.com/index.php/apps/files/files?dir=/10-lab/19_archive&fileid=62){: target="_blank"}).
+- 1 original with signature of the professor and the student **for archiving at the chair** .
 
 ## 3. Thesis writing and feedback sessions
 
