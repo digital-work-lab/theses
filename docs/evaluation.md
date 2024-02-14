@@ -53,7 +53,7 @@ Additional guidelines can be provided upon request.
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | Literature review  | Paré et al. 2015, Paré et al. 2023, Page et al. 2021, Templier and Paré 2018, [PRISMA](https://estech.shinyapps.io/prisma_flowdiagram/){: target="_blank"} |
 | Theory development | Gregor 2006                                                                                                                             |
-| Design Science     | Hevner et al. 2004, Prat et al. 2015,  Peffers et al. 2007                                                                              |
+| Design Science     | Hevner et al. 2004, Prat et al. 2015,  Peffers et al. 2007, JOSS review criteria                                                        |
 | Machine learning   | Stevens et al. 2020,. Heil et al. 2021, Walsh et al. 2021, Kapoor et al. 2023                                                           |
 | Experiments        | Frank et al. 2024                                                                                                                       |
 
@@ -98,6 +98,8 @@ Gregor, S. (2006). The nature of theory in information systems. *MIS Quarterly*,
 Heil, B. J., Hoffman, M. M., Markowetz, F., Lee, S. I., Greene, C. S., & Hicks, S. C. (2021). Reproducibility standards for machine learning in the life sciences. *Nature Methods*, 18(10), 1132-1135. [Link](https://www.nature.com/articles/s41592-021-01256-7){: target="_blank"}
 
 Hevner, A. R., March, S. T., Park, J., & Ram, S. (2008). Design science in information systems research. *MIS Quarterly*, 28(1), 6. [link](https://aisel.aisnet.org/misq/vol28/iss1/6/){: target="_blank"}
+
+JOSS review criteria. [link](https://joss.readthedocs.io/en/latest/review_criteria.html){: target="_blank"}
 
 Kapoor, S., Cantrell, E., Peng, K., Pham, T. H., Bail, C. A., Gundersen, O. E., ... & Narayanan, A. (2023). Reforms: Reporting standards for machine learning based science. arXiv preprint arXiv:2308.07832.
 
