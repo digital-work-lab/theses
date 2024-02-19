@@ -3,7 +3,7 @@ layout: default
 nav_exclude: true
 ---
   
-# Theses: Admission e-mail
+# Admission e-mail
 
 To: [wiai.pruefungen@uni-bamberg.de](mailto:wiai.pruefungen@uni-bamberg.de)
 

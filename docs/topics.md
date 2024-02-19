@@ -5,7 +5,7 @@ has_toc: true
 nav_order: 2
 ---
 
-# Theses: Topics
+# Open topics
 {: .no_toc }
 
 The following topics are currently open for Bachelor's and Master's theses.

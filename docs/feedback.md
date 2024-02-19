@@ -5,7 +5,7 @@ has_toc: true
 nav_order: 6
 ---
 
-# Theses: Feedback
+# Feedback
 
 Feedback is important for students and for us as thesis advisors.
 As a student, you may write another thesis or seminar papers. To develop your skills, our goal is to **explain the grading** transparently, and to help you understand which parts of your work could be improved an which ones are adequate or excellent.

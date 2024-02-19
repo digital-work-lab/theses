@@ -5,7 +5,7 @@ has_toc: true
 nav_exclude: true
 ---
 
-# Theses: Pre-submission checklist
+# Pre-submission checklist
 
 Before submitting the thesis, it may be useful to check the following items:
 

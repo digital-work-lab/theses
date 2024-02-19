@@ -5,7 +5,7 @@ has_toc: true
 nav_order: 5
 ---
 
-# Theses: Evaluation criteria
+# Evaluation criteria
 {: .no_toc }
 
 Bachelor's and Master's theses are evaluated according to the same criteria.

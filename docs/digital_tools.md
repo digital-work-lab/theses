@@ -5,7 +5,7 @@ has_toc: true
 nav_exclude: true
 ---
 
-# Theses: Guideline for the Use of Digital Tools
+# Guideline for the Use of Digital Tools
 
 The integration of digital tools, including Large Language Models (LLMs) like ChatGPT, grammar checkers, and reference managers, is increasingly common in academic research and writing. To uphold intellectual honesty and academic ethics, students should transparently acknowledge the use of these tools in their theses.
 

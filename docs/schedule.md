@@ -4,7 +4,7 @@ title: "Schedule"
 has_toc: true
 nav_exclude: true
 ---
-# Theses: The schedule
+# The schedule
 
 We recommend to create a schedule for your thesis and share it with your thesis advisor. The phases and tasks should be adapted to your thesis topic and the method applied.
 
