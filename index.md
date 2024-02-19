@@ -67,12 +67,12 @@ A thesis must be written in English.
 The following resources may be helpful:
 
 - The [evaluation criteria](docs/evaluation.html)
-- The [schedule](30.40.theses_schedule.html)
+- The [schedule](docs/schedule.html)
 - The thesis template for [markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}) or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx)
 - The [literature review section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.10.literature-review.html)
 - The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html)
 - The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
-- The [guideline for the use of digital tools](30.40.theses_digital_tools.html)
+- The [guideline for the use of digital tools](docs/digital_tools.html)
 
 We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:
 
@@ -85,9 +85,7 @@ We offer regular **feedback sessions** (every one to two weeks) to discuss open 
   - use a file-format suitable for adding comments (pdf or doc/x)
   - use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
 
-- Internally, we store documents and notes in [35 - theses](https://nc-2272638881871040784.nextcloud-ionos.com/index.php/apps/files/?dir=/30-30-teaching/35_theses&fileid=124){: target="_blank"}.
-
-Before submitting the thesis, we encourage students to consult the [pre-submission checklist](30.40.theses_pre_submission.html).
+Before submitting the thesis, we encourage students to consult the [pre-submission checklist](docs/pre_submission.html).
 
 ## 4. Submission of the thesis
 
