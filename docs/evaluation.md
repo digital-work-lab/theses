@@ -11,7 +11,7 @@ nav_order: 5
 Bachelor's and Master's theses are evaluated according to the same criteria.
 Once the **formal requirements** are met, the **main criteria** related to the process, the contribution, and the discussion are used to grade a thesis.
 
-A [changelog](https://github.com/digital-work-lab/handbook/commits/main/docs/30-teaching/30_processes/30.40.theses_criteria.md) is available for this document.
+A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evaluation.md) is available for this document.
 
 ## Table of contents
 {: .no_toc .text-delta }
