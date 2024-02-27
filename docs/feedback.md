@@ -19,6 +19,16 @@ Das Schreiben meiner Bachelorarbeit bei Prof. Dr. Wagner am Digital Work Lehrstu
 
 Score: 5/5
 
+## 35.007
+
+Es war eine äußerst bereichernde Erfahrung, meine Bachelorarbeit am Lehrstuhl Digital Work unter der fachkundigen Anleitung von Prof. Dr. Wagner zu verfassen. Herr Wagner begleitete die gesamte Entwicklung meines Projekts und stand stets zur Verfügung, um wertvolle Ratschläge und Optimierungsvorschläge zu geben. Sein Engagement und seine Bereitschaft, bei der Weiterentwicklung meiner Arbeit zu unterstützen, haben meine Forschung und mein Verständnis des Themas wesentlich verbessert.
+
+Besonders hilfreich war die umfangreiche Literatur, die sowohl aufsteigende als auch relevante Literatur umfasste, die mir seit Beginn meiner Arbeit zur Verfügung gestellt wurde. Diese umfassende Quellenbasis hat es mir ermöglicht, mein Thema gründlich zu vertiefen und einen fundierten theoretischen Hintergrund für meine Untersuchung zu schaffen.
+
+Insgesamt war es eine Freude, meine Abschlussarbeit am Lehrstuhl Digital Work zu verfassen. Die Unterstützung und die Ressourcen, die mir zur Verfügung gestellt wurden, haben meine akademische Erfahrung bereichert und meine Fähigkeiten weiterentwickelt. Ich bin dankbar für die Gelegenheit, unter der Anleitung von Prof. Dr. Wagner zu arbeiten und freue mich darauf, das Gelernte in meiner zukünftigen akademischen und beruflichen Laufbahn anzuwenden.
+
+Bewertung : 4.9/5
+
 ## 35.XXX (Optional: Name)
 
 - Things that worked well
