@@ -12,7 +12,7 @@ gh_edit_repository: 'https://github.com/digital-work-lab/theses'
 gh_edit_branch: 'main'
 gh_edit_view_mode: 'tree'
 
-focus_with_shortcut: true
+focus_with_shortcut: false
 
 logo: "/assets/images/theses.png"
 
