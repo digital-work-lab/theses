@@ -23,7 +23,8 @@ We actively encourage students to participate in feedback sessions. In the proce
 - Things that worked well
 - Things that should be improved
 - Overall experience: summary and score (x/5 - higher scores are better)
-<!-- Optional comment afterwards: Thesis advisor comment: We improved XY -->
+
+Optional comment afterwards: Thesis advisor comment: We improved XY
 -->
 
 ## 35.007
