@@ -99,7 +99,7 @@ Heil, B. J., Hoffman, M. M., Markowetz, F., Lee, S. I., Greene, C. S., & Hicks, 
 
 Hevner, A. R., March, S. T., Park, J., & Ram, S. (2008). Design science in information systems research. *MIS Quarterly*, 28(1), 6. [link](https://aisel.aisnet.org/misq/vol28/iss1/6/){: target="_blank"}
 
-JOSS review criteria. [link](https://joss.readthedocs.io/en/latest/review_criteria.html){: target="_blank"}
+JOSS review criteria and checklist. [link](https://joss.readthedocs.io/en/latest/review_checklist.html){: target="_blank"}
 
 Kapoor, S., Cantrell, E., Peng, K., Pham, T. H., Bail, C. A., Gundersen, O. E., ... & Narayanan, A. (2023). Reforms: Reporting standards for machine learning based science. arXiv preprint arXiv:2308.07832.
 
