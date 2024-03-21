@@ -16,6 +16,8 @@ The following topics are currently open for Bachelor's and Master's theses.
 - TOC
 {:toc}
 
+<!--
+
 ## Generative artificial intelligence and archetype prompts in software development: A scoping review
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
@@ -39,6 +41,8 @@ OpenAI (2023) Prompt engineering guide. Available at [https://platform.openai.co
 Saravia, Elvis (2022) Promp Engineering Guide. Available at [https://www.promptingguide.ai/de](https://www.promptingguide.ai/de){: target="_blank"}.
 
 White, J., Hays, S., Fu, Q., Spencer-Smith, J., & Schmidt, D. C. (2023). ChatGPT prompt patterns for improving code quality, refactoring, requirements elicitation, and software design. *arXiv preprint* arXiv:2303.07839.
+
+-->
 
 ## Careers in IT: A synthesis of prior research on career paths 
 
