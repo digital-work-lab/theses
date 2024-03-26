@@ -46,7 +46,7 @@ The examination office may ask the student to request an **approval by the exami
 This is the case when older regulations (Studien- und Fachprüfungsordnung) apply (i.e., when master studies were started before 2018), or for students of Informatics and Applied Informatics (e.g., International Software Systems Science).
 
 Students **receive the topic confirmation** as a (protected) Word document (.docx) by e-mail together with processing/submission instructions as well as inspection statement.
-The next step is to make an appointment with the thesis advisor to determine the topic and sign the topic confirmation. The secretary receives this message in CC.
+The next step is to make an appointment with the thesis advisor to determine the topic and sign the topic confirmation.
 
 Student and thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
 If the appointment is online, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
