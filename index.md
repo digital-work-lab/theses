@@ -95,7 +95,7 @@ Two copies in hard bound form and one digital version each are to be submitted t
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
 - Dispatch by mail (the date of the postmark counts) Otto-Friedrich-University, Examination Office - 96045 Bamberg
 
-Note: the digital appendix can be a CD-ROM or USB stick.
+The digital thesis can be a CD-ROM or USB stick. It contains the thesis as a PDF document, and possibly a digital appendix.
 
 ## 5. Thesis presentation
 
