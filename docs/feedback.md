@@ -27,7 +27,7 @@ We actively encourage students to participate in feedback sessions. In the proce
 Optional comment afterwards: Thesis advisor comment: We improved XY
 -->
 
-## 35.008 
+## 35.009
 
 Das Schreiben meiner Bachelorarbeit bei Prof. Wagner hat mir insgesamt sehr gut gefallen. Ich hatte im Semester davor schon das Digital Work Projekt belegt und mich dann für eine Bachelorarbeit im Bereich des colrev Projekts interessiert. Obwohl ich wenig Ahnung hatte, worüber genau ich eigentlich schreiben wollte konnte Prof. Wagner mich schnell für mein Thema begeistern. Besonders hilfreich fand ich die Erreichbarkeit und die angenehme Atmosphäre bei der Betreuung. Über ein bereitgestelltes Tool konnte man ganz einfach online Termine ausmachen ohne dabei direkt ewig viele Emails zur Terminfindung hin und herschicken zu müssen. Generell konnte ich mich mit allen meinen (sicherlich auch manchmal unnötigen oder weniger schlauen) Fragen an Prof. Wagner wenden und wurde immer wertschätzend und geduldig behandelt, das ist sicherlich nicht selbstverständlich.
 Ein anderer Aspekt der mir gut gefallen hat war der praktische Teil meiner Arbeit. Durch den Programmierteil hatte man immer wieder neue Herausforderungen und eine willkommene Abwechslung vom reinen Literatur lesen und wiedergeben. Besonders freut mich, dass mein erarbeitetes Tool einen tatsächlichen Nutzen hat und in der Lehre weiterverwendet werden soll! Das hilft auf jeden Fall beim Schreiben der Arbeit motiviert zu bleiben. 
