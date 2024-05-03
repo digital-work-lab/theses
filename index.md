@@ -73,6 +73,7 @@ The following resources may be helpful:
 - The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html)
 - The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
 - The [guideline for the use of digital tools](docs/digital_tools.html)
+- The [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} pages (Note: ethics statements cannot be issued for theses)
 
 We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:
 
