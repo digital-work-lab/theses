@@ -62,6 +62,7 @@ Joia, L. A., & Mangia, U. (2017). Career transition antecedents in the informati
 
 Joseph, D., Boh, W. F., Ang, S., & Slaughter, S. A. (2012). The career paths less (or more) traveled: A sequence analysis of IT career histories, mobility patterns, and career success. *MIS Quarterly*, 36(2), 427-452.
 
+<!--
 ## Ethical challenges and regulatory responses in gig work: An analysis of emergent policy agendas
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
@@ -81,6 +82,7 @@ Deng, X., Joshi, K. D., & Galliers, R. D. (2016). The duality of empowerment and
 Graham, M., Woodcock, J., Heeks, R., Mungai, P., Van Belle, J. P., du Toit, D., & Silberman, S. M. (2020). The Fairwork Foundation: Strategies for improving platform work in a global context. *Geoforum*, 112, 100-103.
 
 Myhill, K., Richards, J., & Sang, K. (2021). Job quality, fair work and gig work: the lived experience of gig workers. *The International Journal of Human Resource Management*, 32(19), 4110-4135.
+-->
 
 ## Translating research findings for online labor markets: A realist review
 
