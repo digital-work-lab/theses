@@ -54,8 +54,9 @@ Additional guidelines can be provided upon request.
 | Literature review  | Paré et al. 2015, Paré et al. 2023, Page et al. 2021, Templier and Paré 2018, [PRISMA](https://estech.shinyapps.io/prisma_flowdiagram/){: target="_blank"} |
 | Theory development | Gregor 2006                                                                                                                             |
 | Design Science     | Hevner et al. 2004, Prat et al. 2015,  Peffers et al. 2007, JOSS review criteria                                                        |
-| Machine learning   | Stevens et al. 2020,. Heil et al. 2021, Walsh et al. 2021, Kapoor et al. 2023                                                           |
+| Machine learning   | Stevens et al. 2020, Heil et al. 2021, Walsh et al. 2021, Kapoor et al. 2023                                                            |
 | Experiments        | Frank et al. 2024                                                                                                                       |
+| Qualitative surveys and interviews | O'Brien et al. 2014, Tong et al. 2007                                                                                   |
 
 <!--
 - Experiments (TODO)
@@ -107,6 +108,8 @@ Lange, D., & Pfarrer, M. D. (2017). Editors’ comments: Sense and structure—T
 
 Leidner, D. E. (2020). What's in a Contribution?. *Journal of the Association for Information Systems*, 21(1), 2. [link](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1928&context=jais){: target="_blank"}
 
+O’Brien, B. C., Harris, I. B., Beckman, T. J., Reed, D. A., & Cook, D. A. (2014). Standards for reporting qualitative research: a synthesis of recommendations. *Academic Medicine*, 89(9), 1245-1251. [link](https://journals.lww.com/academicmedicine/fulltext/2014/09000/standards_for_reporting_qualitative_researcha.21.aspx){: target="_blank"}
+
 Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., ... & Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. *International Journal of Surgery*, 88, 105906. [link](https://www.sciencedirect.com/science/article/pii/S1743919121000406){: target="_blank"}
 
 Paré, G., Trudel, M. C., Jaana, M., & Kitsiou, S. (2015). Synthesizing information systems knowledge: A typology of literature reviews. *Information & Management*, 52(2), 183-199. [link](https://www.sciencedirect.com/science/article/pii/S0378720614001116){: target="_blank"}
@@ -120,5 +123,7 @@ Prat, N., Comyn-Wattiau, I., & Akoka, J. (2015). A taxonomy of evaluation method
 Stevens, L. M., Mortazavi, B. J., Deo, R. C., Curtis, L., & Kao, D. P. (2020). Recommendations for reporting machine learning analyses in clinical research. *Circulation: Cardiovascular Quality and Outcomes*, 13(10), e006556. [Link](https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.120.006556){: target="_blank"}
 
 Templier, M., & Pare, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. *European Journal of Information Systems*, 27(5), 503-550. [link](https://www.tandfonline.com/doi/abs/10.1080/0960085X.2017.1398880?casa_token=1V3qftILSxQAAAAA:PuOFx6KxaynRQDZ1Yr07MSzZ_RPNOZiNjHB1zsyq9235rbX5QYv_Vb3NdKQVteywDw53oZ3CwuC9eQ){: target="_blank"}
+
+Tong, A., Sainsbury, P., & Craig, J. (2007). Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups. *International Journal for Quality in Health Care*, 19(6), 349-357. [link](https://academic.oup.com/intqhc/article/19/6/349/1791966?login=true){: target="_blank"}
 
 Walsh, I., Fishman, D., Garcia-Gasulla, D., Titma, T., Pollastri, G., Harrow, J., ... & Tosatto, S. C. (2021). DOME: recommendations for supervised machine learning validation in biology. *Nature Methods*, 18(10), 1122-1127. [Link](https://www.nature.com/articles/s41592-021-01205-4){: target="_blank"}
