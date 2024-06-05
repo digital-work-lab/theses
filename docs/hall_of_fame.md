@@ -11,14 +11,6 @@ On this page, we celebrate the accomplishments of our students 🎉 🍾 🎈
 
 <!-- ## Publication of datasets -->
 
-## 💽 Design of artifacts
-
-- [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} : Katharina Ernst
-
-- [deep-cenic](https://github.com/julianprester/deep-cenic){: target="_blank"} : Julian Prester
-
-- [enlit](https://github.com/geritwagner/enlit){: target="_blank"} : Philip Empl
-
 ## 🏆 Awards
 
 - Best Theory Paper Award, **Richard Schuster**, Gerit Wagner, and Guido Schryen. Received at the 39th International Conference on Information Systems (2018), San Francisco, California/USA, 2018.
@@ -32,3 +24,9 @@ On this page, we celebrate the accomplishments of our students 🎉 🍾 🎈
 Wagner, G., **Empl, P.**, and Schryen, G. 2020. “Designing a Novel Strategy for Reading and Skimming Literature Corpora,” in *Proceedings of the 28tℎ European Conference on Information Systems (ECIS 2020)*, Marrakech, Morocco.
 
 **Schuster, R.**, Wagner, G., and Schryen, G. 2018. “Information Systems Design Science Research and Cumulative Knowledge Development: An Exploratory Study,” in *Proceedings of the 39th International Conference on Information Systems (ICIS 2018)*, San Francisco, California, USA
+
+## 💽 Design of artifacts
+
+- [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} : Katharina Ernst
+- [deep-cenic](https://github.com/julianprester/deep-cenic){: target="_blank"} : Julian Prester
+- [enlit](https://github.com/geritwagner/enlit){: target="_blank"} : Philip Empl
