@@ -83,7 +83,10 @@ Graham, M., Woodcock, J., Heeks, R., Mungai, P., Van Belle, J. P., du Toit, D., 
 Myhill, K., Richards, J., & Sang, K. (2021). Job quality, fair work and gig work: the lived experience of gig workers. *The International Journal of Human Resource Management*, 32(19), 4110-4135.
 -->
 
-## Design of an Emulator for API-based Academic Literature Searches
+## Design of an emulator for API-based academic literature searches
+{: .d-inline-block }
+#programming
+{: .label .label-yellow }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
@@ -101,7 +104,10 @@ Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know abou
 
 Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. *Journal of Management Information Systems*, 24(3), 45-77. [link](https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222240302){: target="_blank"}
 
-## Enhancing Database Searches: Verification, Simplification, and Analysis of Complex Queries
+## Enhancing database searches: Verification, simplification, and analysis of complex queries
+{: .d-inline-block }
+#programming
+{: .label .label-yellow }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
@@ -129,7 +135,10 @@ Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know abou
 Sturm, B., & Sunyaev, A. (2019). Design principles for systematic search systems: a holistic synthesis of a rigorous multi-cycle design science research journey. *Business & Information Systems Engineering*, 61, 91-111.
 
 
-## Evaluating and Improving Search Query Tools: A Comprehensive Analysis
+## Evaluating and improving search query tools: A comprehensive analysis
+{: .d-inline-block }
+#programming
+{: .label .label-yellow }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
@@ -162,6 +171,9 @@ SearchRefineR project details. Available at [https://ielab.io/searchrefiner/tool
 
 
 ## Translating research findings for online labor markets: A realist review
+{: .d-inline-block }
+#literature-review
+{: .label .label-green }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
@@ -184,6 +196,9 @@ Liang, C., Hong, Y., Gu, B., & Peng, J. (2018). Gender wage gap in online gig ec
 Pawson, R., Greenhalgh, T., Harvey, G., & Walshe, K. (2005). Realist review-a new method of systematic review designed for complex policy interventions. *Journal of Health Services Research & Policy*, 10(1), 21-34.
 
 ## Exploring the role of micro-credentials for online labor markets: An organizing review
+{: .d-inline-block }
+#literature-review
+{: .label .label-green }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
@@ -202,6 +217,9 @@ Leidner, D. E. (2018). Review and theory symbiosis: An introspective retrospecti
 McGreal, R., & Olcott Jr, D. (2022). A strategic reset: micro-credentials for higher education leaders. *Smart Learning Environments*, 9(1), 9.
 
 ## Working in diametrically opposed contexts: An exploratory study of commercial open-source developers
+{: .d-inline-block }
+#literature-review
+{: .label .label-green }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
