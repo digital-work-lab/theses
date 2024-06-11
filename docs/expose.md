@@ -61,7 +61,7 @@ A high-quality Exposé typically includes the following sections:
 7. **References**
     - List of scholarly sources cited in your Exposé
 
-#### Recommendations for a High-Quality Exposé
+## Recommendations for a High-Quality Exposé
 
 - **Solicit Feedback**: Actively seek feedback on open questions from your advisor. Prepare and think through alternative approaches to your research. Use bullet points for parts that are likely to change or are up for discussion.
 - **Be clear and concise**: Ensure that each section is well-organized and succinctly written. Avoid unnecessary jargon and complex sentences.
