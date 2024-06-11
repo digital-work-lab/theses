@@ -30,7 +30,7 @@ To start the process, reach out via e-mail and schedule a meeting to discuss top
 [Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
 {: .text-center}
 
-To prepare the next step, it is recommended to start developing an exposé.
+To prepare the next step, it is recommended to start developing an [exposé](docs/expose.html).
 
 ## 2. Formal admission
 
@@ -62,7 +62,7 @@ The official requirements can be found in the regulations linked below.
 It is not necessary to submit the thesis in the semester in which it was started (unless you would take longer than the maximum duration of study).
 For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's theses.
 
-We encourage students to complete an exposé before writing the thesis.
+Students are expected to complete an [exposé](docs/expose.html) before writing the thesis.
 A thesis must be written in English.
 The following resources may be helpful:
 
