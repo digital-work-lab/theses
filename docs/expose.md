@@ -12,7 +12,7 @@ It serves as a detailed plan that guides your research and writing process, ensu
 An Exposé is usually drafted before the official registration of your thesis topic, allowing you to refine your ideas and receive feedback from your advisor or committee.
 After the registration, the Exposé will serve as the foundation that you will expand into the full thesis document.
 
-## Purpose of an Exposé
+## Purpose
 
 The primary purposes of an Exposé are:
 
@@ -27,7 +27,7 @@ You should begin working on your Exposé well before the official registration o
 This allows ample time for multiple drafts and revisions based on feedback from your advisor.
 Ideally, start your Exposé as soon as you have a rough idea of your research topic.
 
-## Expected Contents of an Exposé
+## Expected Contents
 
 A high-quality Exposé typically includes the following sections:
 
@@ -61,7 +61,7 @@ A high-quality Exposé typically includes the following sections:
 7. **References**
     - List of scholarly sources cited in your Exposé
 
-## Recommendations for a High-Quality Exposé
+## Recommendations
 
 - **Solicit Feedback**: Actively seek feedback on open questions from your advisor. Prepare and think through alternative approaches to your research. Use bullet points for parts that are likely to change or are up for discussion.
 - **Be clear and concise**: Ensure that each section is well-organized and succinctly written. Avoid unnecessary jargon and complex sentences.
