@@ -47,6 +47,7 @@ This is the case when older regulations (Studien- und Fachprüfungsordnung) appl
 
 Students **receive the topic confirmation** as a (protected) Word document (.docx) by e-mail together with processing/submission instructions as well as inspection statement.
 The next step is to make an appointment with the thesis advisor to determine the topic and sign the topic confirmation.
+Please share the Word document with your thesis advisor shortly before the meeting.
 
 Student and thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
 If the appointment is online, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
