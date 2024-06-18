@@ -23,3 +23,5 @@ Theses for the following topics have been completed or are close to completion:
 
 - Societal impact of telecommuting: A review of prior works
 - Make behavioral change stick with chatbot interventions – An overview of systematic reviews
+
+1. Marina Herold: The Transformation of Organizational Culture in the Age of Remote Work: A Literature Review (Bachelor's thesis)
