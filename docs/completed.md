@@ -8,7 +8,7 @@ nav_order: 3
 # Completed theses
 {: .no_toc }
 
-Theses for the following topics have been completed or are close to completion:
+Completed theses:
 
 1. **Marina Herold**: The Transformation of Organizational Culture in the Age of Remote Work: A Literature Review (Bachelor's thesis)
 2. **Salim Kahn**: Artificial Intelligence and Changes in Associated Skill Requirements Across Industry Sectors (Bachelor's thesis)
@@ -19,9 +19,12 @@ Theses for the following topics have been completed or are close to completion:
 7. **Nizar Salem**: Design and evaluation of machine learning classifiers to support backward citation searches (Bachelor's thesis)
 8. **Hisham Merdan**: Towards  more effective backward searches: A novel machine-learning-based approach (Bachlelor's thesis)
 9. **Katharina Maria Ernst**: Towards more efficient literature searches: Design of an open source query translator (Bachelor's thesis, [link](https://github.com/CoLRev-Environment/search-query))
-10. **Thi Thanh Thao Tran**: Investigating the Institutionalization of Human Capital Analytics and its Interplay within the Context of Strategic Human Resource Management and Innovation Diffusion: A Fuzzy-Set Qualitative Comparative Analysis (Master's thesis)
 11. **Ivan Shevlyakov**: Techno-stressors in work and non-work contexts: A structured literature review  (Bachelor's thesis)
 12. **Luca Ossendorf**: Design of a machine-learning classifier for research papers: Identifying literature reviews (Bachelor's thesis)
+
+Present theses:
+
+10. **Thi Thanh Thao Tran**: Investigating the Institutionalization of Human Capital Analytics and its Interplay within the Context of Strategic Human Resource Management and Innovation Diffusion: A Fuzzy-Set Qualitative Comparative Analysis (Master's thesis)
 13. **Moritz van den Hövel**: The state of artificial intelligence in personal information management – A scoping review (Bachelor's thesis)
 14. **Philipp Thomas Raab**: The effects of generative artificial intelligence on software development tasks: A qualitative systematic review (Bachelor's thesis)
 15. **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis)
