@@ -19,9 +19,11 @@ On this page, we celebrate the accomplishments of our students 🎉 🍾 🎈
 
 ## 📒 Publications
 
-- **Prester, J.**, Wagner, G., Hassan, N. R., and Schryen, G. 2021. “Classifying the Ideational Impact of Information Systems Review Articles: A Content-Enriched Deep Learning Approach”. *Decision Support Systems* (DSS), 140, 113432.
-- Wagner, G., **Empl, P.**, and Schryen, G. 2020. “Designing a Novel Strategy for Reading and Skimming Literature Corpora,” in *Proceedings of the 28tℎ European Conference on Information Systems (ECIS 2020)*, Marrakech, Morocco.
-- **Schuster, R.**, Wagner, G., and Schryen, G. 2018. “Information Systems Design Science Research and Cumulative Knowledge Development: An Exploratory Study,” in *Proceedings of the 39th International Conference on Information Systems (ICIS 2018)*, San Francisco, California, USA
+<div class="references">
+  <p>**Prester, J.**, Wagner, G., Hassan, N. R., and Schryen, G. 2021. “Classifying the Ideational Impact of Information Systems Review Articles: A Content-Enriched Deep Learning Approach”. *Decision Support Systems* (DSS), 140, 113432.</p>
+  <p>Wagner, G., **Empl, P.**, and Schryen, G. 2020. “Designing a Novel Strategy for Reading and Skimming Literature Corpora,” in *Proceedings of the 28tℎ European Conference on Information Systems (ECIS 2020)*, Marrakech, Morocco.</p>
+  <p>**Schuster, R.**, Wagner, G., and Schryen, G. 2018. “Information Systems Design Science Research and Cumulative Knowledge Development: An Exploratory Study,” in *Proceedings of the 39th International Conference on Information Systems (ICIS 2018)*, San Francisco, California, USA</p>
+</div>
 
 ## 💽 Artifacts
 
