@@ -135,7 +135,7 @@ Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know abou
 Sturm, B., & Sunyaev, A. (2019). Design principles for systematic search systems: a holistic synthesis of a rigorous multi-cycle design science research journey. *Business & Information Systems Engineering*, 61, 91-111.
 
 
-## Evaluating and improving search query tools: A comprehensive analysis
+## Evaluating search query tools: A comprehensive analysis
 {: .d-inline-block }
 #programming
 {: .label .label-yellow }
