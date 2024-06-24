@@ -169,6 +169,7 @@ LitSonar project details. Available at [https://litsonar.com](https://litsonar.c
 
 SearchRefineR project details. Available at [https://ielab.io/searchrefiner/tools/](https://ielab.io/searchrefiner/tools/){: target="_blank"}.
 
+<!--
 
 ## Translating research findings for online labor markets: A realist review
 {: .d-inline-block }
@@ -238,8 +239,6 @@ Andersen-Gott, M., Ghinea, G., & Bygstad, B. (2012). Why do commercial companies
 Henkel, J. (2009). Champions of revealing—the role of open source developers in commercial firms. *Industrial and Corporate Change*, 18(3), 435-471.
 
 Shahrivar, S., Elahi, S., Hassanzadeh, A., & Montazer, G. (2018). A business model for commercial open source software: A systematic literature review. *Information and Software Technology*, 103, 202-214.
-
-<!--
 
 ## Future of Work: A review of reviews
 
