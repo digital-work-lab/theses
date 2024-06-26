@@ -19,3 +19,9 @@ logo: "/assets/images/theses.png"
 
 mermaid:
   version: "9.1.3"
+
+aux_links:
+  "Repository":
+    - "https://github.com/digital-work-lab/theses"
+  "Issues":
+    - "https://github.com/digital-work-lab/theses/issues"
