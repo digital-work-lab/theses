@@ -17,7 +17,9 @@ The following topics are currently open for Bachelor's and Master's theses.
 {:toc}
 
 {: .call_for_theses }
-Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.
+Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each of the others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.
+
+<div class="page-break"></div>
 
 ## Design of an emulator for API-based academic literature searches
 {: .d-inline-block }
@@ -44,6 +46,8 @@ Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a l
   <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
 </div>
 
+<div class="page-break"></div>
+
 ## Advances in literature search queries: Evaluation, analysis, and improvement
 {: .d-inline-block }
 #programming
@@ -57,7 +61,7 @@ Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a l
 As a first step, a comprehensive dataset from [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv){: target="_blank"} will be used to parse and evaluate queries for selected databases (such as Web of Science, Pubmed, or IEEE).
 This step relies on existing query parsers, may involve refinements of the parser, and ultimately classify each query as valid or erroneous.
 As the second step, a linter will be extended to identify different types of problems and offer instructive messages to users.
-This work will proceed from syntactical errors (e.g., unbalanced parentheses) to simplification techniques (e.g., usef of wildcards).
+This work will proceed from syntactical errors (e.g., unbalanced parentheses) to simplification techniques (e.g., use of of wildcards).
 We will assist students with the development of a code skeleton (if needed).
 
 **Methods**: The thesis will adopt a design science approach and proceed in two phases: 1) Creating a test dataset of queries based on searchRxiv. 2) Implementing linters, testing them on the dataset, and reporting the results.
@@ -83,6 +87,8 @@ We will assist students with the development of a code skeleton (if needed).
   <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
 </div>
 
+<div class="page-break"></div>
+
 ## Advances in search query tools: A comprehensive evaluation
 {: .d-inline-block }
 #programming
@@ -96,7 +102,7 @@ We will assist students with the development of a code skeleton (if needed).
 Similar to the previous topic, in the first step, a comprehensive dataset from [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv){: target="_blank"} will be used to parse and evaluate queries for selected databases (such as Web of Science, Pubmed, or IEEE).
 This step relies on existing query parsers, may involve refinements of the parser, and ultimately classify each query as valid or erroneous.
 In the second step, existing search query tools, such as *Polyglot Search* or *Litsonar*, will be evaluated based on this dataset of queries.
-The goal is to scrutinize their ability to parse free-text queries, and the formats available for translation. For each tool, it will be analyzed whether complex queries with a valid syntax are parsed correctly and without errors, and whether erroneous queries are rejected.
+The goal is to scrutinize their ability to parse free-text queries, and the formats available for translation. For each tool, it will be analysed whether complex queries with a valid syntax are parsed correctly and without errors, and whether erroneous queries are rejected.
 Finally, the research will also involve reporting any identified errors to the developers.
 
 **Methods**: The thesis will adopt a design science approach and proceed in three phases: 1) Creating a test dataset of queries based on searchRxiv. 2) Testing valid and erroneous queries in different tools. 3) Documenting errors, sharing them with the developers, and reporting whether the developers responded or fixed the errors (considering the time frame available for the thesis).

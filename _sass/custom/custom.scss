@@ -3,3 +3,9 @@
   text-indent: -2em; /* This should match the left margin */
   text-align: justify; /* Justify the text */
 }
+
+.page-break {
+  visibility: hidden;
+  page-break-before: always;
+  break-before: page;
+}
