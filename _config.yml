@@ -20,6 +20,14 @@ logo: "/assets/images/theses.png"
 mermaid:
   version: "9.1.3"
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+  call_for_theses:
+    title: "Info: Call for theses"
+    color: yellow
+
 aux_links:
   "Repository":
     - "https://github.com/digital-work-lab/theses"

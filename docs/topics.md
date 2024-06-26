@@ -16,74 +16,94 @@ The following topics are currently open for Bachelor's and Master's theses.
 - TOC
 {:toc}
 
+{: .call_for_theses }
+Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.
+
 ## Design of an emulator for API-based academic literature searches
 {: .d-inline-block }
 #programming
 {: .label .label-yellow }
+#search-query
+{: .label .label-green }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**: This thesis focuses on advancing the capabilities of academic literature searches by extending the functionality of the [search-query](https://github.com/CoLRev-Environment/search-query) package to better integrate with APIs. The initial phase of the thesis will involve parsing query URLs for APIs that support nested Boolean queries (e.g., PubMed). Following this, the research will develop and evaluate the Boolean Emulation for Academic Literature Search (BEALS) technique for APIs that do not support Boolean operators (e.g., Crossref, DBLP). The objective is to enable enhance efficiency of literature searches, ultimately allowing researchers to rely on automated execution instead of manual retrieval from database interfaces.
+**Summary**: This thesis aims to advance the use of Boolean queries (queries involving operators like AND, OR, NOT) in API searches in two areas. First, for a suitable API (e.g., PubMed), a parser will be implemented for URLs representing Boolean queries. This will extend existing functionality of the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} package and allow users to efficiently run Boolean queries when the API supports it. Second, for APIs that do not support Boolean queries (such as Crossref or DBLP), a novel technique, called *Boolean Emulation for Academic Literature Searches* (BEALS), will be implemented and tested. For this technique, which involves the retrieval of super-sets followed by local execution of Boolean queries, a concept and working prototype are available.
 
-**Methods**: The thesis will adopt a design science approach and proceed in two phases: 1) Parsing query URLs for APIs that already support nested Boolean queries to optimize their usage. 2) Developing and implementing the BEALS technique for APIs lacking Boolean operator support, followed by experimental verification.
+**Methods**: The thesis will adopt a design science approach and proceed in two phases: 1) Parsing query URLs for APIs that already support nested Boolean queries. 2) Developing and implementing the BEALS technique for APIs lacking Boolean operator support, followed by user tests.
 
-**Expected outcomes**: The thesis will provide an extension of the search-query package, demonstrating improved search capabilities for both types of APIs. It will include the design of the BEALS technique, showcasing its ability to emulate Boolean functionalities for simple APIs. The work will offer practical guidelines for implementing these enhancements and contribute to the broader field of academic information retrieval.
+**Expected outcomes**: The thesis will provide an extension of the search-query package, demonstrating improved search capabilities for both types of APIs. It will include the design of the BEALS technique, showcasing its ability to emulate Boolean functionalities for simple APIs. These contributions will enhance efficiency of literature searches, ultimately allowing researchers to rely on automated execution instead of manual retrieval from database interfaces.
+
+**Requirements**: Candidates should have completed the [open-source project](https://digital-work-lab.github.io/open-source-project/){: target="_blank"} or have prior experience with Git and Python.
 
 **References**
 
 <div class="references">
-  <p>Ernst, K. M. (2024). Towards more efficient literature search: Design of an open source query translator. (Version 0.10.0) [Computer software]. <a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
   <p>Gusenbauer, M., &amp; Haddaway, N. R. (2021). What every researcher should know about searching–clarified concepts, search advice, and an agenda to improve finding in academia. <em>Research Synthesis Methods</em>, 12(2), 136-147.</p>
   <p>Peffers, K., Tuunanen, T., Rothenberger, M. A., &amp; Chatterjee, S. (2007). A design science research methodology for information systems research. <em>Journal of Management Information Systems</em>, 24(3), 45-77. <a href="https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222240302">link</a></p>
+  <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
 </div>
 
-## Enhancing database searches: Verification, simplification, and analysis of complex queries
+## Advances in literature search queries: Evaluation, analysis, and improvement
 {: .d-inline-block }
 #programming
 {: .label .label-yellow }
+#search-query
+{: .label .label-green }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**: This thesis aims to enhance the efficiency and accuracy of academic database searches by developing techniques for analyzing and simplifying complex queries, building on the search-query package. The first phase involves testing existing query parsers using a comprehensive set of queries from searchRxiv. The student will then implement functionality to analyze and simplify queries based on stemming, lemmatization, wildcards, truncation, and combining terms. This will verify the functionality of the query parser, offer capabilities to simplify queries, and show whether published queries could be simplified.
+**Summary**: This thesis focuses on literature search queries, and aims to evaluate, analyse, and improve them.
+As a first step, a comprehensive dataset from [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv){: target="_blank"} will be used to parse and evaluate queries for selected databases (such as Web of Science, Pubmed, or IEEE).
+This step relies on existing query parsers, may involve refinements of the parser, and ultimately classify each query as valid or erroneous.
+As the second step, a linter will be extended to identify different types of problems and offer instructive messages to users.
+This work will proceed from syntactical errors (e.g., unbalanced parentheses) to simplification techniques (e.g., usef of wildcards).
+We will assist students with the development of a code skeleton (if needed).
 
-**Methods**: The thesis will proceed in two phases:
-1. **Testing and Evaluating Existing Query Parsers**: Using a dataset of queries from searchRxiv to verify the functionality of current parsers implemented in the search-query package.
-2. **Developing and Implementing Simplification Techniques**: This may include a selection of the following:
+**Methods**: The thesis will adopt a design science approach and proceed in two phases: 1) Creating a test dataset of queries based on searchRxiv. 2) Implementing linters, testing them on the dataset, and reporting the results.
+
+<!-- 
+**Developing and Implementing Simplification Techniques**: This may include a selection of the following:
    - **Stemming and Lemmatization**: Reducing words to their root forms to capture all variants (e.g., "running" to "run").
    - **Wildcards**: Using symbols (e.g., ?, #) within words to replace a single character (e.g., "wom?n" retrieves "woman" and "women").
    - **Truncation**: Using a symbol (usually *) to replace one or more characters at the end of a word (e.g., "comput*" retrieves "computer," "computing").
    - **Combining Terms**: Merging terms in queries like "run AND running" (absorption law) and using wildcards to combine terms with the same search fields.
    - **Redundant Nesting**: Removing unnecessary parentheses to simplify the query structure (associative property).
+-->
 
-The implementation will involve extending the search-query package, coding, testing, and iterating on these techniques to ensure they effectively simplify queries without losing critical information.
+**Expected outcomes**: The thesis will verify the functionality of parsers within the search-query package, and develop linters for analyzing and simplifying queries. Based on an analysis of data from searchRxiv, it will further show whether published queries have errors or whether they could be simplified.
 
-**Expected outcomes**: The thesis will verify the functionality of parsers within the search-query package, and develop techniques for simplifying complex queries. Based on an analysis of data from searchRxiv, it will further show whether published queries could be simplified.
+**Requirements**: Candidates should have completed the [open-source project](https://digital-work-lab.github.io/open-source-project/){: target="_blank"} or have prior experience with Git and Python.
 
 **References**
 
 <div class="references">
-  <p>Ernst, K. M. (2024). Towards more efficient literature search: Design of an open source query translator. (Version 0.10.0) [Computer software]. <a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
   <p>Gusenbauer, M., &amp; Haddaway, N. R. (2021). What every researcher should know about searching–clarified concepts, search advice, and an agenda to improve finding in academia. <em>Research Synthesis Methods</em>, 12(2), 136-147.</p>
   <p>Sturm, B., &amp; Sunyaev, A. (2019). Design principles for systematic search systems: a holistic synthesis of a rigorous multi-cycle design science research journey. <em>Business &amp; Information Systems Engineering</em>, 61, 91-111.</p>
+  <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
 </div>
 
-## Evaluating search query tools: A comprehensive analysis
+## Advances in search query tools: A comprehensive evaluation
 {: .d-inline-block }
 #programming
 {: .label .label-yellow }
+#search-query
+{: .label .label-green }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**: This thesis aims to conduct a comprehensive evaluation of existing tools for search queries, including but not limited to Polyglot Search, Search-Query, and LitSonar. The goal is to assess the functionality offered by these tools, such as their ability to parse free-text queries, the formats available for translation, and their performance with simple and complex queries. The research will also involve reporting any identified errors to the developers and evaluating whether these errors were subsequently fixed.
+**Summary**: This thesis focuses on search query tools, and aims to evaluate how they handle complex queries, and whether there are any limitations.
+Similar to the previous topic, in the first step, a comprehensive dataset from [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv){: target="_blank"} will be used to parse and evaluate queries for selected databases (such as Web of Science, Pubmed, or IEEE).
+This step relies on existing query parsers, may involve refinements of the parser, and ultimately classify each query as valid or erroneous.
+In the second step, existing search query tools, such as *Polyglot Search* or *Litsonar*, will be evaluated based on this dataset of queries.
+The goal is to scrutinize their ability to parse free-text queries, and the formats available for translation. For each tool, it will be analyzed whether complex queries with a valid syntax are parsed correctly and without errors, and whether erroneous queries are rejected.
+Finally, the research will also involve reporting any identified errors to the developers.
 
-**Methods**: The thesis will be structured as follows:
-1. **Tool Evaluation**: Conduct a detailed assessment of each search query tool, focusing on:
-   - **Functionality Offered**: Determine if free-text queries can be parsed and identify the formats available for translation.
-   - **Error Testing**: Test the tools using a range of simple and complex queries to identify any errors or limitations.
-2. **Error Reporting and Follow-up**: Report identified errors to the respective developers of each tool and track the responses.
-3. **Error Resolution Evaluation**: Re-test the tools after a period to evaluate whether reported errors were fixed and improvements were made.
+**Methods**: The thesis will adopt a design science approach and proceed in three phases: 1) Creating a test dataset of queries based on searchRxiv. 2) Testing valid and erroneous queries in different tools. 3) Documenting errors, sharing them with the developers, and reporting whether the developers responded or fixed the errors (considering the time frame available for the thesis).
 
 **Expected outcomes**: The thesis will provide a detailed evaluation of the capabilities and limitations of existing search query tools. It will highlight the strengths and weaknesses of each tool, provide insights into the most common issues encountered, and assess the responsiveness of developers in addressing reported errors. This work will contribute to the improvement of search query tools and offer practical recommendations for developers and users.
+
+**Requirements**: Candidates should have completed the [open-source project](https://digital-work-lab.github.io/open-source-project/){: target="_blank"} or have prior experience with Git and Python.
 
 **References**
 
@@ -91,8 +111,8 @@ The implementation will involve extending the search-query package, coding, test
   <p>Aguinis, H., Ramani, R. S., & Alabduljader, N. (2023). Best-practice recommendations for producers, evaluators, and users of methodological literature reviews. <em>Organizational Research Methods</em>, 26(1), 46-76. doi:10.1177/109442812094328</p>
   <p>Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know about searching–clarified concepts, search advice, and an agenda to improve finding in academia. <em>Research Synthesis Methods</em>, 12(2), 136-147.</p>
   <p>Sturm, B., & Sunyaev, A. (2019). Design principles for systematic search systems: a holistic synthesis of a rigorous multi-cycle design science research journey. <em>Business &amp; Information Systems Engineering</em>, 61, 91-111.</p>
+  <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
   <p>Polyglot Search documentation. Available at <a href="https://polyglot.sr-accelerator.com/" target="_blank">https://polyglot.sr-accelerator.com/</a>.</p>
-  <p>Search-Query project on GitHub. Available at <a href="https://github.com/CoLRev-Environment/search-query" target="_blank">https://github.com/CoLRev-Environment/search-query</a>.</p>
   <p>LitSonar project details. Available at <a href="https://litsonar.com" target="_blank">https://litsonar.com</a>.</p>
   <p>SearchRefineR project details. Available at <a href="https://ielab.io/searchrefiner/tools/" target="_blank">https://ielab.io/searchrefiner/tools/</a>.</p>
 </div>
