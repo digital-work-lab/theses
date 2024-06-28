@@ -15,6 +15,8 @@ Present theses:
 - 015 **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis)
 - 014 **Philipp Thomas Raab**: The effects of generative artificial intelligence on software development tasks: A qualitative systematic review (Bachelor's thesis)
 - 010 **Thi Thanh Thao Tran**: Investigating the Institutionalization of Human Capital Analytics and its Interplay within the Context of Strategic Human Resource Management and Innovation Diffusion: A Fuzzy-Set Qualitative Comparative Analysis (Master's thesis)
+- 005 **Carlo Tang**: Make behavioral change stick with chatbot interventions – An overview of systematic reviews (Master's thesis)
+- 004 **Do Thuy Duong Nguyen**: Societal impact of telecommuting: A review of prior works (Master's thesis)
 
 Completed theses:
 
@@ -25,8 +27,6 @@ Completed theses:
 - 008 **Hisham Merdan**: Towards  more effective backward searches: A novel machine-learning-based approach (Bachlelor's thesis)
 - 007 **Nizar Salem**: Design and evaluation of machine learning classifiers to support backward citation searches (Bachelor's thesis)
 - 006 **Albert Borchardt**: Automated literature pre-screening in systematic reviews: Design and evaluation of machine learning classifiers (Bachelor's thesis)
-- 005 **Carlo Tang**: Make behavioral change stick with chatbot interventions – An overview of systematic reviews (Master's thesis)
-- 004 **Do Thuy Duong Nguyen**: Societal impact of telecommuting: A review of prior works (Master's thesis)
 - 003 **Antonia Pausch**: Remote work and mental health: A qualitative systematic review (Bachelor's thesis)
 - 002 **Salim Kahn**: Artificial Intelligence and Changes in Associated Skill Requirements Across Industry Sectors (Bachelor's thesis)
 - 001 **Marina Herold**: The Transformation of Organizational Culture in the Age of Remote Work: A Literature Review (Bachelor's thesis)
