@@ -16,6 +16,10 @@ The following topics are currently open for Bachelor's and Master's theses.
 - TOC
 {:toc}
 
+**There are not open topics at the moment. New topics will be announced shortly.**
+
+<!--
+
 {: .call_for_theses }
 Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each of the others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.
 
@@ -66,15 +70,6 @@ We will assist students with the development of a code skeleton (if needed).
 
 **Methods**: The thesis will adopt a design science approach and proceed in two phases: 1) Creating a test dataset of queries based on searchRxiv. 2) Implementing linters, testing them on the dataset, and reporting the results.
 
-<!-- 
-**Developing and Implementing Simplification Techniques**: This may include a selection of the following:
-   - **Stemming and Lemmatization**: Reducing words to their root forms to capture all variants (e.g., "running" to "run").
-   - **Wildcards**: Using symbols (e.g., ?, #) within words to replace a single character (e.g., "wom?n" retrieves "woman" and "women").
-   - **Truncation**: Using a symbol (usually *) to replace one or more characters at the end of a word (e.g., "comput*" retrieves "computer," "computing").
-   - **Combining Terms**: Merging terms in queries like "run AND running" (absorption law) and using wildcards to combine terms with the same search fields.
-   - **Redundant Nesting**: Removing unnecessary parentheses to simplify the query structure (associative property).
--->
-
 **Expected outcomes**: The thesis will verify the functionality of parsers within the search-query package, and develop linters for analyzing and simplifying queries. Based on an analysis of data from searchRxiv, it will further show whether published queries have errors or whether they could be simplified.
 
 **Requirements**: Candidates should have completed the [open-source project](https://digital-work-lab.github.io/open-source-project/){: target="_blank"} or have prior experience with Git and Python.
@@ -123,7 +118,6 @@ Finally, the research will also involve reporting any identified errors to the d
   <p>SearchRefineR project details. Available at <a href="https://ielab.io/searchrefiner/tools/" target="_blank">https://ielab.io/searchrefiner/tools/</a>.</p>
 </div>
 
-<!--
 ## Generative artificial intelligence and archetype prompts in software development: A scoping review
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
