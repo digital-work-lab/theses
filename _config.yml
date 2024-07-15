@@ -27,6 +27,9 @@ callouts:
   call_for_theses:
     title: "Info: Call for theses"
     color: yellow
+  info:
+    title: "Info"
+    color: yellow
 
 aux_links:
   "Repository":

@@ -8,6 +8,10 @@ nav_order: 2
 # Open topics
 {: .no_toc }
 
+{: .info}
+**There are not open topics at the moment. New topics will be announced shortly.**
+
+<!--
 The following topics are currently open for Bachelor's and Master's theses.
 
 ## Overview
@@ -15,10 +19,6 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 - TOC
 {:toc}
-
-**There are not open topics at the moment. New topics will be announced shortly.**
-
-<!--
 
 {: .call_for_theses }
 Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each of the others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.
