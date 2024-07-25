@@ -123,8 +123,8 @@ The digital thesis can be a CD-ROM or USB stick. It contains the thesis as a PDF
 
 ## 5. Thesis presentation
 
-- The student must present at her/his master thesis ...
-- The thesis advisor selects a second examiner and sets a date for the presentation
+- Students present their master thesis. Evaluation criteria are stated [here](docs/evaluation.html#presentation).
+- Students can suggest a date for the presentation (before or after submitting the thesis) and the thesis advisor selects a second examiner.
 
 ## 6. Grading and feedback session
 
