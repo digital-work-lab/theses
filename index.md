@@ -11,17 +11,38 @@ permalink: /
 This page provides an overview and resources for writing a thesis in the area of [digital work](https://www.uni-bamberg.de/digital-work/){: target="_blank"}.
 The thesis is one of the key accomplishments when studying at a University.
 To support you throughout the process, we provide a clear overview of the steps, transparent evaluation criteria, as well as a developmental approach.
-An overview of the process is available [here](docs/process.html).
 
-- A [changelog](https://github.com/digital-work-lab/theses/commits/main/index.md) is available for this document.
+{: .text-center}
+```mermaid
+flowchart LR
 
-## Table of contents
-{: .no_toc .text-delta }
+    subgraph Process[" "]
+        Feedback -. consult .-> Init
+        Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.22.improvements.html'>improvement</a>,<br><a href='docs/completed.html'>completed theses</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
+        OpenTopics(["<a href='docs/topics.html'>Open topics</a>"]) -.- |consult| Init
+        Init["<a href='#1-initial-meetings-to-discuss-the-topic'>Initial meeting</a>"] ==> |"<a href='docs/expose.html'>Write an exposé</a>"| Admission["<a href='#2-formal-admission'>Formal admission</a>"]
+        Admission ==> Writing["<a href='#3-thesis-writing-and-feedback-sessions'>Thesis writing and feedback sessions</a>"]
+        Writing ==> Submission["<a href='#4-submission-of-the-thesis'>Submission</a>"]
+        Submission ==> Grading
+        Writing -. Master's students .-> Presentation["<a href='#5-thesis-presentation'>Presentation</a>"]
+        Presentation -.-> Grading["<a href='#6-grading-and-feedback-session'>Grading and feedback</a>"]
+        Criteria(["<a href='docs/evaluation.html'>Evaluation criteria</a>"]) -.- Writing
+        Criteria -.- Presentation
+        Criteria -.- Grading
+    end
+    style Init stroke:#333,stroke-width:3px
+    style Admission stroke:#333,stroke-width:3px
+    style Writing stroke:#333,stroke-width:3px
+    style Presentation stroke:#333,stroke-width:3px
+    style Submission stroke:#333,stroke-width:3px
+    style Grading stroke:#333,stroke-width:3px
+    style Process fill:white,stroke:#333,stroke-width:3px
+```
 
-- TOC
-{:toc}
+- A detailed overview of the administrative process is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.40.theses_process.html){: target="_blank"}.
+- A changelog for this document is available [here](https://github.com/digital-work-lab/theses/commits/main/index.md){: target="_blank"}.
 
-## 1. Initial meetings to discuss the general topic
+## 1. Initial meetings to discuss the topic
 
 Students can select [open topics](docs/topics.html) or suggest topics related to our research areas.
 To start the process, reach out via e-mail and schedule a meeting to discuss topic and next steps:
@@ -63,29 +84,30 @@ The official requirements can be found in the regulations linked below.
 It is not necessary to submit the thesis in the semester in which it was started (unless you would take longer than the maximum duration of study).
 For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's theses.
 
-Students are expected to complete an [exposé](docs/expose.html) before writing the thesis.
+Students are expected to complete the exposé before writing the thesis.
 A thesis must be written in English.
 The following resources may be helpful:
 
 - The [evaluation criteria](docs/evaluation.html)
 - The [schedule](docs/schedule.html)
-- The thesis template for [markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}) <!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
+- The thesis template for [Markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}) <!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
 - The [literature review section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.10.literature-review.html)
 - The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html)
 - The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
 - The [guideline for the use of digital tools](docs/digital_tools.html)
-- The [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} pages (Note: ethics statements cannot be issued for theses)
+- Note: ethics statements cannot be issued for theses, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
 
 We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:
 
 - Feedback sessions can be in person or online
 - They can be scheduled via [calendly](https://calendly.com/gerit-wagner/30min){: target="_blank"}
-- To receive feedback on the written document, please
 
-  - share it 1-2 days before the meeting
-  - indicate which sections should be read
-  - use a file-format suitable for adding comments (pdf or doc/x)
-  - use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
+To receive feedback on the written document, please
+
+  - Share it 1-2 days before the meeting
+  - Indicate which sections should be read
+  - Use a file-format suitable for adding comments (pdf or doc/x)
+  - Use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
 
 Before submitting the thesis, we encourage students to consult the [pre-submission checklist](docs/pre_submission.html).
 
@@ -102,13 +124,13 @@ The digital thesis can be a CD-ROM or USB stick. It contains the thesis as a PDF
 ## 5. Thesis presentation
 
 - The student must present at her/his master thesis ...
-- The thesis advisor selects a second examienr and sets a date for the presentation
+- The thesis advisor selects a second examiner and sets a date for the presentation
 
 ## 6. Grading and feedback session
 
 The thesis advisor (professor) grades the thesis based on the predefined [criteria](docs/evaluation.html). Grades are entered by the examination office. Students can check the grade via FlexNow.
 
-Afterwards, we provide feedback on the thesis and explain the grading.
+Afterward we provide feedback on the thesis and explain the grading.
 A short summary is stored on our [feedback page](docs/feedback.html) if students agree.
 
 {: .text-center}
