@@ -104,13 +104,11 @@ The digital thesis can be a CD-ROM or USB stick. It contains the thesis as a PDF
 - The student must present at her/his master thesis ...
 - The thesis advisor selects a second examienr and sets a date for the presentation
 
-## 6. Grading
+## 6. Grading and feedback session
 
 The thesis advisor (professor) grades the thesis based on the predefined [criteria](docs/evaluation.html). Grades are entered by the examination office. Students can check the grade via FlexNow.
 
-## 7. Feedback session
-
-We provide feedback on the thesis and explain the grading.
+Afterwards, we provide feedback on the thesis and explain the grading.
 A short summary is stored on our [feedback page](docs/feedback.html) if students agree.
 
 {: .text-center}
