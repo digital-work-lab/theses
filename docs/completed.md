@@ -13,13 +13,13 @@ Present theses:
 - 017 **Witalij Kindsvater**: The Impact of Remote Work on Individual Productivity: A Literature Review of Pre-, Peri-, and Post-Pandemic Research (Bachelor's thesis)
 - 016 **Aroon Kumar**: Regulation of gig work platforms: An analysis of emergent policy agendas (Master's thesis)
 - 015 **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis)
-- 014 **Philipp Thomas Raab**: The effects of generative artificial intelligence on software development tasks: A qualitative systematic review (Bachelor's thesis)
 - 010 **Thi Thanh Thao Tran**: Investigating the Institutionalization of Human Capital Analytics and its Interplay within the Context of Strategic Human Resource Management and Innovation Diffusion: A Fuzzy-Set Qualitative Comparative Analysis (Master's thesis)
 - 005 **Carlo Tang**: Make behavioral change stick with chatbot interventions – An overview of systematic reviews (Master's thesis)
 - 004 **Do Thuy Duong Nguyen**: Societal impact of telecommuting: A review of prior works (Master's thesis)
 
 Completed theses:
 
+- 014 **Philipp Thomas Raab**: The effects of generative artificial intelligence on software development tasks: A qualitative systematic review (Bachelor's thesis)
 - 013 **Moritz van den Hövel**: The state of artificial intelligence in personal information management – A scoping review (Bachelor's thesis)
 - 012 **Luca Ossendorf**: Design of a machine-learning classifier for research papers: Identifying literature reviews (Bachelor's thesis)
 - 011 **Ivan Shevlyakov**: Techno-stressors in work and non-work contexts: A structured literature review  (Bachelor's thesis)
