@@ -2,7 +2,7 @@
 layout: default
 title: "Completed theses"
 has_toc: true
-nav_order: 3
+nav_order: 9
 ---
 
 # Completed theses
