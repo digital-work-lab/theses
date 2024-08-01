@@ -58,7 +58,10 @@ A high-quality Exposé typically includes the following sections:
 6. **Timeline**
    - Timeline outlining each phase of your research and writing process
 
-The following example may serve as an inspiration. The schedule can be structured according to weeks or months.
+7. **References**
+    - List of scholarly sources cited in your Exposé
+
+The following is an example Timeline. The schedule can be structured according to weeks or months.
 
 | Time period 		          | Phase 		                       | Tasks 		                                                                           |
 |---------------------------|------------------------------------|---------------------------------------------------------------------------------------|
@@ -69,10 +72,6 @@ The following example may serve as an inspiration. The schedule can be structure
 | March 2017 		          | Implementation refinement 		     | Improve the prototype based on the results of the evaluation 			 		            |
 | April 2017 		          | Analysis 		                    | Application of the prototype to the complete dataset 			 		                  |
 | May 2017 		             | Write-up 		                    | Write-up and final feedback 			 		                                             |
-
-
-7. **References**
-    - List of scholarly sources cited in your Exposé
 
 ## Recommendations
 

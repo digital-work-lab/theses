@@ -96,6 +96,8 @@ The following resources may be helpful:
 - The [guideline for the use of digital tools](docs/digital_tools.html)
 - Note: ethics statements cannot be issued for theses, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
 
+It is good practice to write the thesis in a Git-versioned repository, to add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
+
 We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:
 
 - Feedback sessions can be in person or online
@@ -103,10 +105,16 @@ We offer regular **feedback sessions** (every one to two weeks) to discuss open 
 
 To receive feedback on the written document, please
 
-  - Share it 1-2 days before the meeting
-  - Indicate which sections should be read
-  - Use a file-format suitable for adding comments (pdf or doc/x)
-  - Use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
+- Share it 1-2 days before the meeting
+- Indicate which sections should be read
+- Use a file-format suitable for adding comments (pdf or doc/x)
+- Use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
+
+We expect you to communicate on an equal level:
+
+- In e-mails, write `"Hallo Herr Wagner"` (instead of `"Sehr geehrter Herr Prof. Dr. Wagner"`).
+- If you do not agree with a particular suggestion, challenge it and explain why you would do it differently.
+- Instead of apologizing, say [thank you](https://www.popsugar.com/smart-living/why-you-should-say-thank-you-instead-of-sorry-47250332){: target="_blank"}.
 
 Before submitting the thesis, we encourage students to consult the [pre-submission checklist](docs/pre_submission.html).
 
