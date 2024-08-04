@@ -10,6 +10,9 @@ nav_order: 9
 
 Present theses:
 
+- 020 **Laureen Thurner**: Understanding the process of organizing participatory knowledge resources: An exploratory study in the context of academic lab handbooks (Bachelor's thesis)
+- 019 **Robert Theis**: Analyzing the yield of literature search queries: An open source design science approach (Bachelor's thesis)
+- 018 **Aaron Hißting**: Generative artificial intelligence and archetype prompts in software development: A scoping review (Bachelor's thesis)
 - 017 **Witalij Kindsvater**: The Impact of Remote Work on Individual Productivity: A Literature Review of Pre-, Peri-, and Post-Pandemic Research (Bachelor's thesis)
 - 016 **Aroon Kumar**: Regulation of gig work platforms: An analysis of emergent policy agendas (Master's thesis)
 - 015 **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis)
