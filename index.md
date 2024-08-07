@@ -44,7 +44,7 @@ flowchart LR
 
 ## 1. Initial meetings to discuss the topic
 
-Students can select [open topics](docs/topics.html) or suggest topics related to our research areas.
+You can select [open topics](docs/topics.html) or suggest topics related to our research areas.
 To start the process, reach out via e-mail and schedule a meeting to discuss topic and next steps:
 
 {: .text-center}
@@ -55,27 +55,27 @@ To prepare the next step, it is recommended to start developing an [exposé](doc
 
 ## 2. Formal admission
 
-Students send the **application for admission** to the thesis to the *examination office* via their Stud e-mail address.
+You send the **application for admission** to the thesis to the *examination office* via their Stud e-mail address.
 You can use [this e-mail template](docs/admission_mail.html).
 
 The examination office **verifies** the admission requirements.
 
 - If admission requirements are met, the topic confirmation is created with text fields so that the topic of the thesis and the date of topic issue can be entered.
-- If the admission requirements are not met, the student is notified that the application has been rejected.
+- If the admission requirements are not met, you are notified that the application has been rejected.
 
-The examination office may ask the student to request an **approval by the examination committee** (Prüfungsausschuss) to write a thesis in the area of *Digital Work*.
+The examination office may ask you to request an **approval by the examination committee** (Prüfungsausschuss) to write a thesis in the area of *Digital Work*.
 This is the case when older regulations (Studien- und Fachprüfungsordnung) apply (i.e., when master studies were started before 2018), or for students of Informatics and Applied Informatics (e.g., International Software Systems Science).
 
-Students **receive the topic confirmation** as a (protected) Word document (.docx) by e-mail together with processing/submission instructions as well as inspection statement.
+You **receive the topic confirmation** as a (protected) Word document (.docx) by e-mail together with processing/submission instructions as well as inspection statement.
 The next step is to make an appointment with the thesis advisor to determine the topic and sign the topic confirmation.
 Please share the Word document with your thesis advisor shortly before the meeting.
 
-Student and thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
+You and thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
 If the appointment is online, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
 It is important that we receive **two paper versions with original signatures**:
 
-- 1 original with signature of the professor and the student **for the student**.
-- 1 original with signature of the professor and the student **for archiving at the chair** .
+- 1 original with signature of the professor and you **for the student**.
+- 1 original with signature of the professor and you **for archiving at the chair** .
 
 ## 3. Thesis writing and feedback sessions
 
@@ -84,7 +84,7 @@ The official requirements can be found in the regulations linked below.
 It is not necessary to submit the thesis in the semester in which it was started (unless you would take longer than the maximum duration of study).
 For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's theses.
 
-Students are expected to complete the exposé before writing the thesis.
+You are expected to complete the exposé before writing the thesis.
 A thesis must be written in English.
 The following resources may be helpful:
 
@@ -130,15 +130,15 @@ The digital thesis can be a CD-ROM or USB stick. It contains the thesis as a PDF
 
 ## 5. Thesis presentation
 
-- Students present their master thesis. Evaluation criteria are stated [here](docs/evaluation.html#presentation).
-- Students can suggest a date for the presentation (before or after submitting the thesis) and the thesis advisor selects a second examiner.
+- You present their master thesis. Evaluation criteria are stated [here](docs/evaluation.html#presentation).
+- You can suggest a date for the presentation (before or after submitting the thesis) and the thesis advisor selects a second examiner.
 
 ## 6. Grading and feedback session
 
-The thesis advisor (professor) grades the thesis based on the predefined [criteria](docs/evaluation.html). Grades are entered by the examination office. Students can check the grade via FlexNow.
+The thesis advisor (professor) grades the thesis based on the predefined [criteria](docs/evaluation.html). Grades are entered by the examination office. You can check the grade via FlexNow.
 
 Afterward we provide feedback on the thesis and explain the grading.
-A short summary is stored on our [feedback page](docs/feedback.html) if students agree.
+A short summary is stored on our [feedback page](docs/feedback.html) if you agree.
 
 {: .text-center}
 [Schedule feedback session](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
