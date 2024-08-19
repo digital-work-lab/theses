@@ -9,12 +9,16 @@ nav_exclude: true
 
 The integration of digital tools, including Large Language Models (LLMs) like ChatGPT, grammar checkers, and reference managers, is increasingly common in academic research and writing. To uphold intellectual honesty and academic ethics, students should transparently acknowledge the use of these tools in their theses.
 
+{: .info }
+To acknowledge the use of digital tools, include a section titled **Digital Tools Used** after the conclusion of your thesis.
+
 Usage and Acknowledgement
 
 **1. Transparent Disclosure**
- - Include a section titled "Digital Tools Used" after the conclusion of your thesis.
- - Mention all digital tools utilized, such as grammar checkers, reference managers, and LLMs like ChatGPT. Specify the type of assistance each tool provided.
+ - Mention all digital tools utilized, such as grammar checkers, and LLMs like ChatGPT. Specify the type of assistance each tool provided.
  - For LLMs/ChatGPT, detail the specific nature of their assistance (e.g., idea generation, language suggestions).
+ - If you write a standalone review, you can mention the use of particular reference managers or Excel in the methods section.
+ - You do not have to acknowledge basic tools like Microsoft Word.
 
 **2. Validation of Information**
  - Cross-verify any information or data provided by digital tools with credible academic sources.
