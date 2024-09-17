@@ -8,10 +8,6 @@ nav_order: 2
 # Open topics
 {: .no_toc }
 
-{: .info}
-**There are not open topics at the moment. New topics will be announced shortly.**
-
-<!--
 The following topics are currently open for Bachelor's and Master's theses.
 
 ## Overview
@@ -19,6 +15,36 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 - TOC
 {:toc}
+
+## \#awesome: A Review and Clustering Analysis of Awesome Lists on GitHub
+{: .d-inline-block }
+#literature-review
+{: .label .label-yellow }
+#data-science
+{: .label .label-green }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary**: This thesis focuses on the increasingly popular “awesome lists” on GitHub, which represent an informal but useful method of knowledge collection and synthesis. The goal of the thesis is to use the colrev package to automatically retrieve relevant repositories from GitHub, and subsequently conduct a clustering analysis to distinguish between different types of awesome lists. Categories of awesome lists might include those focusing on datasets, academic publications, or non-academic use cases. The thesis should provide an overview of the landscape of awesome lists, identify prominent examples, and derive best practice recommendations for designing these resources. Furthermore, the thesis will suggest potential ways academia could leverage awesome lists for literature reviews and contribute to their development.
+
+**Methods**: The thesis will employ the colrev package for retrieving and processing GitHub repositories and apply clustering techniques to categorize the awesome lists. Both qualitative and quantitative analyses will be used to identify interesting patterns across the lists. 
+
+**Expected outcomes**: The thesis will result in a comprehensive classification of awesome lists on GitHub, with detailed examples of exemplary lists. It will also provide recommendations on how best to design such lists for different audiences and use cases, including guidance for future academic involvement in these lists. Furthermore, the research will suggest how awesome lists can be applied in systematic literature reviews and knowledge synthesis in academic settings.
+
+**Requirements**: Students should have basic experience with GitHub and Python, particularly in data retrieval and analysis. Familiarity with clustering techniques or the colrev package is an advantage.
+
+**References**
+
+<div class="references">
+  <p>Sindresorhus (2023). Awesome Lists. Available at <a href="https://github.com/sindresorhus/awesome" target="_blank">https://github.com/sindresorhus/awesome</a>.</p>
+  <p>Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know about searching–clarified concepts, search advice, and an agenda to improve finding in academia. <em>Research Synthesis Methods</em>, 12(2), 136-147.</p>
+<p>Nakagawa, S., Dunn, A. G., Lagisz, M., Bannach-Brown, A., Grames, E. M., Sánchez-Tójar, A., ... & Haddaway, N. R. (2020). A new ecosystem for evidence synthesis. <em>Nature Ecology & Evolution</em>, 4(4), 498-501. <a href="https://doi.org/10.1038/s41559-020-1153-2" target="_blank">https://doi.org/10.1038/s41559-020-1153-2</a>.</p>
+</div>
+
+<!--
+
+{: .info}
+**There are not open topics at the moment. New topics will be announced shortly.**
 
 {: .call_for_theses }
 Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each of the others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.
