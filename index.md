@@ -98,6 +98,9 @@ The following resources may be helpful:
 
 It is good practice to write the thesis in a Git-versioned repository, to add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
 
+{: .info }
+Remember to create **regular backups** of your work, e.g., by creating Git versions and pushing them to a remote repository, and/or copying files to a USB stick.
+
 We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:
 
 - Feedback sessions can be in person or online
