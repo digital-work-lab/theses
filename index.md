@@ -8,6 +8,16 @@ permalink: /
 
 # Bachelor's and Master's Theses
 
+<br>
+
+[![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM-blue)](https://digital-work-lab.github.io/theses/docs/syllabus.html)
+[![Language](https://img.shields.io/badge/Language-English-blue)](https://digital-work-lab.github.io/theses/docs/syllabus.html)
+![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
+[![Evaluations](https://img.shields.io/badge/Rating-★★★★★-yellow)](https://digital-work-lab.github.io/theses/docs/evaluations.html)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
+[![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/theses.svg?style=social&label=Star)](https://github.com/digital-work-lab/theses/stargazers)
+
+Welcome!
 This page provides an overview and resources for writing a thesis in the area of [digital work](https://www.uni-bamberg.de/digital-work/){: target="_blank"}.
 The thesis is one of the key accomplishments when studying at a University.
 To support you throughout the process, we provide a clear overview of the steps, transparent evaluation criteria, as well as a developmental approach.
