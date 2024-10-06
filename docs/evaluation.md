@@ -86,7 +86,7 @@ A presentation is required for Master's theses. A presentation takes 15-20 minut
 In line with the applicable regulations, the presentation receives a weight of 33% for students of Information Systems. For students from other departments and degree programs (such as [IBWL](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/masterstudiengaenge/internationale-betriebswirtschaftslehre/)), the presentation may not be graded.
 
 <!-- 
-https://www.uni-bamberg.de/fileadmin/psi/30-teaching/lehre-poster/2023-01-23-Poster-Rubric.jpg
+https://www.uni-bamberg.de/psi/teaching/psi-teaching-posters/
 https://www.dmm.bwl.uni-muenchen.de/download/info/dmm_formalia_2022_de.docx
 -->
 
