@@ -13,6 +13,7 @@ permalink: /
 ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
 ![Language](https://img.shields.io/badge/Language-English-blue)
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(4.98%20/%205)-yellow)](https://digital-work-lab.github.io/theses/docs/feedback.html)
+![Completion](https://img.shields.io/badge/Theses%20supervised-31-green)]
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 [![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/theses.svg?style=social&label=Star)](https://github.com/digital-work-lab/theses/stargazers)
 
