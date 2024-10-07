@@ -16,6 +16,7 @@ permalink: /
 ![Completion](https://img.shields.io/badge/Theses%20supervised-31-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 [![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/theses.svg?style=social&label=Star)](https://github.com/digital-work-lab/theses/stargazers)
+[![Watch](https://img.shields.io/github/watchers/digital-work-lab/open-source-project?style=social)](https://github.com/digital-work-lab/open-source-project/subscription)
 
 Welcome!
 This page provides an overview and resources for writing a thesis in the area of [digital work](https://www.uni-bamberg.de/digital-work/){: target="_blank"}.
@@ -62,6 +63,10 @@ To start the process, reach out via e-mail and schedule a meeting to discuss top
 {: .text-center}
 
 To prepare the next step, it is recommended to start developing an [exposé](docs/expose.html).
+
+- If you would like to receive notifications when we update the thesis resources, including the process or evaluation criteria, you can [watch](https://github.com/digital-work-lab/open-source-project/subscription){: target="_blank"} this repository.
+- If this page is helpful for your work, please consider [starring](https://github.com/digital-work-lab/open-source-project){: target="_blank"} our repository.
+- If you have any suggestions on how to improve it, please open an [issue](https://github.com/digital-work-lab/theses/issues/new){: target="_blank"} or pull request after suggesting changes (click on 'Help improve this page' at the bottom of the page you would like to change).
 
 ## 2. Formal admission
 
