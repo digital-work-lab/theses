@@ -10,6 +10,8 @@ permalink: /
 
 <br>
 
+![Level](https://img.shields.io/badge/Level-Bachelor%20|%20Master-blue)
+![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM%20|%20ISSS%20|%20CitH%20|%20Management%20etc.-blue)<br>
 ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
 ![Language](https://img.shields.io/badge/Language-English-blue)<br>
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(4.98%20/%205)-yellow)](https://digital-work-lab.github.io/theses/docs/feedback.html)
