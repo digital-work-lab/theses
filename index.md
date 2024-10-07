@@ -84,8 +84,8 @@ You and thesis advisor schedule a meeting to determine the topic and **sign the 
 If the appointment is online, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
 It is important that we receive **two paper versions with original signatures**:
 
-- 1 original with signature of the professor and you **for the student**.
-- 1 original with signature of the professor and you **for archiving at the chair** .
+- 1 original with two signatures (student and supervisor) **for the student**.
+- 1 original with two signatures (student and supervisor) **for archiving at the chair** .
 
 ## 3. Thesis writing and feedback sessions
 
@@ -106,7 +106,7 @@ The following resources may be helpful:
 - The [guideline for the use of digital tools](docs/digital_tools.html)
 - Note: ethics statements cannot be issued for theses, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
 
-It is good practice to write the thesis in a Git-versioned repository, to add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
+It is good practice to write the thesis in a Git-versioned repository, add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
 
 {: .info }
 Remember to create **regular backups** of your work, e.g., by creating Git versions and pushing them to a remote repository, and/or copying files to a USB stick.
@@ -120,7 +120,7 @@ To receive feedback on the written document, please
 
 - Share it 1-2 days before the meeting
 - Indicate which sections should be read
-- Use a file-format suitable for adding comments (pdf or doc/x)
+- Use a file-format suitable for adding comments (PDF or doc/x)
 - Use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
 
 We expect you to communicate on an equal level:
@@ -148,9 +148,11 @@ The digital thesis can be a CD-ROM or USB stick. It contains the thesis as a PDF
 
 ## 6. Grading and feedback session
 
-The thesis advisor (professor) grades the thesis based on the predefined [criteria](docs/evaluation.html). Grades are entered by the examination office. You can check the grade via FlexNow.
+The thesis advisor (professor) grades the thesis based on the predefined [criteria](docs/evaluation.html). 
+The examination office enters the grades.
+You can check the grade via FlexNow.
 
-Afterward we provide feedback on the thesis and explain the grading.
+Afterward, we provide feedback on the thesis and explain the grading.
 A short summary is stored on our [feedback page](docs/feedback.html) if you agree.
 
 {: .text-center}
