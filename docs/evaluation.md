@@ -11,7 +11,7 @@ nav_order: 6
 Bachelor's and Master's theses are evaluated according to the same criteria.
 Once the **formal requirements** are met, the **main criteria** related to the process, the contribution, and the discussion are used to grade a thesis.
 
-A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evaluation.md) is available for this document.
+A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evaluation.md){: target="_blank"} is available for this document.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -83,7 +83,7 @@ A presentation is required for Master's theses. A presentation takes 15-20 minut
 - Presentation style and slides should be appropriate, i.e., using academic terminology, displaying a clear structure, connecting with the audience, taking approx. 2-3 minutes per slide, using short bullet-point summaries instead of longer paragraphs, including illustrations rather than animations
 - Questions should be handled constructively, demonstrating in-depth knowledge of the thesis, and familiarity with the broader topic area 
 
-In line with the applicable regulations, the presentation receives a weight of 33% for students of Information Systems. For students from other departments and degree programs (such as [IBWL](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/masterstudiengaenge/internationale-betriebswirtschaftslehre/)), the presentation may not be graded.
+In line with the applicable regulations, the presentation receives a weight of 33% for students of Information Systems. For students from other departments and degree programs (such as [IBWL](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/masterstudiengaenge/internationale-betriebswirtschaftslehre/){: target="_blank"}), the presentation may not be graded.
 
 <!-- 
 https://www.uni-bamberg.de/psi/teaching/psi-teaching-posters/
