@@ -25,7 +25,7 @@ A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evalu
 Design-oriented, analytical, and quantitative theses are typically shorter than qualitative and literature-based ones.
 For a Master's thesis, a presentation is required, and a more substantial contribution is expected in line with the higher number of ECTS credits earned.
 - Written in proper academic English, with a clear structure and line of argument
-- Follows [citation practices](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html#citations-and-reference-sections), using [APA format](https://apastyle.apa.org/style-grammar-guidelines/references/examples){: target="_blank"}, and refers primarily to peer-reviewed academic papers
+- Follows [citation practices](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html#citations-and-reference-sections){: target="_blank"}, using [APA format](https://apastyle.apa.org/style-grammar-guidelines/references/examples){: target="_blank"}, and refers primarily to peer-reviewed academic papers
 - Includes a title page, table-of-contents, abstract, common sections (e.g., IMRAD), a reference section, and appendices if applicable (a list of figures or tables is not required)
 - Makes appropriate use of tables and figures, citing each table or figure in the text
 - Provides clear definitions for key terms
