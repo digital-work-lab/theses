@@ -25,7 +25,7 @@ Completed theses:
 - 013 **Moritz van den Hövel**: The state of artificial intelligence in personal information management – A scoping review (Bachelor's thesis)
 - 012 **Luca Ossendorf**: Design of a machine-learning classifier for research papers: Identifying literature reviews (Bachelor's thesis)
 - 011 **Ivan Shevlyakov**: Techno-stressors in work and non-work contexts: A structured literature review  (Bachelor's thesis)
-- 009 **Katharina Maria Ernst**: Towards more efficient literature searches: Design of an open source query translator (Bachelor's thesis, [link](https://github.com/CoLRev-Environment/search-query))
+- 009 **Katharina Maria Ernst**: Towards more efficient literature searches: Design of an open source query translator (Bachelor's thesis, [link](https://github.com/CoLRev-Environment/search-query){: target="_blank"})
 - 008 **Hisham Merdan**: Towards  more effective backward searches: A novel machine-learning-based approach (Bachlelor's thesis)
 - 007 **Nizar Salem**: Design and evaluation of machine learning classifiers to support backward citation searches (Bachelor's thesis)
 - 006 **Albert Borchardt**: Automated literature pre-screening in systematic reviews: Design and evaluation of machine learning classifiers (Bachelor's thesis)

@@ -11,7 +11,7 @@ nav_order: 6
 Bachelor's and Master's theses are evaluated according to the same criteria.
 Once the **formal requirements** are met, the **main criteria** related to the process, the contribution, and the discussion are used to grade a thesis.
 
-A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evaluation.md) is available for this document.
+A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evaluation.md){: target="_blank"} is available for this document.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -25,7 +25,7 @@ A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evalu
 Design-oriented, analytical, and quantitative theses are typically shorter than qualitative and literature-based ones.
 For a Master's thesis, a presentation is required, and a more substantial contribution is expected in line with the higher number of ECTS credits earned.
 - Written in proper academic English, with a clear structure and line of argument
-- Follows [citation practices](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html#citations-and-reference-sections), using [APA format](https://apastyle.apa.org/style-grammar-guidelines/references/examples){: target="_blank"}, and refers primarily to peer-reviewed academic papers
+- Follows [citation practices](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html#citations-and-reference-sections){: target="_blank"}, using [APA format](https://apastyle.apa.org/style-grammar-guidelines/references/examples){: target="_blank"}, and refers primarily to peer-reviewed academic papers
 - Includes a title page, table-of-contents, abstract, common sections (e.g., IMRAD), a reference section, and appendices if applicable (a list of figures or tables is not required)
 - Makes appropriate use of tables and figures, citing each table or figure in the text
 - Provides clear definitions for key terms
@@ -83,7 +83,7 @@ A presentation is required for Master's theses. A presentation takes 15-20 minut
 - Presentation style and slides should be appropriate, i.e., using academic terminology, displaying a clear structure, connecting with the audience, taking approx. 2-3 minutes per slide, using short bullet-point summaries instead of longer paragraphs, including illustrations rather than animations
 - Questions should be handled constructively, demonstrating in-depth knowledge of the thesis, and familiarity with the broader topic area 
 
-In line with the applicable regulations, the presentation receives a weight of 33% for students of Information Systems. For students from other departments and degree programs (such as [IBWL](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/masterstudiengaenge/internationale-betriebswirtschaftslehre/)), the presentation may not be graded.
+In line with the applicable regulations, the presentation receives a weight of 33% for students of Information Systems. For students from other departments and degree programs (such as [IBWL](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/masterstudiengaenge/internationale-betriebswirtschaftslehre/){: target="_blank"}), the presentation may not be graded.
 
 <!-- 
 https://www.uni-bamberg.de/psi/teaching/psi-teaching-posters/
