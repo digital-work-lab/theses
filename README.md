@@ -1,9 +1,13 @@
-# Theses
+<p align="center">
+    <img alt="Theses Logo" src="https://raw.githubusercontent.com/digital-work-lab/theses/main/assets/images/theses.png" width="600px">
+</p>
 
 ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 ![Documentation Status](https://img.shields.io/github/actions/workflow/status/digital-work-lab/theses/pages.yml?label=documentation)
 [![DOI](https://zenodo.org/badge/754505102.svg)](https://doi.org/10.5281/zenodo.13893017)
+
+# Theses
 
 Hosted on GitHub pages: [link](https://digital-work-lab.github.io/theses/).
 
