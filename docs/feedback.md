@@ -5,7 +5,16 @@ has_toc: true
 nav_order: 7
 ---
 
-# Feedback
+{: .info }
+> **Your Feedback Matters: Help Us Improve!**
+> 
+> We kindly invite you to participate in the upcoming course evaluation.
+> Your feedback is voluntary and anonymous.
+> There is no risk of disadvantage or negative consequences for you, regardless of the feedback you provide.
+> So please feel free to be open and honest in your responses.
+> Your participation helps us [improve the quality of our courses](https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html){: target="_blank"} (♻️), and we highly value your opinions.
+> 
+> Thank you for your time and honest feedback!
 
 Feedback is important for students and for us as thesis advisors.
 As a student, you may write another thesis or seminar papers. To develop your skills, our goal is to **explain the grading** transparently, and to help you understand which parts of your work could be improved an which ones are adequate or excellent.
