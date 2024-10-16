@@ -140,7 +140,7 @@ Before submitting the thesis, we encourage students to consult the [pre-submissi
 
 ## 4. Submission of the thesis
 
-Two copies in hard bound form and one digital version each are to be submitted to the examination office.
+Two copies in hardbound form (Spiral-/Klebe-/Hardcoverbindung, keine Schnellhefter) and one digital version each are to be submitted to the examination office.
 
 - During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
