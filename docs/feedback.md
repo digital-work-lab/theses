@@ -5,6 +5,8 @@ has_toc: true
 nav_order: 7
 ---
 
+# Feedback
+
 {: .info }
 > **Your Feedback Matters: Help Us Improve!**
 > 
@@ -17,8 +19,8 @@ nav_order: 7
 > Thank you for your time and honest feedback!
 
 Feedback is important for students and for us as thesis advisors.
-As a student, you may write another thesis or seminar papers. To develop your skills, our goal is to **explain the grading** transparently, and to help you understand which parts of your work could be improved an which ones are adequate or excellent.
-For us, feedback sessions are essential to **improve how we advise students** who write a thesis, and it can be helpful for new candidates. 
+As a student, you may write another thesis or seminar paper. To develop your skills, our goal is to **explain the grading** transparently and to help you understand which parts of your work could be improved and which ones are adequate or excellent.
+For us, feedback sessions are essential to **improve how we advise students** who write a thesis, and they can be helpful for new candidates. 
 
 We actively encourage students to participate in feedback sessions. In the process, we also ask students whether they want to provide feedback, whether we can publish it, and if so, whether it should be published anonymously.
 
@@ -33,7 +35,7 @@ We actively encourage students to participate in feedback sessions. In the proce
 - Things that should be improved
 - Overall experience: summary and score (x/5 - higher scores are better)
 
-Optional comment afterwards: Thesis advisor comment: We improved XY
+Optional comment afterward: Thesis advisor comment: We improved XY
 -->
 ## 35.010
 
@@ -57,7 +59,7 @@ Besonders hilfreich war die umfangreiche Literatur, die sowohl aufsteigende als 
 
 Insgesamt war es eine Freude, meine Abschlussarbeit am Lehrstuhl Digital Work zu verfassen. Die Unterstützung und die Ressourcen, die mir zur Verfügung gestellt wurden, haben meine akademische Erfahrung bereichert und meine Fähigkeiten weiterentwickelt. Ich bin dankbar für die Gelegenheit, unter der Anleitung von Prof. Dr. Wagner zu arbeiten und freue mich darauf, das Gelernte in meiner zukünftigen akademischen und beruflichen Laufbahn anzuwenden.
 
-Bewertung : 4.9/5
+Bewertung: 4.9/5
 
 ## 35.006
 
