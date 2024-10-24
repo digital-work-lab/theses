@@ -107,8 +107,9 @@ The following resources may be helpful:
 
 - The [evaluation criteria](docs/evaluation.html)
 - The thesis template for [Markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}) <!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
-- The [literature review section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.10.literature-review.html)
-- The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html)
+- The [literature review section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.10.literature-review.html){: target="_blank"}
+- The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html){: target="_blank"}
+- The [Bamberg Center for Empirical Studies (BACES)](https://www.uni-bamberg.de/baces/){: target="_blank"} offers free consultation related to data management and statistical analyses
 - The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
 - The [guideline for the use of digital tools](docs/digital_tools.html)
 - Note: ethics statements cannot be issued for theses, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
