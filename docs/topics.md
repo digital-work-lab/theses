@@ -8,7 +8,7 @@ nav_order: 2
 # Open topics
 {: .no_toc }
 
-The following topics are currently open for Bachelor's and Master's theses.
+The following topics are currently open for Bachelor's and Master's thesis.
 
 ## Overview
 {: .no_toc .text-delta }
