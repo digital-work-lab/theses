@@ -6,7 +6,7 @@ description: "Welcome"
 permalink: /
 ---
 
-# Bachelor's and Master's Theses
+# Bachelor's and Master's Thesis
 
 <br>
 
@@ -31,7 +31,7 @@ flowchart LR
 
     subgraph Process[" "]
         Feedback -. consult .-> Init
-        Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.22.improvements.html'>improvement</a>,<br><a href='docs/completed.html'>completed theses</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
+        Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.22.improvements.html'>improvement</a>,<br><a href='docs/completed.html'>completed thesis</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
         OpenTopics(["<a href='docs/topics.html'>Open topics</a>"]) -.- |consult| Init
         Init["<a href='#1-initial-meetings-to-discuss-the-topic'>Initial meeting</a>"] ==> |"<a href='docs/expose.html'>Write an exposé</a>"| Admission["<a href='#2-formal-admission'>Formal admission</a>"]
         Admission ==> Writing["<a href='#3-thesis-writing-and-feedback-sessions'>Thesis writing and feedback sessions</a>"]
@@ -96,10 +96,10 @@ It is important that we receive **two paper versions with original signatures**:
 
 ## 3. Thesis writing and feedback sessions
 
-Bachelor's theses are usually due in 4 months, Master's theses in 6 months.
+Bachelor's thesis are usually due in 4 months, Master's thesis in 6 months.
 The official requirements can be found in the regulations linked below.
 It is not necessary to submit the thesis in the semester in which it was started (unless you would take longer than the maximum duration of study).
-For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's theses.
+For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's thesis.
 
 You are expected to complete the exposé before writing the thesis.
 A thesis must be written in English.
@@ -112,7 +112,7 @@ The following resources may be helpful:
 - The [Bamberg Center for Empirical Studies (BACES)](https://www.uni-bamberg.de/baces/){: target="_blank"} offers free consultation related to data management and statistical analyses
 - The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
 - The [guideline for the use of digital tools](docs/digital_tools.html)
-- Note: ethics statements cannot be issued for theses, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
+- Note: ethics statements cannot be issued for thesis, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
 
 It is good practice to write the thesis in a Git-versioned repository, add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
 
@@ -141,17 +141,20 @@ Before submitting the thesis, we encourage students to consult the [pre-submissi
 
 ## 4. Submission of the thesis
 
-Two copies in hardbound form (Spiral-/Klebe-/Hardcoverbindung, keine Schnellhefter) and one digital version each are to be submitted to the examination office.
+Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter) including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
+
+**Attention**: You have to put the "Declaration of consent for the inspection of an unpublished thesis" ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") lose in the thesis.
 
 - During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
 - Dispatch by mail (the date of the postmark counts) Otto-Friedrich-University, Examination Office - 96045 Bamberg
 
-The digital thesis can be a CD-ROM or USB stick. It contains the thesis as a PDF document, and possibly a digital appendix.
+The digital thesis has to be a CD-ROM. It contains the thesis as a PDF document, and possibly a digital appendix.
 
 ## 5. Thesis presentation
 
-- You present their master thesis. Evaluation criteria are stated [here](docs/evaluation.html#presentation).
+- You present your master thesis.
+- Evaluation criteria are stated [here](docs/evaluation.html#presentation).
 - You can suggest a date for the presentation (before or after submitting the thesis) and the thesis advisor selects a second examiner.
 
 ## 6. Grading and feedback session
