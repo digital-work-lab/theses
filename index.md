@@ -77,10 +77,10 @@ You can use [this e-mail template](docs/admission_mail.html).
 
 The examination office **verifies** the admission requirements.
 
-- If admission requirements are met, the topic confirmation is created with text fields so that the topic of the thesis and the date of topic issue can be entered.
+- If admission requirements are met, the topic confirmation is created with text fields so that the topic of the thesis and the date of the topic issue can be entered.
 - If the admission requirements are not met, you are notified that the application has been rejected.
 
-The examination office may ask you to request an **approval by the examination committee** (Prüfungsausschuss) to write a thesis in the area of *Digital Work*.
+The examination office may ask you to request an **approval from the examination committee** (Prüfungsausschuss) to write a thesis in the area of *Digital Work*.
 This is the case when older regulations (Studien- und Fachprüfungsordnung) apply (i.e., when master studies were started before 2018), or for students of Informatics and Applied Informatics (e.g., International Software Systems Science).
 
 You **receive the topic confirmation** as a (protected) Word document (.docx) by e-mail together with processing/submission instructions as well as inspection statement.
@@ -98,7 +98,7 @@ It is important that we receive **two paper versions with original signatures**:
 
 Bachelor's thesis are usually due in 4 months, Master's thesis in 6 months.
 The official requirements can be found in the regulations linked below.
-It is not necessary to submit the thesis in the semester in which it was started (unless you would take longer than the maximum duration of study).
+It is not necessary to submit the thesis in the semester in which it was started (unless it would take longer than the maximum duration of study).
 For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's thesis.
 
 You are expected to complete the exposé before writing the thesis.
@@ -128,28 +128,29 @@ To receive feedback on the written document, please
 
 - Share it 1-2 days before the meeting
 - Indicate which sections should be read
-- Use a file-format suitable for adding comments (PDF or doc/x)
+- Use a file format suitable for adding comments (PDF or doc/x)
 - Use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
 
 We expect you to communicate on an equal level:
 
 - In e-mails, write `"Hallo Herr Wagner"` (instead of `"Sehr geehrter Herr Prof. Dr. Wagner"`).
-- If you do not agree with a particular suggestion, challenge it and explain why you would do it differently.
+- If you disagree with a particular suggestion, challenge it and explain why you would do it differently.
 - Instead of apologizing, say [thank you](https://www.popsugar.com/smart-living/why-you-should-say-thank-you-instead-of-sorry-47250332){: target="_blank"}.
 
-Before submitting the thesis, we encourage students to consult the [pre-submission checklist](docs/pre_submission.html).
+We encourage students to consult the [pre-submission checklist](docs/pre_submission.html) before submitting the thesis.
 
 ## 4. Submission of the thesis
 
 Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter) including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
 
-**Attention**: You have to put the "Declaration of consent for the inspection of an unpublished thesis" ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") lose in the thesis.
+{: .warning }
+You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document together with the thesis.
 
 - During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
 - Dispatch by mail (the date of the postmark counts) Otto-Friedrich-University, Examination Office - 96045 Bamberg
 
-The digital thesis has to be a CD-ROM. It contains the thesis as a PDF document, and possibly a digital appendix.
+The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
 
 ## 5. Thesis presentation
 
