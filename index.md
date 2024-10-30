@@ -6,7 +6,7 @@ description: "Welcome"
 permalink: /
 ---
 
-# Bachelor's and Master's Thesis
+# Bachelor's and Master's Theses
 
 <br>
 
@@ -87,7 +87,7 @@ You **receive the topic confirmation** as a (protected) Word document (.docx) by
 The next step is to make an appointment with the thesis advisor to determine the topic and sign the topic confirmation.
 Please share the Word document with your thesis advisor shortly before the meeting.
 
-You and thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
+You and your thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
 If the appointment is online, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
 It is important that we receive **two paper versions with original signatures**:
 
@@ -96,10 +96,10 @@ It is important that we receive **two paper versions with original signatures**:
 
 ## 3. Thesis writing and feedback sessions
 
-Bachelor's thesis are usually due in 4 months, Master's thesis in 6 months.
+Bachelor's theses are usually due in 4 months, Master's theses in 6 months.
 The official requirements can be found in the regulations linked below.
 It is not necessary to submit the thesis in the semester in which it was started (unless it would take longer than the maximum duration of study).
-For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's thesis.
+For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's theses.
 
 You are expected to complete the exposé before writing the thesis.
 A thesis must be written in English.
@@ -112,7 +112,7 @@ The following resources may be helpful:
 - The [Bamberg Center for Empirical Studies (BACES)](https://www.uni-bamberg.de/baces/){: target="_blank"} offers free consultation related to data management and statistical analyses
 - The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
 - The [guideline for the use of digital tools](docs/digital_tools.html)
-- Note: ethics statements cannot be issued for thesis, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
+- Note: ethics statements cannot be issued for a thesis, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
 
 It is good practice to write the thesis in a Git-versioned repository, add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
 
@@ -154,7 +154,7 @@ The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF 
 
 ## 5. Thesis presentation
 
-- You present your master thesis.
+- You present your Master's thesis.
 - Evaluation criteria are stated [here](docs/evaluation.html#presentation).
 - You can suggest a date for the presentation (before or after submitting the thesis) and the thesis advisor selects a second examiner.
 
@@ -165,7 +165,7 @@ The examination office enters the grades.
 You can check the grade via FlexNow.
 
 Afterward, we provide feedback on the thesis and explain the grading.
-A short summary is stored on our [feedback page](docs/feedback.html) if you agree.
+A summary is stored on our [feedback page](docs/feedback.html) if you agree.
 
 {: .text-center}
 [Schedule feedback session](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
