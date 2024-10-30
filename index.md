@@ -31,7 +31,7 @@ flowchart LR
 
     subgraph Process[" "]
         Feedback -. consult .-> Init
-        Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.22.improvements.html'>improvement</a>,<br><a href='docs/completed.html'>completed thesis</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
+        Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.22.improvements.html'>improvement</a>,<br><a href='docs/completed.html'>completed theses</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
         OpenTopics(["<a href='docs/topics.html'>Open topics</a>"]) -.- |consult| Init
         Init["<a href='#1-initial-meetings-to-discuss-the-topic'>Initial meeting</a>"] ==> |"<a href='docs/expose.html'>Write an exposé</a>"| Admission["<a href='#2-formal-admission'>Formal admission</a>"]
         Admission ==> Writing["<a href='#3-thesis-writing-and-feedback-sessions'>Thesis writing and feedback sessions</a>"]
