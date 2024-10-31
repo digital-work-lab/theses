@@ -569,3 +569,15 @@ Einsichtnahme
 Einverständniserklärung
 einer
 unveröffentlichten
+NetworkX
+SciPy
+Scopus
+bibliometric
+underexplored
+bibliometric
+Vallejos
+Shen
+Garud
+Raghuram
+Tuertscher
+cocitation
