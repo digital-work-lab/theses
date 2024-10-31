@@ -92,4 +92,4 @@ The following is an example Timeline. The schedule can be structured according t
 > Here is a structure example from a completed thesis.
 > You can use this template to structure any of the chapters of your thesis. This will help you with your writing process. 
 > In addition it is a great document to share with your advisor and talk it through before writing a whole text.
-> Here is the [Structure Example](docs/Introduction_Structure - Template.pdf).
+> Here is the [Structure Example](Introduction_Structure - Template.pdf).
