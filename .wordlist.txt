@@ -564,3 +564,8 @@ img
 io
 svg
 yml
+Spiralbindung
+Einsichtnahme
+Einverständniserklärung
+einer
+unveröffentlichten
