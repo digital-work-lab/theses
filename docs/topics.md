@@ -23,7 +23,7 @@ The following topics are currently open for Bachelor's and Master's theses.
 #data-science
 {: .label .label-green }
 #programming
-{: .label .label-yellow }
+{: .label .label-blue }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
@@ -50,6 +50,8 @@ The following topics are currently open for Bachelor's and Master's theses.
 {: .label .label-yellow }
 #data-science
 {: .label .label-green }
+#programming
+{: .label .label-blue }
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
