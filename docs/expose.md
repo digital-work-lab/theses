@@ -69,14 +69,15 @@ A high-quality Exposé typically includes the following sections:
 - **Show depth of knowledge**: Your literature review should demonstrate a thorough understanding of the current state of research on your topic.
 - **Detail your methods**: Be specific about your research design and methods. Explain why these methods are the most suitable for your study.
 - **Plan realistically**: Your timeline should be realistic and show that you have carefully considered the time required for each stage of your research.
-- **Manage risks**: Anticipate risks and response plans, e.g., how to address low survey response rates, when to create a backup.
+- **Manage risks**: Anticipate risks and response plans, e.g., how to address low survey response rates, and when to create a backup.
 - **Proofread**: Ensure that your Exposé is free from grammatical and typographical errors. A well-written Exposé reflects your attention to detail and commitment to your research.
 
 **Note**: You can use the [template](https://digital-work-lab.github.io/theses/#3-thesis-writing-and-feedback-sessions) provided, which outlines the expected structure and format of your Exposé. Typically, an Exposé is expected to be 5-10 pages in length.
 
 ## Example Structure
+
 {: .info }
-Here is a structure example from a completed thesis.
-You can use this template to structure any of your chapters of your thesis. This will help you with your writing process. 
-In addition it is a great document to share with your advisor and talk it through before writing a whole text.
-Here is the [Structure Example](docs/Introduction_Structure - Template.pdf).
+> Here is a structure example from a completed thesis.
+> You can use this template to structure any of the chapters of your thesis. This will help you with your writing process. 
+> In addition it is a great document to share with your advisor and talk it through before writing a whole text.
+> Here is the [Structure Example](docs/Introduction_Structure - Template.pdf).
