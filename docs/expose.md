@@ -84,7 +84,7 @@ The following is an example Timeline. The schedule can be structured according t
 - **Manage risks**: Anticipate risks and response plans, e.g., how to address low survey response rates, and when to create a backup.
 - **Proofread**: Ensure that your Exposé is free from grammatical and typographical errors. A well-written Exposé reflects your attention to detail and commitment to your research.
 
-**Note**: You can use the [template](https://digital-work-lab.github.io/theses/#3-thesis-writing-and-feedback-sessions) provided, which outlines the expected structure and format of your Exposé. Typically, an Exposé is expected to be 5-10 pages in length.
+**Note**: You can use the [template](https://digital-work-lab.github.io/theses/#3-thesis-writing-and-feedback-sessions){: target="_blank"} provided, which outlines the expected structure and format of your Exposé. Typically, an Exposé is expected to be 5-10 pages in length.
 
 ## Example Structure
 
