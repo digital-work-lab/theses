@@ -61,6 +61,18 @@ A high-quality Exposé typically includes the following sections:
 7. **References**
     - List of scholarly sources cited in your Exposé
 
+The following is an example Timeline. The schedule can be structured according to weeks or months.
+
+| Time period 		          | Phase 		                       | Tasks 		                                                                           |
+|---------------------------|------------------------------------|---------------------------------------------------------------------------------------|
+| November 2016 	          | Literature review 		           | Review of current literature, discussion of the thesis exposé 			 		         |
+| December 2016 		       | Development of theoretical model   | Development of a theoretical research model based on the review of the literature 	   |
+| January – February 2017   | Implementation phase 		        | Implement the prototype 			 		                                                |
+| February 2017 		       | Evaluation phase 		              | Evaluate the prototype against the manually coded dataset 			 		               |
+| March 2017 		          | Implementation refinement 		     | Improve the prototype based on the results of the evaluation 			 		            |
+| April 2017 		          | Analysis 		                    | Application of the prototype to the complete dataset 			 		                  |
+| May 2017 		             | Write-up 		                    | Write-up and final feedback 			 		                                             |
+
 ## Recommendations
 
 - **Solicit Feedback**: Actively seek feedback on open questions from your advisor. Prepare and think through alternative approaches to your research. Use bullet points for parts that are likely to change or are up for discussion.

@@ -8,10 +8,6 @@ nav_order: 2
 # Open topics
 {: .no_toc }
 
-{: .info}
-**There are not open topics at the moment. New topics will be announced shortly.**
-
-<!--
 The following topics are currently open for Bachelor's and Master's theses.
 
 ## Overview
@@ -19,6 +15,66 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 - TOC
 {:toc}
+
+## Mapping the Discourse on the Future of Work: A Network Analysis of Researchers and Their Collaborations
+{: .d-inline-block }
+#literature-review
+{: .label .label-yellow }
+#data-science
+{: .label .label-green }
+#programming
+{: .label .label-blue }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary**: This thesis aims to provide a detailed understanding of the evolving discourse on the future of work by mapping the network of key researchers and their collaborative structures. The focus will be on identifying influential contributors, recurring themes, and emerging trends within this body of literature. By examining co-citation networks and collaboration patterns, the thesis will uncover how researchers are interconnected, which studies are most frequently referenced, and what relationships exist within this intellectual landscape. Such analysis can inform a more comprehensive understanding of the future of work, helping to identify distinct research clusters and potential areas for further investigation.
+
+**Methods**: The thesis will utilize bibliometric methods and network analysis. Co-citation analysis and author co-authorship networks will be generated from relevant databases (e.g., Web of Science, Scopus) using Python libraries suited for network analysis (e.g., NetworkX, SciPy). Both quantitative and qualitative analyses will be employed to interpret the resulting maps and uncover underlying research themes.
+
+**Expected outcomes**: The thesis will result in a visual and interpretive map of the discourse on the future of work, highlighting core topics, influential authors, and collaborative networks. Findings will include a typology of the main research clusters and an outline of their key contributions to the field. Recommendations for fostering collaboration and identifying underexplored areas within the future of work discourse will also be provided.
+
+**Requirements**: Students should have basic experience with Python and an interest in bibliometric and network analysis. Familiarity with bibliometric databases and prior experience in data analysis is an advantage.
+
+**References**
+
+<div class="references">
+  <p>Marsh, E., Vallejos, E. P., & Spence, A. (2022). The digital workplace and its dark side: An integrative review. <em>Computers in Human Behavior</em>, 128, 107118.</p>
+  <p>Mitchell, R., Shen, Y., & Snell, L. (2022). The future of work: a systematic literature review. <em>Accounting & Finance</em>, 62(2), 2667-2686.</p>
+  <p>Raghuram, S., Tuertscher, P., & Garud, R. (2010). Research note—Mapping the field of virtual work: A cocitation analysis. <em>Information Systems Research</em>, 21(4), 983-999.</p>
+  <p>Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare for the future: Writing a literature review. <em>MIS Quarterly</em>, xiii-xxiii.</p>
+</div>
+
+## \#awesome: A Review and Clustering Analysis of Awesome Lists on GitHub
+{: .d-inline-block }
+#literature-review
+{: .label .label-yellow }
+#data-science
+{: .label .label-green }
+#programming
+{: .label .label-blue }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary**: This thesis focuses on the increasingly popular “awesome lists” on GitHub, which represent an informal but useful method of knowledge collection and synthesis. The goal of the thesis is to use the colrev package to automatically retrieve relevant repositories from GitHub, and subsequently conduct a clustering analysis to distinguish between different types of awesome lists. Categories of awesome lists might include those focusing on datasets, academic publications, or non-academic use cases. The thesis should provide an overview of the landscape of awesome lists, identify prominent examples, and derive best practice recommendations for designing these resources. Furthermore, the thesis will suggest potential ways academia could leverage awesome lists for literature reviews and contribute to their development.
+
+**Methods**: The thesis will employ the colrev package for retrieving and processing GitHub repositories and apply clustering techniques to categorize the awesome lists. Both qualitative and quantitative analyses will be used to identify interesting patterns across the lists. 
+
+**Expected outcomes**: The thesis will result in a comprehensive classification of awesome lists on GitHub, with detailed examples of exemplary lists. It will also provide recommendations on how best to design such lists for different audiences and use cases, including guidance for future academic involvement in these lists. Furthermore, the research will suggest how awesome lists can be applied in systematic literature reviews and knowledge synthesis in academic settings.
+
+**Requirements**: Students should have basic experience with GitHub and Python, particularly in data retrieval and analysis. Familiarity with clustering techniques or the colrev package is an advantage.
+
+**References**
+
+<div class="references">
+  <p>Sindresorhus (2023). Awesome Lists. Available at <a href="https://github.com/sindresorhus/awesome" target="_blank">https://github.com/sindresorhus/awesome</a>.</p>
+  <p>Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know about searching–clarified concepts, search advice, and an agenda to improve finding in academia. <em>Research Synthesis Methods</em>, 12(2), 136-147.</p>
+<p>Nakagawa, S., Dunn, A. G., Lagisz, M., Bannach-Brown, A., Grames, E. M., Sánchez-Tójar, A., ... & Haddaway, N. R. (2020). A new ecosystem for evidence synthesis. <em>Nature Ecology & Evolution</em>, 4(4), 498-501. <a href="https://doi.org/10.1038/s41559-020-1153-2" target="_blank">https://doi.org/10.1038/s41559-020-1153-2</a>.</p>
+</div>
+
+<!--
+
+{: .info}
+**There are not open topics at the moment. New topics will be announced shortly.**
 
 {: .call_for_theses }
 Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each of the others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.

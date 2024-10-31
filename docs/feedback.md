@@ -7,9 +7,20 @@ nav_order: 7
 
 # Feedback
 
+{: .info }
+> **Your Feedback Matters: Help Us Improve!**
+> 
+> We kindly invite you to participate in the upcoming course evaluation.
+> Your feedback is voluntary and anonymous.
+> There is no risk of disadvantage or negative consequences for you, regardless of the feedback you provide.
+> So please feel free to be open and honest in your responses.
+> Your participation helps us [improve the quality of our courses](https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html){: target="_blank"} (♻️), and we highly value your opinions.
+> 
+> Thank you for your time and honest feedback!
+
 Feedback is important for students and for us as thesis advisors.
-As a student, you may write another thesis or seminar papers. To develop your skills, our goal is to **explain the grading** transparently, and to help you understand which parts of your work could be improved an which ones are adequate or excellent.
-For us, feedback sessions are essential to **improve how we advise students** who write a thesis, and it can be helpful for new candidates. 
+As a student, you may write another thesis or seminar paper. To develop your skills, our goal is to **explain the grading** transparently and to help you understand which parts of your work could be improved and which ones are adequate or excellent.
+For us, feedback sessions are essential to **improve how we advise students** who write a thesis, and they can be helpful for new candidates. 
 
 We actively encourage students to participate in feedback sessions. In the process, we also ask students whether they want to provide feedback, whether we can publish it, and if so, whether it should be published anonymously.
 
@@ -24,8 +35,13 @@ We actively encourage students to participate in feedback sessions. In the proce
 - Things that should be improved
 - Overall experience: summary and score (x/5 - higher scores are better)
 
-Optional comment afterwards: Thesis advisor comment: We improved XY
+Optional comment afterward: Thesis advisor comment: We improved XY
 -->
+## 35.010
+
+Das Verfassen meiner Bachelorarbeit am Lehrstuhl Digital Work war sehr angenehm. Prof. Wagner hat mich von Anfang an, vom Prozess der Themenfindung bis hin zum tatsächlichen Schreiben der Arbeit, aktiv unterstützt und gut beraten. Betreuungstermine zu vereinbaren, war mithilfe des Tools Calendly sehr einfach und transparent. Durch das Tool wusste man immer, wann Prof. Wagner für Termine verfügbar war, und konnte so die eigenen Termine zeitlich gut vorausplanen, ohne wie üblich durch einen langwierigen E-Mail-Verkehr einen gemeinsamen Termin mit dem Professor finden zu müssen. Hervorzuheben ist auch, dass Herr Wagner in dringenden Fällen Termine angeboten hat, selbst wenn keine mehr in Calendly verfügbar waren. Zu den Terminen war Herr Wagner immer bestens mit dem aktuellen Stand der Arbeit vertraut und konnte hilfreiche Tipps und Anregungen geben (z. B. Papers, die für die Arbeit nützlich sein könnten). Auf meine Fragen wurde sehr verständlich und genau eingegangen, sodass ich immer genau wusste, was als Nächstes zu tun ist. Insgesamt konnte ich durch die Bachelorarbeit mein Wissen im Bereich generativer KI vertiefen und hatte auch Spaß am Erstellungsprozess der Arbeit (was ich vorher nicht für möglich gehalten hätte). Ich kann es somit jedem nur empfehlen, die Seminar- oder Abschlussarbeit bei Prof. Wagner zu schreiben.
+
+Bewertung: 5/5
 
 ## 35.009
 
@@ -43,7 +59,7 @@ Besonders hilfreich war die umfangreiche Literatur, die sowohl aufsteigende als 
 
 Insgesamt war es eine Freude, meine Abschlussarbeit am Lehrstuhl Digital Work zu verfassen. Die Unterstützung und die Ressourcen, die mir zur Verfügung gestellt wurden, haben meine akademische Erfahrung bereichert und meine Fähigkeiten weiterentwickelt. Ich bin dankbar für die Gelegenheit, unter der Anleitung von Prof. Dr. Wagner zu arbeiten und freue mich darauf, das Gelernte in meiner zukünftigen akademischen und beruflichen Laufbahn anzuwenden.
 
-Bewertung : 4.9/5
+Bewertung: 4.9/5
 
 ## 35.006
 

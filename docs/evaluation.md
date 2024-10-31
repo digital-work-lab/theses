@@ -11,7 +11,7 @@ nav_order: 6
 Bachelor's and Master's theses are evaluated according to the same criteria.
 Once the **formal requirements** are met, the **main criteria** related to the process, the contribution, and the discussion are used to grade a thesis.
 
-A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evaluation.md) is available for this document.
+A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evaluation.md){: target="_blank"} is available for this document.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -25,7 +25,7 @@ A [changelog](https://github.com/digital-work-lab/theses/commits/main/docs/evalu
 Design-oriented, analytical, and quantitative theses are typically shorter than qualitative and literature-based ones.
 For a Master's thesis, a presentation is required, and a more substantial contribution is expected in line with the higher number of ECTS credits earned.
 - Written in proper academic English, with a clear structure and line of argument
-- Follows [citation practices](../../20-research/20_processes/20.29.writing.html), using [APA format](https://apastyle.apa.org/style-grammar-guidelines/references/examples){: target="_blank"}, and refers primarily to peer-reviewed academic papers
+- Follows [citation practices](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html#citations-and-reference-sections){: target="_blank"}, using [APA format](https://apastyle.apa.org/style-grammar-guidelines/references/examples){: target="_blank"}, and refers primarily to peer-reviewed academic papers
 - Includes a title page, table-of-contents, abstract, common sections (e.g., IMRAD), a reference section, and appendices if applicable (a list of figures or tables is not required)
 - Makes appropriate use of tables and figures, citing each table or figure in the text
 - Provides clear definitions for key terms
@@ -75,7 +75,7 @@ The contribution should be **discussed** with reference to
 
 ## Presentation
 
-A presentation is required for Master's theses. A presentation takes 15-20 minutes with 10 minutes of discussion. It receives a weight of 33% and is evaluated based on the following criteria:
+A presentation is required for Master's theses. A presentation takes 15-20 minutes with 10 minutes of discussion. It is evaluated based on the following criteria:
 
 - The introductory section should convey why the topic is interesting, and it should be easy to follow by a general audience
 - The main section should demonstrate the objective, method, main findings, and contribution, giving experts the possibility to critically assess the different parts
@@ -83,8 +83,10 @@ A presentation is required for Master's theses. A presentation takes 15-20 minut
 - Presentation style and slides should be appropriate, i.e., using academic terminology, displaying a clear structure, connecting with the audience, taking approx. 2-3 minutes per slide, using short bullet-point summaries instead of longer paragraphs, including illustrations rather than animations
 - Questions should be handled constructively, demonstrating in-depth knowledge of the thesis, and familiarity with the broader topic area 
 
+In line with the applicable regulations, the presentation receives a weight of 33% for students of Information Systems. For students from other departments and degree programs (such as [IBWL](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/masterstudiengaenge/internationale-betriebswirtschaftslehre/){: target="_blank"}), the presentation may not be graded.
+
 <!-- 
-https://www.uni-bamberg.de/fileadmin/psi/30-teaching/lehre-poster/2023-01-23-Poster-Rubric.jpg
+https://www.uni-bamberg.de/psi/teaching/psi-teaching-posters/
 https://www.dmm.bwl.uni-muenchen.de/download/info/dmm_formalia_2022_de.docx
 -->
 
@@ -101,6 +103,7 @@ https://www.dmm.bwl.uni-muenchen.de/download/info/dmm_formalia_2022_de.docx
   <p>Lange, D., &amp; Pfarrer, M. D. (2017). Editors’ comments: Sense and structure—The core building blocks of an AMR article. <em>Academy of Management Review</em>, 42(3), 407-416. <a href="https://journals.aom.org/doi/full/10.5465/amr.2016.0225" target="_blank">link</a></p>
   <p>Leidner, D. E. (2020). What's in a Contribution?. <em>Journal of the Association for Information Systems</em>, 21(1), 2. <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1928&amp;context=jais" target="_blank">link</a></p>
   <p>O’Brien, B. C., Harris, I. B., Beckman, T. J., Reed, D. A., &amp; Cook, D. A. (2014). Standards for reporting qualitative research: a synthesis of recommendations. <em>Academic Medicine</em>, 89(9), 1245-1251. <a href="https://journals.lww.com/academicmedicine/fulltext/2014/09000/standards_for_reporting_qualitative_researcha.21.aspx" target="_blank">link</a></p>
+  <p>Okoli, C. (2015). A guide to conducting a standalone systematic literature review. Communications of the Association for Information Systems, 37. <a href="https://aisel.aisnet.org/cais/vol37/iss1/43/">Link</a></p>
   <p>Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., ... &amp; Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. <em>International Journal of Surgery</em>, 88, 105906. <a href="https://www.sciencedirect.com/science/article/pii/S1743919121000406" target="_blank">link</a></p>
   <p>Paré, G., Trudel, M. C., Jaana, M., &amp; Kitsiou, S. (2015). Synthesizing information systems knowledge: A typology of literature reviews. <em>Information &amp; Management</em>, 52(2), 183-199. <a href="https://www.sciencedirect.com/science/article/pii/S0378720614001116" target="_blank">link</a></p>
   <p>Paré, G., Wagner, G., &amp; Prester, J. (2023). How to develop and frame impactful review articles: key recommendations. <em>Journal of Decision Systems</em>, 1-17. <a href="https://www.tandfonline.com/doi/pdf/10.1080/12460125.2023.2197701" target="_blank">link</a></p>
