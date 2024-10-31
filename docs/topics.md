@@ -16,6 +16,34 @@ The following topics are currently open for Bachelor's and Master's theses.
 - TOC
 {:toc}
 
+## Mapping the Discourse on the Future of Work: A Network Analysis of Researchers and Their Collaborations
+{: .d-inline-block }
+#literature-review
+{: .label .label-yellow }
+#data-science
+{: .label .label-green }
+#programming
+{: .label .label-yellow }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary**: This thesis aims to provide a detailed understanding of the evolving discourse on the future of work by mapping the network of key researchers and their collaborative structures. The focus will be on identifying influential contributors, recurring themes, and emerging trends within this body of literature. By examining co-citation networks and collaboration patterns, the thesis will uncover how researchers are interconnected, which studies are most frequently referenced, and what relationships exist within this intellectual landscape. Such analysis can inform a more comprehensive understanding of the future of work, helping to identify distinct research clusters and potential areas for further investigation.
+
+**Methods**: The thesis will utilize bibliometric methods and network analysis. Co-citation analysis and author co-authorship networks will be generated from relevant databases (e.g., Web of Science, Scopus) using Python libraries suited for network analysis (e.g., NetworkX, SciPy). Both quantitative and qualitative analyses will be employed to interpret the resulting maps and uncover underlying research themes.
+
+**Expected outcomes**: The thesis will result in a visual and interpretive map of the discourse on the future of work, highlighting core topics, influential authors, and collaborative networks. Findings will include a typology of the main research clusters and an outline of their key contributions to the field. Recommendations for fostering collaboration and identifying underexplored areas within the future of work discourse will also be provided.
+
+**Requirements**: Students should have basic experience with Python and an interest in bibliometric and network analysis. Familiarity with bibliometric databases and prior experience in data analysis is an advantage.
+
+**References**
+
+<div class="references">
+  <p>Marsh, E., Vallejos, E. P., & Spence, A. (2022). The digital workplace and its dark side: An integrative review. <em>Computers in Human Behavior</em>, 128, 107118.</p>
+  <p>Mitchell, R., Shen, Y., & Snell, L. (2022). The future of work: a systematic literature review. <em>Accounting & Finance</em>, 62(2), 2667-2686.</p>
+  <p>Raghuram, S., Tuertscher, P., & Garud, R. (2010). Research note—Mapping the field of virtual work: A cocitation analysis. <em>Information Systems Research</em>, 21(4), 983-999.</p>
+  <p>Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare for the future: Writing a literature review. <em>MIS Quarterly</em>, xiii-xxiii.</p>
+</div>
+
 ## \#awesome: A Review and Clustering Analysis of Awesome Lists on GitHub
 {: .d-inline-block }
 #literature-review
