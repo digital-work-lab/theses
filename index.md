@@ -144,7 +144,8 @@ We encourage students to consult the [pre-submission checklist](docs/pre_submiss
 Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter) including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
 
 {: .info }
-You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document together with the thesis.
+> - We provide CD-ROMs with paper covers free of charge—don’t spend 20€ at the copy shop! 😉
+> - You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document together with the thesis.
 
 - During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
