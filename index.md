@@ -52,7 +52,7 @@ flowchart LR
     style Process fill:white,stroke:#333,stroke-width:3px
 ```
 
-- A detailed overview of the administrative process is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.40.theses_process.html){: target="_blank"}.
+- A detailed overview of the administrative process is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.40.theses.html){: target="_blank"}.
 - A changelog for this document is available [here](https://github.com/digital-work-lab/theses/commits/main/index.md){: target="_blank"}.
 
 ## 1. Initial meetings to discuss the topic
