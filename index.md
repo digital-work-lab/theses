@@ -145,7 +145,8 @@ Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder 
 
 {: .info }
 > - We provide CD-ROMs with paper covers free of charge—don’t spend 20€ at the copy shop! 😉 You can use the CIP-Pool computers to write data onto a CD-ROM.
-> - You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document together with the thesis.
+> - You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document along with the thesis.
+>   If you plan to publish a paper based on your thesis, it may be advisable to withhold your consent.
 
 - During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
