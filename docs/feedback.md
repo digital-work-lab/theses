@@ -7,6 +7,12 @@ nav_order: 7
 
 # Feedback
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 {: .info }
 > **Your Feedback Matters: Help Us Improve!**
 > 
