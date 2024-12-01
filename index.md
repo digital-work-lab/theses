@@ -31,7 +31,7 @@ flowchart LR
 
     subgraph Process[" "]
         Feedback -. consult .-> Init
-        Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.22.improvements.html'>improvement</a>,<br><a href='docs/completed.html'>completed theses</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
+        Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://github.com/digital-work-lab/theses/commits/main/'>improvement</a>,<br><a href='docs/completed.html'>completed theses</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
         OpenTopics(["<a href='docs/topics.html'>Open topics</a>"]) -.- |consult| Init
         Init["<a href='#1-initial-meetings-to-discuss-the-topic'>Initial meeting</a>"] ==> |"<a href='docs/expose.html'>Write an exposé</a>"| Admission["<a href='#2-formal-admission'>Formal admission</a>"]
         Admission ==> Writing["<a href='#3-thesis-writing-and-feedback-sessions'>Thesis writing and feedback sessions</a>"]
@@ -144,7 +144,7 @@ We encourage students to consult the [pre-submission checklist](docs/pre_submiss
 Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter) including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
 
 {: .info }
-> - We provide CD-ROMs with paper covers free of charge—don’t spend 20€ at the copy shop! 😉 You can use the CIP-Pool computers to write data onto a CD-ROM.
+> - We provide CD-ROMs with paper covers free of charge—don’t spend 10€ at the copy shop! 😉 You can use the CIP-Pool computers to write data onto a CD-ROM.
 > - You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document along with the thesis.
 >   If you plan to publish a paper based on your thesis, it may be advisable to withhold your consent.
 
