@@ -6,6 +6,12 @@ description: "Welcome"
 permalink: /
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 # Bachelor's and Master's Theses
 
 <br>
