@@ -5,6 +5,12 @@ has_toc: true
 nav_order: 6
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>s
+
 # Evaluation criteria
 {: .no_toc }
 
