@@ -9,7 +9,7 @@ nav_order: 6
   p {
     text-align: justify;
   }
-</style>s
+</style>
 
 # Evaluation criteria
 {: .no_toc }
