@@ -5,6 +5,12 @@ has_toc: true
 nav_order: 5
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 # Exposé
 
 An Exposé is a preliminary outline or proposal of your thesis project, required for both Bachelor's and Master's theses.
