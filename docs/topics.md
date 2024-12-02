@@ -50,6 +50,8 @@ The following topics are currently open for Bachelor's and Master's theses.
   <p>Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare for the future: Writing a literature review. <em>MIS Quarterly</em>, xiii-xxiii.</p>
 </div>
 
+<!--
+
 ## \#awesome: A Review and Clustering Analysis of Awesome Lists on GitHub
 {: .d-inline-block }
 #literature-review
@@ -76,8 +78,6 @@ The following topics are currently open for Bachelor's and Master's theses.
   <p>Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know about searching–clarified concepts, search advice, and an agenda to improve finding in academia. <em>Research Synthesis Methods</em>, 12(2), 136-147.</p>
 <p>Nakagawa, S., Dunn, A. G., Lagisz, M., Bannach-Brown, A., Grames, E. M., Sánchez-Tójar, A., ... & Haddaway, N. R. (2020). A new ecosystem for evidence synthesis. <em>Nature Ecology & Evolution</em>, 4(4), 498-501. <a href="https://doi.org/10.1038/s41559-020-1153-2" target="_blank">https://doi.org/10.1038/s41559-020-1153-2</a>.</p>
 </div>
-
-<!--
 
 {: .info}
 **There are not open topics at the moment. New topics will be announced shortly.**
