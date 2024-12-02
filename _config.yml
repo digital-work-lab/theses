@@ -18,7 +18,7 @@ search:
 logo: "/assets/images/theses.png"
 
 mermaid:
-  version: "9.1.3"
+  version: "11.1.0"
 
 callouts:
   warning:
