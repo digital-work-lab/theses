@@ -150,6 +150,7 @@ We encourage students to consult the [pre-submission checklist](docs/pre_submiss
 Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter) including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
 
 {: .info }
+> - It is mandatory to include a CD-ROM with a PDF of the thesis.
 > - We provide CD-ROMs with paper covers free of charge—don’t spend 10€ at the copy shop! 😉 You can use the CIP-Pool computers to write data onto a CD-ROM.
 > - You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document along with the thesis.
 >   If you plan to publish a paper based on your thesis, it may be advisable to withhold your consent.
