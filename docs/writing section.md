@@ -119,5 +119,7 @@
     - Visual aids like concept maps for theoretical frameworks
 - **Illustration Best Practices**:
   - Clear and professional design
-  - Ensure all visuals are labeled and properly cited
+  - Ensure all visuals are labeled and properly cited(figures and tables are assumed to be your own, unless stated otherwise, do not need to state that the figure is an "own illustration")
+  - rarely useful to print code or class diagrams in the thesis
+  - may be helpful to illustrate the architecture, key mechanisms, or pseudo-code.
   - Align with the text and avoid redundancy
