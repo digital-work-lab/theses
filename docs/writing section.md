@@ -1,4 +1,11 @@
-## Structure and general writing tips
+---
+layout: default
+title: "Writing"
+has_toc: true
+nav_order: 7
+---
+
+## Writing: Structure and general writing advice
 
 ### What is already there?
 [Hanbook Website](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html)
