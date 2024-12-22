@@ -7,7 +7,8 @@ nav_exclude: true
 
 # Guideline for the Use of Digital Tools
 
-The integration of digital tools, including Large Language Models (LLMs) like ChatGPT, grammar checkers, and reference managers, is increasingly common in academic research and writing. To uphold intellectual honesty and academic ethics, students should transparently acknowledge the use of these tools in their theses.
+The integration of digital tools, including Large Language Models (LLMs) like ChatGPT, grammar checkers, and reference managers, is increasingly common in academic research and writing.
+To uphold intellectual honesty and academic ethics, students should transparently acknowledge the use of these tools in their theses.
 
 {: .info }
 To acknowledge the use of digital tools, include a section titled **Digital Tools Used** after the conclusion of your thesis.
@@ -15,10 +16,11 @@ To acknowledge the use of digital tools, include a section titled **Digital Tool
 Usage and Acknowledgement
 
 **1. Transparent Disclosure**
- - Mention all digital tools utilized, such as grammar checkers, and LLMs like ChatGPT. Specify the type of assistance each tool provided.
+ - Mention all digital tools utilized, such as grammar checkers, and LLMs like ChatGPT. Specify the type of assistance each tool provides.
  - For LLMs/ChatGPT, detail the specific nature of their assistance (e.g., idea generation, language suggestions).
  - If you write a standalone review, you can mention the use of particular reference managers or Excel in the methods section.
  - You do not have to acknowledge basic tools like Microsoft Word.
+ - It is not necessary to acknowledge the use of basic spell-checkers (in Word, or Grammarly/DeepL).
 
 **2. Validation of Information**
  - Cross-verify any information or data provided by digital tools with credible academic sources.
@@ -40,4 +42,5 @@ Usage and Acknowledgement
  - Acknowledge that you, as the author, bear full responsibility for the content of your thesis.
  - Ensure the use of digital tools does not compromise the originality and academic rigor of your work.
 
-The thoughtful and ethical use of digital tools, including LLMs like ChatGPT, in academic writing is essential. By adhering to these guidelines, students can leverage these tools effectively while maintaining the credibility and integrity required in academic scholarship.
+It is essential to use digital tools, including LLMs like ChatGPT, thoughtfully and ethically in academic writing.
+By adhering to these guidelines, students can leverage these tools effectively while maintaining the credibility and integrity required in academic scholarship.
