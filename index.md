@@ -116,7 +116,7 @@ For detailed criteria, refer to our research goals and processes.
   </div>
 </details>
 
-To start the process, create a repository from the [thesis template repository](https://github.com/digital-work-lab/thesis-template), give [geritwganer](https://github.com/geritwagner) (read) access, and schedule a meeting to discuss the topic:
+To start the process, create a repository from the [thesis template repository](https://github.com/digital-work-lab/thesis-template), give [geritwagner](https://github.com/geritwagner) (read) access, and schedule a meeting to discuss the topic:
 
 {: .text-center}
 [Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
