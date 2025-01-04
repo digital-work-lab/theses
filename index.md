@@ -107,7 +107,7 @@ For detailed criteria, refer to our research goals and processes.
 
 {: .text-center}
 <details class="details-container">
-  <summary class="btn btn-green">View availability details</summary>
+  <summary class="btn btn-green">View current capacities</summary>
   {% capture availability_content %}
   {% include availability.md %}
   {% endcapture %}
