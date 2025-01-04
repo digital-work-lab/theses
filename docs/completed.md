@@ -10,9 +10,6 @@ nav_order: 9
 
 Present theses:
 
-- 020 **Laureen Thurner**: Understanding the process of organizing participatory knowledge resources: An exploratory study in the context of academic lab handbooks (Bachelor's thesis)
-- 019 **Robert Theis**: Analyzing the yield of literature search queries: An open source design science approach (Bachelor's thesis)
-- 017 **Witalij Kindsvater**: The Impact of Remote Work on Individual Productivity: A Literature Review of Pre-, Peri-, and Post-Pandemic Research (Bachelor's thesis)
 - 016 **Aroon Kumar**: Regulation of gig work platforms: An analysis of emergent policy agendas (Master's thesis)
 - 015 **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis)
 - 010 **Thi Thanh Thao Tran**: Investigating the Institutionalization of Human Capital Analytics and its Interplay within the Context of Strategic Human Resource Management and Innovation Diffusion: A Fuzzy-Set Qualitative Comparative Analysis (Master's thesis)
@@ -20,7 +17,10 @@ Present theses:
 
 Completed theses:
 
+- 020 **Laureen Thurner**: Understanding the process of organizing participatory knowledge resources: An exploratory study in the context of academic lab handbooks (Bachelor's thesis)
+- 019 **Robert Theis**: Analyzing the yield of literature search queries: An open source design science approach (Bachelor's thesis)
 - 018 **Aaron Hißting**: Generative artificial intelligence and archetype prompts in software development: A scoping review (Bachelor's thesis)
+- 017 **Witalij Kindsvater**: The Impact of Remote Work on Individual Productivity: A Literature Review of Pre-, Peri-, and Post-Pandemic Research (Bachelor's thesis)
 - 014 **Philipp Thomas Raab**: The effects of generative artificial intelligence on software development tasks: A qualitative systematic review (Bachelor's thesis)
 - 013 **Moritz van den Hövel**: The state of artificial intelligence in personal information management – A scoping review (Bachelor's thesis)
 - 012 **Luca Ossendorf**: Design of a machine-learning classifier for research papers: Identifying literature reviews (Bachelor's thesis)

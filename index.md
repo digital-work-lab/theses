@@ -10,6 +10,35 @@ permalink: /
   p {
     text-align: justify;
   }
+  /* Style for the details container */
+  .details-container {
+    border: 2px solid #ccc; /* Gray border */
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Style for the content inside details */
+  .details-content {
+    padding: 10px;
+    background-color: #f9f9f9; /* Light gray background */
+    border-top: 1px solid #ddd; /* Separate border for content */
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+  }
+
+  /* Style for the content inside details */
+  .details-content {
+    padding: 10px;
+    background-color: #f9f9f9; /* Light gray background */
+    border: 1px solid #ddd; /* Border for content */
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #333;
+  }
 </style>
 
 # Bachelor's and Master's Theses
@@ -39,15 +68,16 @@ flowchart LR
         Feedback -. consult .-> Init
         Feedback(["<a href='docs/feedback.html'>Feedback</a>, <a href='https://github.com/digital-work-lab/theses/commits/main/'>improvement</a>,<br><a href='docs/completed.html'>completed theses</a>, <a href='docs/hall_of_fame.html'>hall-of-fame</a>"]) -.- Grading
         OpenTopics(["<a href='docs/topics.html'>Open topics</a>"]) -.- |consult| Init
-        Init["<a href='#1-initial-meetings-to-discuss-the-topic'>Initial meeting</a>"] ==> |"<a href='docs/expose.html'>Write an exposé</a>"| Admission["<a href='#2-formal-admission'>Formal admission</a>"]
-        Admission ==> Writing["<a href='#3-thesis-writing-and-feedback-sessions'>Thesis writing and feedback sessions</a>"]
-        Writing ==> Submission["<a href='#4-submission-of-the-thesis'>Submission</a>"]
+        Init["<a href='#1-topic-proposal'>1. Topic proposal</a>"] ==> Admission["<a href='#2-formal-admission'>2. Formal admission</a>"]
+        Admission ==> Writing["<a href='#3-thesis-writing-and-feedback-sessions'>3. Thesis writing</a>"]
+        Writing ==> Submission["<a href='#4-submission-of-the-thesis'>4. Submission</a>"]
         Submission ==> Grading
-        Writing -. Master's students .-> Presentation["<a href='#5-thesis-presentation'>Presentation</a>"]
-        Presentation -.-> Grading["<a href='#6-grading-and-feedback-session'>Grading and feedback</a>"]
+        Writing -. Master's students .-> Presentation["<a href='#5-thesis-presentation'>5. Presentation</a>"]
+        Presentation -.-> Grading["<a href='#6-grading-and-feedback-session'>6. Grading and feedback</a>"]
         Criteria(["<a href='docs/evaluation.html'>Evaluation criteria</a>"]) -.- Writing
         Criteria -.- Presentation
         Criteria -.- Grading
+        Init .-> Decline@{ shape: dbl-circ, label: "Declined" }
     end
     style Init stroke:#333,stroke-width:3px
     style Admission stroke:#333,stroke-width:3px
@@ -61,10 +91,32 @@ flowchart LR
 - A detailed overview of the administrative process is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.40.theses.html){: target="_blank"}.
 - A changelog for this document is available [here](https://github.com/digital-work-lab/theses/commits/main/index.md){: target="_blank"}.
 
-## 1. Initial meetings to discuss the topic
+## 1. Topic proposal
 
-You can select [open topics](docs/topics.html) or suggest topics related to our research areas.
-To start the process, reach out via e-mail and schedule a meeting to discuss topic and next steps:
+We supervise theses on [predefined open topics](docs/topics.html) or topics suggested by students.
+
+Given the high demand for thesis supervision, we cannot accommodate all proposals.
+To ensure a fair and transparent process, decisions are made on a bi-monthly basis based on current capacities, alignment with our [research areas](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.01.goals.html), and the quality of the proposed topic.
+Additionally, we consider whether students are at an advanced stage in their curriculum and need to finish their degree within a specific timeframe.
+We review proposals on predefined dates (Feb-01, Apr-01, Jun-01, Aug-01, Oct-01, Dec-01) and decide whether to *Accept*, *Decline*, or invite a *Resubmission* with feedback provided to help refine the proposal if necessary.
+
+<!-- 
+For detailed criteria, refer to our research goals and processes.
+- bi-monthly decision (Feb-01, Apr-01, Jun-01, Aug-01, Oct-01, Dec-01) - in line with capacities (link), criteria (fit with our research areas: digital work, distributed organizing, literature reviews - https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.01.goals.html), outcomes: Accept, Decline, Reapply ()
+-->
+
+{: .text-center}
+<details class="details-container">
+  <summary class="btn btn-green">View availability details</summary>
+  {% capture availability_content %}
+  {% include availability.md %}
+  {% endcapture %}
+  <div class="details-content">
+    {{ availability_content | markdownify }}
+  </div>
+</details>
+
+To start the process, create a repository from the [thesis template repository](https://github.com/digital-work-lab/thesis-template), give [geritwganer](https://github.com/geritwagner) (read) access, and schedule a meeting to discuss the topic:
 
 {: .text-center}
 [Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
@@ -91,7 +143,7 @@ This is the case when older regulations (Studien- und Fachprüfungsordnung) appl
 
 You **receive the topic confirmation** as a (protected) Word document (.docx) by e-mail together with processing/submission instructions as well as inspection statement.
 The next step is to make an appointment with the thesis advisor to determine the topic and sign the topic confirmation.
-Please share the Word document with your thesis advisor shortly before the meeting.
+Please upload the Word document in your thesis repository before the meeting.
 
 You and your thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
 If the appointment is online, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.

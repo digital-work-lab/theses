@@ -9,49 +9,10 @@ nav_order: 2
   p {
     text-align: justify;
   }
-  /* Style for the details container */
-  .details-container {
-    border: 2px solid #ccc; /* Gray border */
-    border-radius: 5px;
-    padding: 10px;
-    margin: 15px 0;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-
-  /* Style for the content inside details */
-  .details-content {
-    padding: 10px;
-    background-color: #f9f9f9; /* Light gray background */
-    border-top: 1px solid #ddd; /* Separate border for content */
-    margin-top: 10px;
-    font-size: 14px;
-    color: #333;
-  }
-
-  /* Style for the content inside details */
-  .details-content {
-    padding: 10px;
-    background-color: #f9f9f9; /* Light gray background */
-    border: 1px solid #ddd; /* Border for content */
-    margin-top: 10px;
-    border-radius: 5px;
-    font-size: 14px;
-    color: #333;
-  }
 </style>
 
 # Open topics
 {: .no_toc }
-
-<details class="details-container">
-  <summary class="btn btn-green">View availability details</summary>
-  {% capture availability_content %}
-  {% include availability.md %}
-  {% endcapture %}
-  <div class="details-content">
-    {{ availability_content | markdownify }}
-  </div>
-</details>
 
 The following topics are currently open for Bachelor's and Master's theses.
 
