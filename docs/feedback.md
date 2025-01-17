@@ -43,6 +43,19 @@ We actively encourage students to participate in feedback sessions. In the proce
 
 Optional comment afterward: Thesis advisor comment: We improved XY
 -->
+
+## 35.011
+
+Die Betreuung meiner Bachelorarbeit durch Professor Wagner war von Anfang an ausgezeichnet. Er zeigte sich unterstützend und offen bei der Themenfindung und meinem Interessensgebiet, was mir den Einstieg in die Arbeit erleichterte.
+
+Besonders hilfreich waren die regelmäßigen Feedback-Gespräche, die sowohl am Anfang beim Brainstorming für mögliche Vorgehensweisen als auch während des gesamten Prozesses stattfanden. Professor Wagner nahm sich immer die Zeit, meine Vorschläge anzuhören, und gab konstruktives Feedback, sei es zur Umsetzbarkeit meiner Ideen oder zu Punkten, die ich weiter vertiefen sollte.
+
+Auch die von ihm bereitgestellten Unterlagen zur Methodik waren äußerst nützlich und halfen mir, die Arbeit fundiert und strukturiert aufzubauen. Zudem empfahl er mir bei Bedarf relevante wissenschaftliche Papers, die meinen Forschungsprozess bereicherten.
+
+Im Großen und Ganzen fand ich die Betreuung durch Professor Wagner sehr gut. Ich hätte nicht gedacht, dass ich so viel Freude am Erstellungsprozess meiner Bachelorarbeit haben würde, aber genau das war der Fall. Deshalb kann ich es jedem nur empfehlen, die Seminar- oder Abschlussarbeit bei ihm zu schreiben.
+
+Bewertung: 5/5
+
 ## 35.010
 
 Das Verfassen meiner Bachelorarbeit am Lehrstuhl Digital Work war sehr angenehm. Prof. Wagner hat mich von Anfang an, vom Prozess der Themenfindung bis hin zum tatsächlichen Schreiben der Arbeit, aktiv unterstützt und gut beraten. Betreuungstermine zu vereinbaren, war mithilfe des Tools Calendly sehr einfach und transparent. Durch das Tool wusste man immer, wann Prof. Wagner für Termine verfügbar war, und konnte so die eigenen Termine zeitlich gut vorausplanen, ohne wie üblich durch einen langwierigen E-Mail-Verkehr einen gemeinsamen Termin mit dem Professor finden zu müssen. Hervorzuheben ist auch, dass Herr Wagner in dringenden Fällen Termine angeboten hat, selbst wenn keine mehr in Calendly verfügbar waren. Zu den Terminen war Herr Wagner immer bestens mit dem aktuellen Stand der Arbeit vertraut und konnte hilfreiche Tipps und Anregungen geben (z. B. Papers, die für die Arbeit nützlich sein könnten). Auf meine Fragen wurde sehr verständlich und genau eingegangen, sodass ich immer genau wusste, was als Nächstes zu tun ist. Insgesamt konnte ich durch die Bachelorarbeit mein Wissen im Bereich generativer KI vertiefen und hatte auch Spaß am Erstellungsprozess der Arbeit (was ich vorher nicht für möglich gehalten hätte). Ich kann es somit jedem nur empfehlen, die Seminar- oder Abschlussarbeit bei Prof. Wagner zu schreiben.
@@ -71,4 +84,4 @@ Bewertung: 4.9/5
 
 Das Schreiben meiner Bachelorarbeit bei Prof. Dr. Wagner am Digital Work Lehrstuhl war insgesamt wirklich super. Gleich zu Beginn konnte ich zwischen verschiedenen Themen auswählen und mir ein für mich spannendes aussuchen. Was mir dann am besten gefallen hat war, dass mir sowohl bei der weiteren Entwicklung des Themas als auch während des Schreibprozesses viel Freiheit gelassen wurde in welche Richtung ich die Bachelorarbeit inhaltlich lenken möchte bzw. auch aktiv von Prof. Dr. Wagner dabei unterstützt und ermutig wurde. Gleichzeitig habe ich bei Fragen oder Unklarheiten schnell entweder per Mail oder per Termin Feedback bekommen können und auch immer wieder interessanten Input (z.B. aufschlussreiche Paper) von Prof. Dr. Wagner erhalten. Für mich persönlich war es auch wichtig, dass ich viel lernen konnte (vor allem über Machine Learning), die Möglichkeit hatte praktisch zu programmieren und auch das Gefühl hatte, dass meine Arbeit und Ergebnisse nicht nur für die Schublade sind, sondern wirklich einen Nutzen haben. Deswegen habe ich alles im allen nichts auszusetzen und kann Prof. Dr. Wagner und den Digital Work Lehrstuhl allen bedenkenlos weiterempfehlen, die bei super Betreuung und spannenden Thematiken viel lernen und mitnehmen möchten.
 
-Score: 5/5
+Bewertung: 5/5
