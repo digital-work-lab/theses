@@ -44,6 +44,12 @@ We actively encourage students to participate in feedback sessions. In the proce
 Optional comment afterward: Thesis advisor comment: We improved XY
 -->
 
+## 35.012
+
+Meine Abschlussarbeit am Lehrstuhl von Herrn Wagner zu schreiben war sehr angenehm. Termine für Feedbackgespräche können per Online-Tool ganz einfach ausgemacht werden, Herr Wagner ist auch sehr oft verfügbar, selbst kurzfristige Terminabsagen waren kein Problem. Die vielen Feedbackgespräche haben mir die Gelegenheit gegeben, viele (auch mal weniger sinnvolle) Fragen zu stellen, die Herr Wagner immer sehr freundlich und respektvoll beantwortete - die Kommunikation fand generell komplett auf Augenhöhe statt. Dieses Feedback war in der anfänglichen, schwierigen Phase besonders wertvoll, in der noch Fokus und Methodik der Arbeit festgelegt werden mussten. Herr Wagner hatte außerdem immer eine Menge hilfreicher und relevanter Paper zur Hand, die mir sehr geholfen haben. Die Bewertung meiner Arbeit war fair, transparent und nachvollziehbar und wurde mir von Herrn Wagner im abschließenden Gespräch ausführlich erklärt. Alles in allem kann ich jeder und jedem nur wärmstens empfehlen, Abschlussarbeiten bei Herrn Wagner zu schreiben.
+
+Bewertung: 5/5
+
 ## 35.011
 
 Die Betreuung meiner Bachelorarbeit durch Professor Wagner war von Anfang an ausgezeichnet. Er zeigte sich unterstützend und offen bei der Themenfindung und meinem Interessensgebiet, was mir den Einstieg in die Arbeit erleichterte.
