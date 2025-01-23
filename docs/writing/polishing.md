@@ -10,6 +10,8 @@ nav_order: 4
 
 **Polishing Your Work for Submission**
 
+Note: this should be checked at least one week before submission.
+
 1. **Revising Extensively**
    - **Step-by-Step Revision Process**:
      - start with structure: Ensure sections flow logically
