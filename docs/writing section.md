@@ -13,6 +13,8 @@ Welcome to the Writing Guide! This resource is designed to assist bachelor's and
 
 This overview highlights the typical structure and flow of a research thesis. The thesis process is divided into distinct phases, preparation, writing, and final revisions, which are interconnected and build upon each other.
 
+**Graph**
+
 ## Contents
 
 ### 1. Structure and Contents
