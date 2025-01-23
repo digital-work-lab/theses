@@ -7,23 +7,29 @@ nav_order: 7
 
 # Writing Guide
 
-Welcome to the Writing Guide! This resource is designed to assist bachelor's and master's students in navigating the thesis writing process from start to finish. Whether you're working on your bachelor's or master's thesis, this guide will walk you through the essential stages to ensure a successful outcome.
+Welcome to the Writing Guide!
+This resource is designed to assist bachelor's and master's students in navigating the thesis writing process from start to finish.
+Whether you're working on your bachelor's or master's thesis, this guide will walk you through the essential stages to ensure a successful outcome.
 
 ## Overview
 
-This overview highlights the typical structure and flow of a research thesis. The thesis process is divided into distinct phases, preparation, writing, and final revisions, which are interconnected and build upon each other.
+This overview highlights the typical structure and flow of a research thesis.
+The thesis process is divided into distinct phases, preparation, writing, and final revisions, which are interconnected and build upon each other.
 
 ```mermaid
 flowchart
-    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation'>Preparation</a>"] --> writing["<a href='#writing'>Writing</a>"]
-    writing --> polishing["<a href='#polishing'>Polishing</a>"]
+    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation_phase'>Preparation</a>"] --> writing["<a href='#writing_phase'>Writing</a>"]
+    writing --> polishing["<a href='#polishing_phase'>Polishing</a>"]
 
 ```
 
 ## Contents
 
 ### 1. Structure and Contents
-An overview of the typical structure and contents of a research thesis is provided here. The outlined framework may require adjustments to meet the specific needs of the thesis. Each part has a clear purpose, and using an active voice is recommended.
+
+An overview of the typical structure and contents of a research thesis is provided here.
+The outlined framework may require adjustments to meet the specific needs of the thesis. Each part has a clear purpose, and using an active voice is recommended.
+
   - Abstract
   - Introduction
   - Background
@@ -32,26 +38,52 @@ An overview of the typical structure and contents of a research thesis is provid
   - Discussion
   - Conclusion
 
-### 2. Preperation Phase
-Guidance on the preparation phase of thesis writing is offered in this section. It outlines key steps and strategies to help students build a strong foundation for their work. Practical advice and recommendations are included to ensure clarity, consistency, and professionalism throughout the writing process.
+{: .text-center}
+[Learn about structure and contents](writing/structure_and_contents){: .btn .btn-blue target="_blank"}
+{: .text-center}
+
+### 2. Preparation Phase
+Guidance on the preparation phase of thesis writing is offered in this section.
+It outlines key steps and strategies to help students build a strong foundation for their work.
+Practical advice and recommendations are included to ensure clarity, consistency, and professionalism throughout the writing process.
+
   - Getting started (Overview, Key Concepts)
   - Five Golden Rules
   - Structuring your thesis (Naming, Checklists)
   - Creating an Outline
 
+{: .text-center}
+[Learn about the preparation phase](writing/preparation_phase){: .btn .btn-blue target="_blank"}
+{: .text-center}
+
 ### 3. Writing Phase
-This section focuses on the writing phase of the thesis. It offers insights into structuring content effectively, ensuring clarity and coherence, and incorporating illustrations appropriately. Following these recommendations will help organize your thesis in a professional manner.
+
+This section focuses on the writing phase of the thesis.
+It offers insights into structuring content effectively, ensuring clarity and coherence, and incorporating illustrations appropriately.
+Following these recommendations will help organize your thesis in a professional manner.
+
   - Transition from Outline to Text
   - Recommended Writing Sequence
   - Illustrations
 
+{: .text-center}
+[Learn about the writing phase](writing/writing_phase){: .btn .btn-blue target="_blank"}
+{: .text-center}
+
 ### 4. Polishing Phase
-The final phase of thesis preparation is covered here, with emphasis on revising, polishing, and ensuring submission readiness. It details important steps to refine content, align visuals, follow language standards, and meet citation guidelines.
+
+The final phase of thesis preparation is covered here, with emphasis on revising, polishing, and ensuring submission readiness.
+It details important steps to refine content, align visuals, follow language standards, and meet citation guidelines.
+
   - Revising
   - Finalizing Illustrations
   - Language Guidelines
   - Citation Guidelines
   - Evaluation Criteria
+
+{: .text-center}
+[Learn about the polishing phase](writing/polishing){: .btn .btn-blue target="_blank"}
+{: .text-center}
 
 <!--
 ## Writing: Structure and general writing advice
