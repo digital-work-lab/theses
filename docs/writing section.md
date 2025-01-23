@@ -15,7 +15,7 @@ This overview highlights the typical structure and flow of a research thesis. Th
 
 ```mermaid
 flowchart
-    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"]; preparation["<a href='#preparation'>Preparation</a>"] --> writing["<a href='#writing'>Writing</a>"]
+    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation'>Preparation</a>"] --> writing["<a href='#writing'>Writing</a>"]
     writing --> polishing["<a href='#polishing'>Polishing</a>"]
 
 ```

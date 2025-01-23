@@ -2,7 +2,8 @@
 layout: default
 title: "Structure and Contents"
 has_toc: true
-nav_order: 7.4
+parent: "Writing Guide"
+nav_order: 4
 ---
 
 # Polishing Phase

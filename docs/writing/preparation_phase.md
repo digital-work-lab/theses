@@ -2,7 +2,8 @@
 layout: default
 title: "Writing"
 has_toc: true
-nav_order: 7.2
+parent: "Writing Guide"
+nav_order: 2
 ---
 
 
