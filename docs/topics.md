@@ -14,23 +14,6 @@ nav_order: 2
 # Open topics
 {: .no_toc }
 
-Current capacities:
-
-{: .text-center}
-```mermaid
----
-config:
-    xyChart:
-        width: 900
-        height: 300
----
-xychart-beta
-    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
-    y-axis "Theses (current vs capacity)" 0 --> 22
-    bar [14, 16, 16, 15, 17, 18, 19, 18, 16, 17, 18, 18]
-    line [12,12,12,12,12,12,12,12,12,12,12,12]
-```
-
 The following topics are currently open for Bachelor's and Master's theses.
 
 ## Overview
