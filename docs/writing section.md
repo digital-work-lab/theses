@@ -13,7 +13,12 @@ Welcome to the Writing Guide! This resource is designed to assist bachelor's and
 
 This overview highlights the typical structure and flow of a research thesis. The thesis process is divided into distinct phases, preparation, writing, and final revisions, which are interconnected and build upon each other.
 
-**Graph**
+```mermaid
+flowchart
+    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"]; preparation["<a href='#preparation'>Preparation</a>"] --> writing["<a href='#writing'>Writing</a>"]
+    writing --> polishing["<a href='#polishing'>Polishing</a>"]
+
+```
 
 ## Contents
 
@@ -40,7 +45,7 @@ This section focuses on the writing phase of the thesis. It offers insights into
   - Recommended Writing Sequence
   - Illustrations
 
-### 4. Finishing Phase
+### 4. Polishing Phase
 The final phase of thesis preparation is covered here, with emphasis on revising, polishing, and ensuring submission readiness. It details important steps to refine content, align visuals, follow language standards, and meet citation guidelines.
   - Revising
   - Finalizing Illustrations

@@ -5,7 +5,7 @@ has_toc: true
 nav_order: 7.4
 ---
 
-# Finishing Phase
+# Polishing Phase
 
 **Polishing Your Work for Submission**
 
