@@ -8,6 +8,8 @@ nav_order: 4
 
 # Polishing Phase
 
+We encourage students to consult the [pre-submission checklist](docs/pre_submission.html) before submitting the thesis.
+
 **Polishing Your Work for Submission**
 
 Note: this should be checked at least one week before submission.

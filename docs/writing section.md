@@ -18,14 +18,15 @@ The thesis process is divided into distinct phases, preparation, writing, and fi
 
 ```mermaid
 flowchart
-    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation_phase'>Preparation</a>"] --> writing["<a href='#writing_phase'>Writing</a>"]
+    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation_phase'>Preparation</a>"]
+    preparation --> writing["<a href='#writing_phase'>Writing</a>"]
+    writing --> feedback["<a href='#feedback'>Feedback</a>"]
+    feedback --> writing
     writing --> polishing["<a href='#polishing_phase'>Polishing</a>"]
 
 ```
 
-## Contents
-
-### 1. Structure and Contents
+## Structure and Contents
 
 An overview of the typical structure and contents of a research thesis is provided here.
 The outlined framework may require adjustments to meet the specific needs of the thesis. Each part has a clear purpose, and using an active voice is recommended.
@@ -42,7 +43,8 @@ The outlined framework may require adjustments to meet the specific needs of the
 [Learn about structure and contents](writing/structure_and_contents){: .btn .btn-blue target="_blank"}
 {: .text-center}
 
-### 2. Preparation Phase
+## Preparation Phase
+
 Guidance on the preparation phase of thesis writing is offered in this section.
 It outlines key steps and strategies to help students build a strong foundation for their work.
 Practical advice and recommendations are included to ensure clarity, consistency, and professionalism throughout the writing process.
@@ -56,7 +58,7 @@ Practical advice and recommendations are included to ensure clarity, consistency
 [Learn about the preparation phase](writing/preparation_phase){: .btn .btn-blue target="_blank"}
 {: .text-center}
 
-### 3. Writing Phase
+## Writing Phase
 
 This section focuses on the writing phase of the thesis.
 It offers insights into structuring content effectively, ensuring clarity and coherence, and incorporating illustrations appropriately.
@@ -70,7 +72,15 @@ Following these recommendations will help organize your thesis in a professional
 [Learn about the writing phase](writing/writing_phase){: .btn .btn-blue target="_blank"}
 {: .text-center}
 
-### 4. Polishing Phase
+## Feedback
+
+TODO
+
+{: .text-center}
+[Learn about feedback](writing/feedback){: .btn .btn-blue target="_blank"}
+{: .text-center}
+
+## Polishing Phase
 
 The final phase of thesis preparation is covered here, with emphasis on revising, polishing, and ensuring submission readiness.
 It details important steps to refine content, align visuals, follow language standards, and meet citation guidelines.

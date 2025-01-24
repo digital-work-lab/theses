@@ -161,41 +161,18 @@ For students of Applied Informatics, Software Systems Science, and Computing in 
 
 You are expected to complete the exposé before writing the thesis.
 A thesis must be written in English.
-The following resources may be helpful:
 
-- The [evaluation criteria](docs/evaluation.html)
-- The thesis template for [Markdown](https://github.com/digital-work-lab/thesis-template){: target="_blank"} ([create repository from template](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"}) <!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
-- The [literature review section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.10.literature-review.html){: target="_blank"}
-- The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html){: target="_blank"}
-- The [Bamberg Center for Empirical Studies (BACES)](https://www.uni-bamberg.de/baces/){: target="_blank"} offers free consultation related to data management and statistical analyses
-- The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
-- The [guideline for the use of digital tools](docs/digital_tools.html)
-- Note: ethics statements cannot be issued for a thesis, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
+Best practices for writing a thesis are linke below:
 
-It is good practice to write the thesis in a Git-versioned repository, add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
+```mermaid
+flowchart
+    structure_and_contents["<a href='docs/writing/structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='docs/writing/preparation_phase.md'>Preparation</a>"]
+    preparation --> writing["<a href='docs/writing//writing_phase'>Writing</a>"]
+    writing --> feedback["<a href='docs/writing/feedback'>Feedback</a>"]
+    feedback --> writing
+    writing --> polishing["<a href='docs/writing/polishing'>Polishing</a>"]
 
-{: .info }
-Remember to create **regular backups** of your work, e.g., by creating Git versions and pushing them to a remote repository, and/or copying files to a USB stick.
-
-We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:
-
-- Feedback sessions can be in person or online
-- They can be scheduled via [calendly](https://calendly.com/gerit-wagner/30min){: target="_blank"}
-
-To receive feedback on the written document, please
-
-- Share it 1-2 days before the meeting
-- Indicate which sections should be read
-- Use a file format suitable for adding comments (PDF or doc/x)
-- Use a suitable filename (e.g., `2023-12-01-Thesis-Name.pdf`)
-
-We expect you to communicate on an equal level:
-
-- In e-mails, write `"Hallo Herr Wagner"` (instead of `"Sehr geehrter Herr Prof. Dr. Wagner"`).
-- If you disagree with a particular suggestion, challenge it and explain why you would do it differently.
-- Instead of apologizing, say [thank you](https://www.popsugar.com/smart-living/why-you-should-say-thank-you-instead-of-sorry-47250332){: target="_blank"}.
-
-We encourage students to consult the [pre-submission checklist](docs/pre_submission.html) before submitting the thesis.
+```
 
 ## 4. Submission of the thesis
 
