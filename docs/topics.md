@@ -22,6 +22,8 @@ The following topics are currently open for Bachelor's and Master's theses.
 - TOC
 {:toc}
 
+<!--
+
 ## Mapping the Discourse on the Future of Work: A Network Analysis of Researchers and Their Collaborations
 {: .d-inline-block }
 #literature-review
@@ -50,7 +52,6 @@ The following topics are currently open for Bachelor's and Master's theses.
   <p>Webster, J., & Watson, R. T. (2002). Analyzing the past to prepare for the future: Writing a literature review. <em>MIS Quarterly</em>, xiii-xxiii.</p>
 </div>
 
-<!--
 
 ## \#awesome: A Review and Clustering Analysis of Awesome Lists on GitHub
 {: .d-inline-block }
