@@ -35,19 +35,19 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**: This thesis will focus on advancing the design of bots for Git-based organizing and document-based organizations (e.g., GitLab). The research aims to develop a meta-design theory of bot capabilities for **sensing** (e.g., event or cronjob triggers), **enactment**, and **delegation**. By exploring the interplay between triggers, scripts, and actor delegation, the thesis will conceptualize bots as dynamic agents that support and enhance document-based workflows. The theoretical foundation will draw on **Actor-Network Theory (ANT)**, providing a socio-technical perspective on bot design in such settings.
+**Summary**: This thesis will focus on advancing the design of bots for Git-based organizing and document-based organizations (e.g., GitLab). The research aims to develop a meta-design theory of bot capabilities for *sensing* (e.g., event or cronjob triggers), *enactment*, and *delegation*. By exploring the interplay between triggers, scripts, and actor delegation, the thesis will conceptualize bots as dynamic agents that support and enhance document-based workflows. The theoretical foundation will draw on *Actor-Network Theory*, providing a socio-technical perspective on bot design in such settings.
 
-**Methods**: The thesis will adopt a **design science research approach**, combining:  
-- A **review of existing tools, artifacts, and literature** to identify gaps and opportunities in bot design.  
-- **Prototyping** of bots with sensing, delegation, and enactment capabilities.  
+**Methods**: The thesis will adopt a design science research approach, combining:  
+- A review of existing tools, artifacts, and literature to identify gaps and opportunities in bot design.  
+- Prototyping of bots with sensing, delegation, and enactment capabilities.  
 - Evaluation of theoretical principles through iterative prototyping and empirical validation.  
 
-**Expected Outcomes**: The research will result in **theoretically and empirically grounded design principles** for bots in document-based organizing. These principles will provide actionable insights into how bots can be designed to effectively sense, act, and delegate tasks in Git-based environments. Prototypes developed during the research will serve as proofs of concept, showcasing how these principles can be operationalized in real-world applications.
+**Expected Outcomes**: The research will result in theoretically and empirically grounded design principles for bots in document-based organizing. These principles will provide actionable insights into how bots can be designed to effectively sense, act, and delegate tasks in Git-based environments. Prototypes developed during the research will serve as proofs of concept, showcasing how these principles can be operationalized in real-world applications.
 
 **Requirements**:  
-- Willingness to engage in **prototyping and development** (knowledge of Git and Python is an advantage).  
-- Ability to conduct **literature reviews** and apply **design science research methods**.  
-- Interest in exploring socio-technical theories, such as **Actor-Network Theory**.  
+- Willingness to engage in prototyping and development (knowledge of Git and Python is an advantage).  
+- Ability to conduct literature reviews and apply design science research methods.  
+- Interest in exploring socio-technical theories, such as *Actor-Network Theory*.  
 
 **References**:
 
@@ -73,25 +73,25 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**: This thesis will explore how perceptions of fairness in bot interactions within Git-based organizing and document-based organizations (e.g., GitLab) are influenced by the procedural mode of action and interaction design. Specifically, it will investigate how actions such as **opening issues**, **direct commits**, **suggesting or rejecting pull requests**, and **evaluating user contributions** impact perceptions of procedural and interactional fairness. It may also examine how interaction design elements—such as tone, explanations, voicing concerns, and the disclosure of overriding options—shape user experiences and fairness perceptions.
-Theoretical underpinnings will draw from **Organizational Justice Theory**, the **Computer as Social Actor (CASA) Framework**, and/or the **Theory of Procedural and Interactional Fairness**.
+**Summary**: This thesis will explore how perceptions of fairness in bot interactions within Git-based organizing and document-based organizations (e.g., GitLab) are influenced by the procedural mode of action and interaction design. Specifically, it will investigate how actions such as *opening issues*, *creating commits directly*, *suggesting or rejecting pull requests*, and *evaluating user contributions* impact perceptions of procedural and interactional fairness. It may also examine how interaction design elements—such as tone, explanations, voicing concerns, and the disclosure of overriding options—shape user experiences and fairness perceptions.
+Theoretical underpinnings will draw from *Organizational Justice Theory*, the *Computer as Social Actor Framework*, and/or the *Theory of Procedural and Interactional Fairness*.
 
 **Methods**:  
-The research will adopt an **experimental approach**, involving:  
+The research will adopt an experimental approach, involving:  
 - Development of prototypes simulating different bot actions and interaction designs.  
 - Experiments to assess user perceptions of fairness under varying conditions (e.g., tone, transparency, decision types).  
 - Data collection and analysis to identify patterns and derive actionable insights.  
 
 **Expected Outcomes**:  
 The thesis will generate insights into:  
-1. **How procedural modes of action** (e.g., direct commits vs. pull request suggestions) influence fairness perceptions.  
-2. **The impact of interaction design** (e.g., explanations, tone, transparency) on user experiences.  
-3. Implications for the **ethical and effective design of bots**, contributing to improved user trust and collaboration in Git-based environments.
+1. How procedural modes of action (e.g., direct commits vs. pull request suggestions) influence fairness perceptions.  
+2. The impact of interaction design (e.g., explanations, tone, transparency) on user experiences.  
+3. Implications for the ethical and effective design of bots, contributing to improved user trust and collaboration in Git-based environments.
 
 **Requirements**:  
-- Interest in **moral and ethical theories** related to fairness and technology.  
-- Willingness to develop **prototypes** (knowledge of Git and Python is highly beneficial).  
-- Capability to **conduct experiments**, including participant recruitment, study design, and data analysis.  
+- Interest in moral and ethical theories related to fairness and technology.  
+- Willingness to develop prototypes (knowledge of Git and Python is highly beneficial).  
+- Capability to conduct experiments, including participant recruitment, study design, and data analysis.  
 
 **References**:
 
