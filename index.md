@@ -52,8 +52,6 @@ permalink: /
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(4.98%20/%205)-yellow)](https://digital-work-lab.github.io/theses/docs/feedback.html)
 ![Completion](https://img.shields.io/badge/Theses%20supervised-31-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
-[![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/theses.svg?style=social&label=Star)](https://github.com/digital-work-lab/theses/stargazers)
-[![Watch](https://img.shields.io/github/watchers/digital-work-lab/open-source-project?style=social)](https://github.com/digital-work-lab/open-source-project/subscription)
 
 Welcome!
 This page provides an overview and resources for writing a thesis in the area of [digital work](https://www.uni-bamberg.de/digital-work/){: target="_blank"}.
