@@ -55,8 +55,8 @@ The research will result in **theoretically and empirically grounded design prin
 
 1. Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. *Journal of Management Information Systems*, 24(3), 45-77.
 2. Latour, B. (2005). *Reassembling the social: An introduction to actor-network-theory*. Oxford University Press.
-3. Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: Work where you want, when you want. *Journal of Organization Design, 9*(1), 1–17. [https://doi.org/10.1186/s41469-020-00064-x](https://doi.org/10.1186/s41469-020-00064-x)
-4. Shaikh, M., & Vaast, E. (2023). Algorithmic interactions in open source work. *Information Systems Research, 34*(2), 744–765. [https://doi.org/10.1287/ISRE.2022.1153](https://doi.org/10.1287/ISRE.2022.1153)
+3. Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: Work where you want, when you want. *Journal of Organization Design, 9*(1), 1–17. [https://doi.org/10.1186/s41469-020-00064-x](https://doi.org/10.1186/s41469-020-00064-x){: target="_blank"}
+4. Shaikh, M., & Vaast, E. (2023). Algorithmic interactions in open source work. *Information Systems Research, 34*(2), 744–765. [https://doi.org/10.1287/ISRE.2022.1153](https://doi.org/10.1287/ISRE.2022.1153){: target="_blank"}
 
 {: .info}
 **Application**: This thesis is part of the **#GITHUB-BOTS** call-for-theses, expected to be completed between April 2025 and August/October 2025.
