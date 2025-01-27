@@ -24,6 +24,7 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 
 ## Advancing the Design of Bots for Git-Based Organizing
+
 {: .d-inline-block }
 #design-science
 {: .label .label-yellow }
@@ -34,17 +35,14 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**:  
-This thesis will focus on advancing the design of bots for Git-based organizing and document-based organizations (e.g., GitLab). The research aims to develop a meta-design theory of bot capabilities for **sensing** (e.g., event or cronjob triggers), **enactment**, and **delegation**. By exploring the interplay between triggers, scripts, and actor delegation, the thesis will conceptualize bots as dynamic agents that support and enhance document-based workflows. The theoretical foundation will draw on **Actor-Network Theory (ANT)**, providing a socio-technical perspective on bot design in such settings.
+**Summary**: This thesis will focus on advancing the design of bots for Git-based organizing and document-based organizations (e.g., GitLab). The research aims to develop a meta-design theory of bot capabilities for **sensing** (e.g., event or cronjob triggers), **enactment**, and **delegation**. By exploring the interplay between triggers, scripts, and actor delegation, the thesis will conceptualize bots as dynamic agents that support and enhance document-based workflows. The theoretical foundation will draw on **Actor-Network Theory (ANT)**, providing a socio-technical perspective on bot design in such settings.
 
-**Methods**:  
-The thesis will adopt a **design science research approach**, combining:  
+**Methods**: The thesis will adopt a **design science research approach**, combining:  
 - A **review of existing tools, artifacts, and literature** to identify gaps and opportunities in bot design.  
 - **Prototyping** of bots with sensing, delegation, and enactment capabilities.  
 - Evaluation of theoretical principles through iterative prototyping and empirical validation.  
 
-**Expected Outcomes**:  
-The research will result in **theoretically and empirically grounded design principles** for bots in document-based organizing. These principles will provide actionable insights into how bots can be designed to effectively sense, act, and delegate tasks in Git-based environments. Prototypes developed during the research will serve as proofs of concept, showcasing how these principles can be operationalized in real-world applications.
+**Expected Outcomes**: The research will result in **theoretically and empirically grounded design principles** for bots in document-based organizing. These principles will provide actionable insights into how bots can be designed to effectively sense, act, and delegate tasks in Git-based environments. Prototypes developed during the research will serve as proofs of concept, showcasing how these principles can be operationalized in real-world applications.
 
 **Requirements**:  
 - Willingness to engage in **prototyping and development** (knowledge of Git and Python is an advantage).  
@@ -53,10 +51,12 @@ The research will result in **theoretically and empirically grounded design prin
 
 **References**:
 
-1. Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. *Journal of Management Information Systems*, 24(3), 45-77.
-2. Latour, B. (2005). *Reassembling the social: An introduction to actor-network-theory*. Oxford University Press.
-3. Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: Work where you want, when you want. *Journal of Organization Design, 9*(1), 1–17. [https://doi.org/10.1186/s41469-020-00064-x](https://doi.org/10.1186/s41469-020-00064-x)
-4. Shaikh, M., & Vaast, E. (2023). Algorithmic interactions in open source work. *Information Systems Research, 34*(2), 744–765. [https://doi.org/10.1287/ISRE.2022.1153](https://doi.org/10.1287/ISRE.2022.1153)
+<div class="references">
+  <p>Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. <em>Journal of Management Information Systems</em>, 24(3), 45–77.</p>
+  <p>Latour, B. (2005). <em>Reassembling the social: An introduction to actor-network-theory</em>. Oxford University Press.</p>
+  <p>Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: Work where you want, when you want. <em>Journal of Organization Design</em>, 9(1), 1–17. <a href="https://doi.org/10.1186/s41469-020-00064-x">https://doi.org/10.1186/s41469-020-00064-x</a></p>
+  <p>Shaikh, M., & Vaast, E. (2023). Algorithmic interactions in open source work. <em>Information Systems Research</em>, 34(2), 744–765. <a href="https://doi.org/10.1287/ISRE.2022.1153">https://doi.org/10.1287/ISRE.2022.1153</a></p>
+</div>
 
 {: .info}
 **Application**: This thesis is part of the **#GITHUB-BOTS** call-for-theses, expected to be completed between April 2025 and August/October 2025.
@@ -73,9 +73,7 @@ The research will result in **theoretically and empirically grounded design prin
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**:  
-This thesis will explore how perceptions of fairness in bot interactions within Git-based organizing and document-based organizations (e.g., GitLab) are influenced by the procedural mode of action and interaction design. Specifically, it will investigate how actions such as **opening issues**, **direct commits**, **suggesting or rejecting pull requests**, and **evaluating user contributions** impact perceptions of procedural and interactional fairness. It may also examine how interaction design elements—such as tone, explanations, voicing concerns, and the disclosure of overriding options—shape user experiences and fairness perceptions.
-
+**Summary**: This thesis will explore how perceptions of fairness in bot interactions within Git-based organizing and document-based organizations (e.g., GitLab) are influenced by the procedural mode of action and interaction design. Specifically, it will investigate how actions such as **opening issues**, **direct commits**, **suggesting or rejecting pull requests**, and **evaluating user contributions** impact perceptions of procedural and interactional fairness. It may also examine how interaction design elements—such as tone, explanations, voicing concerns, and the disclosure of overriding options—shape user experiences and fairness perceptions.
 Theoretical underpinnings will draw from **Organizational Justice Theory**, the **Computer as Social Actor (CASA) Framework**, and/or the **Theory of Procedural and Interactional Fairness**.
 
 **Methods**:  
@@ -97,13 +95,14 @@ The thesis will generate insights into:
 
 **References**:
 
-1. Colquitt, J. A., Conlon, D. E., Wesson, M. J., Porter, C. O., & Ng, K. Y. (2001). Justice at the millennium: A meta-analytic review of 25 years of organizational justice research. *Journal of Applied Psychology*, 86(3), 425-445.  
-2. Nass, C., Steuer, J., & Tauber, E. R. (1994). Computers are social actors. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*.  
-3. Safadi, H., Lalor, J. P., & Berente, N. (2024). The effect of bots on human interaction in online communities. *MIS Quarterly, 48*(3). 
+<div class="references">
+  <p>Colquitt, J. A., Conlon, D. E., Wesson, M. J., Porter, C. O., & Ng, K. Y. (2001). Justice at the millennium: A meta-analytic review of 25 years of organizational justice research. <em>Journal of Applied Psychology</em>, 86(3), 425–445.</p>
+  <p>Nass, C., Steuer, J., & Tauber, E. R. (1994). Computers are social actors. <em>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</em>.</p>
+  <p>Safadi, H., Lalor, J. P., & Berente, N. (2024). The effect of bots on human interaction in online communities. <em>MIS Quarterly</em>, 48(3).</p>
+</div>
 
 {: .info}
 **Application**: This thesis is part of the **#GITHUB-BOTS** call-for-theses, expected to be completed between April 2025 and August/October 2025.
-
 
 <!--
 
