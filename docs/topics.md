@@ -61,6 +61,7 @@ The following topics are currently open for Bachelor's and Master's theses.
 {: .info}
 **Application**: This thesis is part of the **#GITHUB-BOTS** call-for-theses, expected to be completed between April 2025 and August/October 2025.
 
+<div class="page-break"></div>
 
 ## Investigating Fairness in Bot Interactions for Git-Based Organizing
 {: .d-inline-block }
