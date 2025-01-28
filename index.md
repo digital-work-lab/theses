@@ -150,6 +150,9 @@ It is important that we receive **two paper versions with original signatures**:
 - 1 original with two signatures (student and supervisor) **for the student**.
 - 1 original with two signatures (student and supervisor) **for archiving at the chair** .
 
+{: .info }
+> To complete the admission, please add the topic and date in the Word document and upload it in your repository (or share it via e-mail).
+
 ## 3. Thesis writing and feedback sessions
 
 Bachelor's theses are usually due in 4 months, Master's theses in 6 months.
