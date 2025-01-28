@@ -144,7 +144,7 @@ The next step is to make an appointment with the thesis advisor to determine the
 Please upload the Word document in your thesis repository before the meeting.
 
 You and your thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
-If the appointment is online, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
+If the topic was determined online or remotely, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
 It is important that we receive **two paper versions with original signatures**:
 
 - 1 original with two signatures (student and supervisor) **for the student**.
