@@ -32,6 +32,9 @@ To start your thesis on the right track, ensure the following setup steps are co
 - Schedule and work plan
 - Criteria
 
+
+TODO: How should we include this?
+
 - The [evaluation criteria](docs/evaluation.html)
 - The [literature review section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.10.literature-review.html){: target="_blank"}
 - The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html){: target="_blank"}
