@@ -101,8 +101,6 @@ By so doing, the author clarifies to what extent the research study has presente
 
 **Declarations**
 
-TODO: Declaration of your own work (Prüfungsamt)
-
 This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
 Students should refer to the [guideline for the use of digital tools](docs/digital_tools.html) for further information. 
 Additionally, while ethics statements cannot be issued for a thesis, students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/) page for relevant guidance.
