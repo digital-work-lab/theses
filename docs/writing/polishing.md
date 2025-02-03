@@ -39,7 +39,7 @@ Note: this should be checked at least one week before submission.
      - descriptions of specific methods, experiments, or results
      - discussion of prior research
 
-4. **Citation Guidelines**
+4. **Check Citation Guidelines**
    - **When should you cite directly?**
    - **When should you cite indirectly?**
    - **How does the APA format look?**
