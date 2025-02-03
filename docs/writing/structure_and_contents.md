@@ -6,12 +6,12 @@ parent: "Writing Guide"
 nav_order: 1
 ---
 
-
 # Structure and Contents
 
 The default structure outlined below may need to be adapted to the thesis at hand.
 Each section has its own scope, as illustrated in the figure below.
 It is recommended to use active voice ("I" or "We") instead of passive voice (commonly used in German).
+While creating your thesis, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your thesis meets the required academic standards.
 
 ![Anatomy of a research paper](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/images/anatomy_research_paper_wang.png){: target="_blank"}
 
@@ -101,4 +101,8 @@ By so doing, the author clarifies to what extent the research study has presente
 
 **Declarations**
 
-This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), and acknowledgements.
+TODO: Declaration of your own work (Prüfungsamt)
+
+This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
+Students should refer to the [guideline for the use of digital tools](docs/digital_tools.html) for further information. 
+Additionally, while ethics statements cannot be issued for a thesis, students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/) page for relevant guidance.

@@ -26,22 +26,12 @@ To start your thesis on the right track, ensure the following setup steps are co
 
 - [Set up the repository](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab)
 - [Create a template](https://github.com/digital-work-lab/thesis-template) <!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
-- Backups
-- Grammarly license
-- Reference manager
-- Schedule and work plan
-- Criteria
-
-
-TODO: How should we include this?
-
-- The [evaluation criteria](docs/evaluation.html)
-- The [literature review section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.10.literature-review.html){: target="_blank"}
 - The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html){: target="_blank"}
-- The [Bamberg Center for Empirical Studies (BACES)](https://www.uni-bamberg.de/baces/){: target="_blank"} offers free consultation related to data management and statistical analyses
-- The [writing section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.29.writing.html) (in particular correct citation practices)
-- The [guideline for the use of digital tools](docs/digital_tools.html)
-- Note: ethics statements cannot be issued for a thesis, but students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page.
+- Backups
+- Grammarly license (send an e-mail at studiendekanat.wiai@uni-bamberg.de)
+- Reference manager (tools like Zotero)
+- Schedule and work plan
+- [Evaluation criteria](docs/evaluation.html)
 
 It is good practice to write the thesis in a Git-versioned repository, add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
 
@@ -83,6 +73,7 @@ Ensuring that all key components are included in your thesis is essential for cl
 
 Structuring a chapter in your thesis requires a thoughtful and systematic approach to ensure clarity, coherence, and alignment with your research objectives. 
 A strong outline serves as the backbone for your writing, helping you maintain logical flow and effective argumentation.  
+While creating an outline, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your chapter meets the required academic standards.
 
 ### Steps to Create a Chapter Outline  
 
