@@ -14,11 +14,16 @@ nav_order: 3
 {: .objective }
 > 
 > - Writing in a clear and concise manner
-> ...
+> - Five Golden Rules
+> - Writing Process
+> - Topic Sentences
+> - Tense Usage in Academic Writing
+> - Citation Guidelines
+> - When Are Illustrations Needed?
 
 Writing should be accessible and free of unnecessary complexity to ensure readers easily grasp your ideas.
 
-## **Five Golden Rules**
+## Five Golden Rules
 
    - **Rule 1: Start with a Strong Outline**
      - explains the importance of outlining before starting
@@ -39,20 +44,23 @@ Writing should be accessible and free of unnecessary complexity to ensure reader
      - warns against overloading the thesis with unnecessary graphics
 
 
-## **Writing Process**
+## Writing Process
 
 ### Transitioning from Outline to Text
+
 Expanding bullet points into structured paragraphs is key to maintaining coherence. 
 Topic sentences should guide the reader through each paragraph, keeping the discussion focused. 
 Integrating references smoothly is also important to maintain the logical flow of ideas.
 
 ### Recommended Writing Sequence
+
 Starting with the **Methods Section** is recommended, as it is factual and descriptive, laying the foundation for the **Results Section**, where data is presented without interpretation. 
 The **Discussion Section** follows, analyzing the results in the context of research objectives. 
 The **Introduction and Literature Review** should be written later to align with study findings and to provide proper context. 
 Finally, the **Conclusion** summarizes key insights without introducing new ideas.
 
 ## Topic Sentences
+
 Topic sentences provide clarity and structure, making it easier for readers to follow the argument. 
 They are commonly found in high-quality academic writing. 
 Good examples of topic sentences can be found in top-tier journal papers like the one of Davis (1989):
@@ -66,6 +74,7 @@ Good examples of topic sentences can be found in top-tier journal papers like th
       Perceived ease of use, in contrast, refers to “the degree to which a person believes that using a particular system would be free of effort.” This follows from the definition of “ease”: “freedom from difficulty or great effort.” Effort is a finite resource that a person may allocate to the various activities for which he or she is responsible (Radner and Rothschild, 1975). All else being equal, we claim, an application perceived to be easier to use than another is more likely to be accepted by users.
 
 ## Tense Usage in Academic Writing
+
 The **present tense** is used for general truths, accepted knowledge, and describing the content of the paper. 
 For example, "This study investigates..." or "Figure 1 shows..." 
 The **past tense** is used to describe specific methods, report findings, and reference prior research, as in "Smith et al. (2020) found..."
