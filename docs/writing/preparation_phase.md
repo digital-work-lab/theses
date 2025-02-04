@@ -19,6 +19,8 @@ Note: this should roughly be completed within the first week of the thesis.
 {: .objective }
 > - Setup
 > - Structuring your thesis
+> - Creating a General Outline for a Thesis Chapter 
+> - Example Structure
 
 ## Setup
 

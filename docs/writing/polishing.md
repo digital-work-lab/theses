@@ -8,6 +8,16 @@ nav_order: 4
 
 # Polishing Phase
 
+
+{: .objective }
+> 
+> - Revising Extensively
+> - Finalizing Illustrations
+> - Language Guidelines
+> - Check Citation Guidelines
+> - Evaluation Criteria
+
+
 Before submitting your thesis, we encourage students to consult the [pre-submission checklist](docs/pre_submission.html). 
 Additionally, at least one week before submission, ensure that your thesis meets the following criteria.
 

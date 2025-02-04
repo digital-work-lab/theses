@@ -6,8 +6,7 @@ parent: "Writing Guide"
 nav_order: 3
 ---
 
-
-## Writing Phase
+# Writing Phase
 
 **Bringing Your Thesis to Life**
 

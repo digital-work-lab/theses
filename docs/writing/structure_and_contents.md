@@ -8,6 +8,17 @@ nav_order: 1
 
 # Structure and Contents
 
+{: .objective }
+> 
+> - Abstract
+> - Introduction
+> - Background
+> - Methodology
+> - Results
+> - Discussion
+> - Conclusion
+> - Declarations
+
 The default structure outlined below may need to be adapted to the thesis at hand.
 Each section has its own scope, as illustrated in the figure below.
 It is recommended to use active voice ("I" or "We") instead of passive voice (commonly used in German).
@@ -100,6 +111,9 @@ A well-crafted conclusion answers the research question stated in the Introducti
 By so doing, the author clarifies to what extent the research study has presented a solution or improvement to the examined problem space.
 
 **Declarations**
+
+Do not forget that thelast page of your thesis hast to be the statutory declaration ("Eidestattliche Erklärung") of the examinaion office. 
+This declaration is printed on your topic confirmation.
 
 This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
 Students should refer to the [guideline for the use of digital tools](docs/digital_tools.html) for further information. 
