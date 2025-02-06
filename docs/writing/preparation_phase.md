@@ -115,7 +115,7 @@ While creating an outline, keep the [evaluation criteria](docs/evaluation.html) 
    - make sure all critical references are accounted for in the outline, including preliminary citations for sources you plan to discuss in detail later 
    - seek feedback from a peer or advisor to ensure the outline’s logic is sound and citations are used effectively
 
-#### Tailoring the Outline to Different Thesis Chapters  
+### Tailoring the Outline to Different Thesis Chapters  
 
 - **Introduction Chapter**  
   - context and background of the study, including key foundational studies (cite major authors or theories that are central to your research)

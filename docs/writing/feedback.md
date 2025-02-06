@@ -17,7 +17,11 @@ nav_order: 4
 We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:
 
 - Feedback sessions can be in person or online
-- They can be scheduled via [calendly](https://calendly.com/gerit-wagner/30min){: target="_blank"}
+- They can be scheduled via Calendly:
+
+{: .text-center}
+[Schedule feedback session](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
+{: .text-center}
 
 To receive feedback on the written document, please
 
