@@ -71,4 +71,4 @@ Reference managers like Zotero facilitate proper citation formatting.
 
 ## Evaluation Criteria
 
-While creating your thesis, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your thesis meets the required academic standards.
+While creating your thesis, keep the [evaluation criteria](../evaluation.html) in mind to ensure your thesis meets the required academic standards.

@@ -39,7 +39,7 @@ To start your thesis on the right track, ensure the following setup steps are co
 - Consider requesting a Grammarly license (send an e-mail at studiendekanat.wiai@uni-bamberg.de)
 - Reference manager (tools like Zotero)
 - Create a schedule and work plan
-- [Evaluation criteria](docs/evaluation.html)
+- [Evaluation criteria](../evaluation.html)
 
 It is good practice to write the thesis in a Git-versioned repository, add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.
 

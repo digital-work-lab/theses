@@ -33,7 +33,7 @@ Afterwards, the discussion should explain how your findings relate to prior resa
 
 ![Anatomy of a research paper](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/images/anatomy_research_paper_wang.png){: target="_blank"}
 
-Note: While creating your thesis, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your thesis meets the required academic standards.
+Note: While creating your thesis, keep the [evaluation criteria](../evaluation.html) in mind to ensure your thesis meets the required academic standards.
 
 **Abstract**
 
@@ -133,5 +133,5 @@ Do not forget that thelast page of your thesis hast to be the statutory declarat
 This declaration is printed on your topic confirmation.
 
 This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
-You may also refer to the [guideline for the use of digital tools](docs/digital_tools.html) for further information. 
+You may also refer to the [guideline for the use of digital tools](../digital_tools.html) for further information. 
 Additionally students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page for relevant guidance (although formal ethics approvals cannot be issued for a thesis).
