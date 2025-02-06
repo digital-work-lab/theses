@@ -42,6 +42,7 @@ Use the **present tense** for general truths, accepted knowledge, and descriptio
 The **past tense** is appropriate for describing specific methods, experiments, results, and prior research.
 
 ## Check Citation Guidelines
+
 Citing correctly ensures academic integrity. 
 Consider when to cite directly or indirectly and adhere to APA formatting guidelines for references.
 See the following example:
@@ -50,4 +51,5 @@ Word-for-word quotations require quotation marks and page numbers, e.g., "A subs
 Reference managers like Zotero facilitate proper citation formatting.
 
 ## Evaluation Criteria
+
 While creating your thesis, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your thesis meets the required academic standards.

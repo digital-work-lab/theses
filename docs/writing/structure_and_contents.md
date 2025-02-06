@@ -21,15 +21,18 @@ nav_order: 1
 
 The default structure outlined below may need to be adapted to the thesis at hand.
 Each section has its own scope, as illustrated in the figure below.
-It is recommended to use active voice ("I" or "We") instead of passive voice (commonly used in German).
-While creating your thesis, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your thesis meets the required academic standards.
+In the introduction, you can contextualize your work with respect to the broader topic.
+The methods and findings focus more narrowly on the evidence and findings of your work.
+Afterwards, the discussion should explain how your findings relate to prior resarch.
 
 ![Anatomy of a research paper](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/images/anatomy_research_paper_wang.png){: target="_blank"}
+
+Note: While creating your thesis, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your thesis meets the required academic standards.
 
 **Abstract**
 
 The abstract acts as a point-of-entry for the reader, providing a first overview of the research study, namely, the motivation for the study, the methodological approach taken and a summary of the main results. 
-In addition, the purpose of the research study should be clearly defined. Typically, an abstract consists of around 200 words.
+In addition, the purpose of the research study should be clearly defined. Typically, an abstract consists of around 300 words.
 
 **Introduction**
 
@@ -41,11 +44,18 @@ The relevance as well as the purpose can further be highlighted by using an appr
 
 The building blocks of Lange an Pfarrer (2017) may be helpful:
 
-- **Common Ground**: Establishing common ground involves presenting the current state of the literature and ensuring that the reader is in agreement with the basic assumptions, boundary conditions, and key concepts. This step is crucial for gaining the reader’s interest and tacit consent, making them more receptive to the forthcoming arguments and discussions.
-- **Complication**: After establishing common ground, introduce a complication that challenges the current understanding or highlights a gap in the literature. This complication could be a problem, puzzle, or twist that makes the reader realize the inadequacy or incompleteness of the existing academic conversation.
-- **Concern**: To make the complication compelling, explain why it matters. This involves demonstrating the significance of the gap or issue identified. The concern step is about showing the practical and theoretical implications of the complication, emphasizing why it is essential to address this gap in the literature.
-- **Course of Action**: Describe the approach or methodology that will be used to address the identified complication. This could involve developing new constructs, modeling relationships, exploring processes, or synthesizing existing theories. The course of action should be clearly explained, logically structured, and directly aimed at resolving the complication.
-- **Contribution**: Finally, articulate how the research will contribute to the academic conversation. This entails explaining the novelty and significance of the findings and how they advance understanding in the field. The contribution should also suggest future theoretical exploration and practical implications for management and organizations.
+- **Common Ground**: Establishing common ground involves presenting the current state of the literature and ensuring that the reader is in agreement with the basic assumptions, boundary conditions, and key concepts.
+  This step is crucial for gaining the reader’s interest and tacit consent, making them more receptive to the forthcoming arguments and discussions.
+- **Complication**: After establishing common ground, introduce a complication that challenges the current understanding or highlights a gap in the literature.
+  This complication could be a problem, puzzle, or twist that makes the reader realize the inadequacy or incompleteness of the existing academic conversation.
+- **Concern**: To make the complication compelling, explain why it matters. This involves demonstrating the significance of the gap or issue identified.
+  The concern step is about showing the practical and theoretical implications of the complication, emphasizing why it is essential to address this gap in the literature.
+- **Course of Action**: Describe the approach or methodology that will be used to address the identified complication.
+  This could involve developing new constructs, modeling relationships, exploring processes, or synthesizing existing theories.
+  The course of action should be clearly explained, logically structured, and directly aimed at resolving the complication.
+- **Contribution**: Finally, articulate how the research will contribute to the academic conversation.
+  This entails explaining the novelty and significance of the findings and how they advance understanding in the field.
+  The contribution should also suggest future theoretical exploration and practical implications for management and organizations.
 
 The final paragraph of the introduction gives an outline of the structure of the study, that is, the approaches taken in each step of conducting the research study are briefly described. 
 This gives the reader a clear picture of the composition of the study, i.e., what can and what cannot be expected of the study.
@@ -66,6 +76,7 @@ A graphical representation of the framework helps to illustrate complex theoreti
 The explicit statement of the conceptual framework not just informs the reader, it also guides the author in conducting the research.
 
 Relevant background literature can be found in journals such as those listed in
+
 - the [AIS Senior Scholars' Basket of Journals](https://aisnet.org/general/custom.asp?page=SeniorScholarBasket){: target="_blank"}
 - the [VHB Jourqual Ranking](https://vhbonline.org/wissenschaftliche-kommissionen/wirtschaftsinformatik-wi/vhb-rating-2024-wirtschaftsinformatik){: target="_blank"}
 - or conferences such as [ICIS](http://aisel.aisnet.org/icis/){: target="_blank"} and [ECIS](https://aisel.aisnet.org/ecis){: target="_blank"}.
@@ -116,5 +127,5 @@ Do not forget that thelast page of your thesis hast to be the statutory declarat
 This declaration is printed on your topic confirmation.
 
 This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
-Students should refer to the [guideline for the use of digital tools](docs/digital_tools.html) for further information. 
-Additionally, while ethics statements cannot be issued for a thesis, students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/) page for relevant guidance.
+You may also refer to the [guideline for the use of digital tools](docs/digital_tools.html) for further information. 
+Additionally students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/) page for relevant guidance (although formal ethics approvals cannot be issued for a thesis).

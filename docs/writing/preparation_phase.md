@@ -26,13 +26,12 @@ Note: this should roughly be completed within the first week of the thesis.
 
 To start your thesis on the right track, ensure the following setup steps are completed:
 
-- [Set up the repository](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab)
-- [Create a template](https://github.com/digital-work-lab/thesis-template) <!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
+- Create a [repository](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab) based on our template<!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
 - The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html){: target="_blank"}
 - Backups
-- Grammarly license (send an e-mail at studiendekanat.wiai@uni-bamberg.de)
+- Consider requesting a Grammarly license (send an e-mail at studiendekanat.wiai@uni-bamberg.de)
 - Reference manager (tools like Zotero)
-- Schedule and work plan
+- Create a schedule and work plan
 - [Evaluation criteria](docs/evaluation.html)
 
 It is good practice to write the thesis in a Git-versioned repository, add notes from the meetings to the README.md file, and give your thesis advisor access to the repository.

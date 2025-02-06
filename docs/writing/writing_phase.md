@@ -24,28 +24,28 @@ Writing should be accessible and free of unnecessary complexity to ensure reader
 
 ## Five Golden Rules
 
-   - **Rule 1: Start with a Strong Outline**
-     - explains the importance of outlining before starting
-     - Outline as the backbone of your thesis
-     - provides tips for breaking down your thesis into sections
-   - **Rule 2: Maintain Consistency**
-     - Consistency in tone: formal, clear, and academic
-     - Formatting rules: follow a single style guide for margins, headings, and citations
-     - suggests tools like Zotero to help manage citations efficiently
-   - **Rule 3: Prioritize Clarity**
-     - guides on using short, direct sentences and avoiding unnecessary jargon
-     - advises defining technical terms for readers unfamiliar with the topic
-   - **Rule 4: Revise Extensively**
-     - recommends a multi-step revision process, focusing on structure first, then content, and finally grammar
-     - encourages seeking feedback from your supervisor
-   - **Rule 5: Use Illustrations Wisely**
-     - discusses the purpose of visuals and when to include them (e.g., data-heavy sections, complex processes)
-     - warns against overloading the thesis with unnecessary graphics
+- **Rule 1: Start with a Strong Outline**
+  - explains the importance of outlining before starting
+  - Outline as the backbone of your thesis
+  - provides tips for breaking down your thesis into sections
+- **Rule 2: Maintain Consistency**
+  - Consistency in tone: formal, clear, and academic
+  - Formatting rules: follow a single style guide for margins, headings, and citations
+  - suggests tools like Zotero to help manage citations efficiently
+- **Rule 3: Prioritize Clarity**
+  - guides on using short, direct sentences and avoiding unnecessary jargon
+  - advises defining technical terms for readers unfamiliar with the topic
+- **Rule 4: Revise Extensively**
+  - recommends a multi-step revision process, focusing on structure first, then content, and finally grammar
+  - encourages seeking feedback from your supervisor
+- **Rule 5: Use Illustrations Wisely**
+  - discusses the purpose of visuals and when to include them (e.g., data-heavy sections, complex processes)
+  - warns against overloading the thesis with unnecessary graphics
 
 
 ## Writing Process
 
-### Transitioning from Outline to Text
+### From the Outline to the Manuscript
 
 Expanding bullet points into structured paragraphs is key to maintaining coherence. 
 Topic sentences should guide the reader through each paragraph, keeping the discussion focused. 
@@ -58,19 +58,23 @@ The **Discussion Section** follows, analyzing the results in the context of rese
 The **Introduction and Literature Review** should be written later to align with study findings and to provide proper context. 
 Finally, the **Conclusion** summarizes key insights without introducing new ideas.
 
+## Using active voice
+
+It is recommended to use active voice ("I" or "We") instead of passive voice (commonly used in German).
+
 ## Topic Sentences
 
 Topic sentences provide clarity and structure, making it easier for readers to follow the argument. 
 They are commonly found in high-quality academic writing. 
 Good examples of topic sentences can be found in top-tier journal papers like the one of Davis (1989):
 
-      Perceived Usefulness and Perceived Ease of Use
-
-      What causes people to acceptor reject information technology? Among the many variables that may influence system use, previous research suggests two determinants that are especially important. First, people tend to use or not use an application to the extent they believe it will help them perform their job better. We refer to this first variable as perceived usefulness. Second, even if potential users believe that a given application is useful, they may, at the same time, believe that the systems is too hard to use and that the performance benefits of usage are outweighed by the effort of using the application. That is, in addition to usefulness, usage is theorized to be influenced by perceived ease of use.
-
-      Perceived usefulness is defined here as “the degree to which a person believes that using a particular system would enhance his or her job performance.” This follows from the definition of the word useful: “capable of being used advantageously.” Within an organizational context, people are generally reinforced for good performance by raises, promotions, bonuses, and other rewards (Pfeffer, 1982; Schein,1980; Vroom,1964). A system high in perceived usefulness, in turn, is one for which a user believes in the existence of a positive use-performance relationship.
-
-      Perceived ease of use, in contrast, refers to “the degree to which a person believes that using a particular system would be free of effort.” This follows from the definition of “ease”: “freedom from difficulty or great effort.” Effort is a finite resource that a person may allocate to the various activities for which he or she is responsible (Radner and Rothschild, 1975). All else being equal, we claim, an application perceived to be easier to use than another is more likely to be accepted by users.
+> Perceived Usefulness and Perceived Ease of Use
+> 
+> What causes people to acceptor reject information technology? Among the many variables that may influence system use, previous research suggests two determinants that are especially important. First, people tend to use or not use an application to the extent they believe it will help them perform their job better. We refer to this first variable as perceived usefulness. Second, even if potential users believe that a given application is useful, they may, at the same time, believe that the systems is too hard to use and that the performance benefits of usage are outweighed by the effort of using the application. That is, in addition to usefulness, usage is theorized to be influenced by perceived ease of use.
+> 
+> Perceived usefulness is defined here as “the degree to which a person believes that using a particular system would enhance his or her job performance.” This follows from the definition of the word useful: “capable of being used advantageously.” Within an organizational context, people are generally reinforced for good performance by raises, promotions, bonuses, and other rewards (Pfeffer, 1982; Schein,1980; Vroom,1964). A system high in perceived usefulness, in turn, is one for which a user believes in the existence of a positive use-performance relationship.
+> 
+> Perceived ease of use, in contrast, refers to “the degree to which a person believes that using a particular system would be free of effort.” This follows from the definition of “ease”: “freedom from difficulty or great effort.” Effort is a finite resource that a person may allocate to the various activities for which he or she is responsible (Radner and Rothschild, 1975). All else being equal, we claim, an application perceived to be easier to use than another is more likely to be accepted by users.
 
 ## Tense Usage in Academic Writing
 
