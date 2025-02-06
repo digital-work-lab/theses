@@ -134,4 +134,4 @@ This declaration is printed on your topic confirmation.
 
 This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
 You may also refer to the [guideline for the use of digital tools](docs/digital_tools.html) for further information. 
-Additionally students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/) page for relevant guidance (although formal ethics approvals cannot be issued for a thesis).
+Additionally students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page for relevant guidance (although formal ethics approvals cannot be issued for a thesis).
