@@ -81,7 +81,7 @@ Ensuring that all key components are included in your thesis is essential for cl
 
 Structuring a chapter in your thesis requires a thoughtful and systematic approach to ensure clarity, coherence, and alignment with your research objectives. 
 A strong outline serves as the backbone for your writing, helping you maintain logical flow and effective argumentation.  
-While creating an outline, keep the [evaluation criteria](docs/evaluation.html) in mind to ensure your chapter meets the required academic standards.
+While creating an outline, keep the [evaluation criteria](../evaluation.html) in mind to ensure your chapter meets the required academic standards.
 
 ### Steps to Create a Chapter Outline  
 
