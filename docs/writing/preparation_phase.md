@@ -33,7 +33,7 @@ Note: this should roughly be completed within the first week of the thesis.
 
 To start your thesis on the right track, ensure the following setup steps are completed:
 
-- Create a [repository](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab) based on our template<!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx) -->
+- Create a [repository](https://github.com/new?template_name=thesis-template&template_owner=digital-work-lab){: target="_blank"} based on our template<!-- or [word](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/docs/template.docx){: target="_blank"} -->
 - The [analysis templates section](https://digital-work-lab.github.io/handbook/docs/20-research/20_processes/20.21.analysis-templates.html){: target="_blank"}
 - Backups
 - Consider requesting a Grammarly license (send an e-mail at studiendekanat.wiai@uni-bamberg.de)
