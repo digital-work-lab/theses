@@ -1,24 +1,30 @@
 ---
 layout: default
-title: "Structure and Contents"
+title: "Writing phase"
 has_toc: true
 parent: "Writing Guide"
 nav_order: 3
 ---
 
-# Writing Phase
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
 
-**Bringing Your Thesis to Life**
+# Writing Phase
 
 {: .objective }
 > 
-> - Writing in a clear and concise manner
 > - Five Golden Rules
 > - Writing Process
+> - Using Active Voice
 > - Topic Sentences
 > - Tense Usage in Academic Writing
 > - Citation Guidelines
 > - When Are Illustrations Needed?
+
+**Bringing Your Thesis to Life**
 
 Writing should be accessible and free of unnecessary complexity to ensure readers easily grasp your ideas.
 

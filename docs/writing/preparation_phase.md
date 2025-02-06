@@ -1,12 +1,25 @@
 ---
 layout: default
-title: "Writing"
+title: "Preparation phase"
 has_toc: true
 parent: "Writing Guide"
 nav_order: 2
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 # Preparation Phase
+
+{: .objective }
+> 
+> - Setup
+> - Structuring your thesis
+> - Creating a General Outline for a Thesis Chapter 
+> - Example Structure
 
 This page provides a structured guide to initiating your thesis. 
 It includes essential setup steps and guidance on structuring your thesis. 
@@ -15,12 +28,6 @@ By following these guidelines, you will lay a solid foundation for your research
 **Laying the Foundation for Your Thesis**
 
 Note: this should roughly be completed within the first week of the thesis.
-
-{: .objective }
-> - Setup
-> - Structuring your thesis
-> - Creating a General Outline for a Thesis Chapter 
-> - Example Structure
 
 ## Setup
 
@@ -141,4 +148,4 @@ While creating an outline, keep the [evaluation criteria](docs/evaluation.html) 
 > Here is a structure example from a completed thesis.
 > You can use this template to structure any of the chapters of your thesis. This will help you with your writing process. 
 > In addition it is a great document to share with your advisor and talk it through before writing a whole text.
-> Here is the [Structure Example](Introduction_Structure - Template.pdf).
+> Here is the [Structure Example](Introduction_Structure_Template.pdf).

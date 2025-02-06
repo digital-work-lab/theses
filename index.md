@@ -163,11 +163,17 @@ For students of Applied Informatics, Software Systems Science, and Computing in 
 You are expected to complete the exposé before writing the thesis.
 A thesis must be written in English.
 
-Best practices for writing a thesis are linke below:
+We offer a comprehensive writing guide offering advice and best practices for all phases of your thesis:
 
+{: .text-center}
+[Writing Guide](docs/writing_section){: .btn .btn-green}
+{: .text-center}
+
+
+{: .text-center}
 ```mermaid
 flowchart
-    structure_and_contents["<a href='docs/writing/structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='docs/writing/preparation_phase.md'>Preparation</a>"]
+    structure_and_contents["<a href='docs/writing/structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='docs/writing/preparation_phase'>Preparation</a>"]
     preparation --> writing["<a href='docs/writing//writing_phase'>Writing</a>"]
     writing --> feedback["<a href='docs/writing/feedback'>Feedback</a>"]
     feedback --> writing

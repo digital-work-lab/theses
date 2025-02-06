@@ -6,6 +6,12 @@ parent: "Writing Guide"
 nav_order: 4
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 # Feedback
 
 We offer regular **feedback sessions** (every one to two weeks) to discuss open questions and the next steps:

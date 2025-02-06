@@ -6,6 +6,12 @@ parent: "Writing Guide"
 nav_order: 1
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 # Structure and Contents
 
 {: .objective }

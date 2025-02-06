@@ -5,6 +5,12 @@ has_toc: true
 nav_order: 7
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 # Writing Guide
 
 Welcome to the Writing Guide!
@@ -16,14 +22,14 @@ Whether you're working on your Bachelor's or Master's thesis, this guide will wa
 This overview highlights the typical structure and flow of a research thesis.
 The thesis process is divided into distinct phases, preparation, writing, and final revisions, which are interconnected and build upon each other.
 
+{: .text-center}
 ```mermaid
 flowchart
-    structure_and_contents["<a href='#structure_and_contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation_phase'>Preparation</a>"]
-    preparation --> writing["<a href='#writing_phase'>Writing</a>"]
+    structure_and_contents["<a href='#structure-and-contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation-phase'>Preparation</a>"]
+    preparation --> writing["<a href='#writing-phase'>Writing</a>"]
     writing --> feedback["<a href='#feedback'>Feedback</a>"]
     feedback --> writing
-    writing --> polishing["<a href='#polishing_phase'>Polishing</a>"]
-
+    writing --> polishing["<a href='#polishing-phase'>Polishing</a>"]
 ```
 
 ## Structure and Contents
