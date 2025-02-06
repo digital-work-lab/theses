@@ -29,7 +29,7 @@ The default structure outlined below may need to be adapted to the thesis at han
 Each section has its own scope, as illustrated in the figure below.
 In the introduction, you can contextualize your work with respect to the broader topic.
 The methods and findings focus more narrowly on the evidence and findings of your work.
-Afterwards, the discussion should explain how your findings relate to prior resarch.
+Afterwards, the discussion should explain how your findings relate to prior research.
 
 ![Anatomy of a research paper](https://raw.githubusercontent.com/digital-work-lab/handbook/main/assets/images/anatomy_research_paper_wang.png){: target="_blank"}
 
@@ -88,7 +88,7 @@ Relevant background literature can be found in journals such as those listed in
 - or conferences such as [ICIS](http://aisel.aisnet.org/icis/){: target="_blank"} and [ECIS](https://aisel.aisnet.org/ecis){: target="_blank"}.
 
 Papers can be accessed through the [Bamberger Katalog](https://katalog.ub.uni-bamberg.de/TouchPoint/start.do?View=ubg&Language=en&StartPage=UserAccount){: target="_blank"}, a search on [Researchgate](https://www.researchgate.net){: target="_blank"}, a search on Google Scholar, or by contacting the authors.
-For using the Bamberger Kaalog, Researchgate and some of the Google Scholar paper you need to be connected to the University of Bamberg VPN.
+For using the Bamberger Katalog, Researchgate and some of the Google Scholar paper you need to be connected to the University of Bamberg VPN.
 
 Guidelines on searching the literature are provided by Webster and Watson (2002).
 
@@ -129,7 +129,7 @@ By so doing, the author clarifies to what extent the research study has presente
 
 **Declarations**
 
-Do not forget that thelast page of your thesis hast to be the statutory declaration ("Eidestattliche Erklärung") of the examinaion office. 
+Do not forget that the last page of your thesis hast to be the statutory declaration ("Eidestattliche Erklärung") of the examination office. 
 This declaration is printed on your topic confirmation.
 
 This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
