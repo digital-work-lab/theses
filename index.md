@@ -184,6 +184,7 @@ flowchart
 ## 4. Submission of the thesis
 
 Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter) including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
+The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
 
 {: .info }
 > - It is mandatory to include a CD-ROM with a PDF of the thesis.
@@ -194,8 +195,6 @@ Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder 
 - During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
 - Dispatch by mail (the date of the postmark counts) Otto-Friedrich-University, Examination Office - 96045 Bamberg
-
-The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
 
 ## 5. Thesis presentation
 
