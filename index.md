@@ -214,19 +214,3 @@ A summary is stored on our [feedback page](docs/feedback.html) if you agree.
 {: .text-center}
 [Schedule feedback session](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
 {: .text-center}
-
-## Applicable regulations
-
-<!-- 
-- Bachelor Business Information Systems
-- Bachelor International Information Systems Management
-- Bachelor Angewandte Informatik
-- Bachelor Software Systems Science
-- Master Business Information Systems
-- Master International Information Systems Management
-- Master Angewandte Informatik
-- Master Software Systems Science
-- Master Computing in the Humanities
- -->
-
-- [Prüfungs- und Studienordnungen](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/){: target="_blank"}, insbes. Modulhandbücher
