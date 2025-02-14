@@ -187,7 +187,7 @@ Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder 
 The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
 
 {: .info }
-> - It is mandatory to include a CD-ROM with a PDF of the thesis.
+> - It is mandatory to include a 💿 CD-ROM with a PDF of the thesis.
 > - We provide CD-ROMs with paper covers free of charge—don’t spend 10€ at the copy shop! 😉 You can use the CIP-Pool computers to write data onto a CD-ROM.
 > - You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document along with the thesis.
 >   If you plan to publish a paper based on your thesis, it may be advisable to withhold your consent.
