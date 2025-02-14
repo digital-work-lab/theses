@@ -96,6 +96,22 @@ https://www.uni-bamberg.de/psi/teaching/psi-teaching-posters/
 https://www.dmm.bwl.uni-muenchen.de/download/info/dmm_formalia_2022_de.docx
 -->
 
+## Applicable regulations
+
+<!-- 
+- Bachelor Business Information Systems
+- Bachelor International Information Systems Management
+- Bachelor Angewandte Informatik
+- Bachelor Software Systems Science
+- Master Business Information Systems
+- Master International Information Systems Management
+- Master Angewandte Informatik
+- Master Software Systems Science
+- Master Computing in the Humanities
+ -->
+
+- [Prüfungs- und Studienordnungen](https://www.uni-bamberg.de/abt-studium/aufgaben/pruefungs-studienordnungen/){: target="_blank"}, insbes. Modulhandbücher
+
 ## References
 
 <div class="references">
