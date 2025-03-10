@@ -35,3 +35,6 @@ We expect you to communicate on an equal level:
 - In e-mails, write `"Hallo Herr Wagner"` (instead of `"Sehr geehrter Herr Prof. Dr. Wagner"`).
 - If you disagree with a particular suggestion, challenge it and explain why you would do it differently.
 - Instead of apologizing, say [thank you](https://www.popsugar.com/smart-living/why-you-should-say-thank-you-instead-of-sorry-47250332){: target="_blank"}.
+
+{: .highlight }
+> Keep in mind: There is no perfect thesis and not even a perfect draft - it is always a process of discussing the current version, getting feedback, and refining it.
