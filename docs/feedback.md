@@ -44,6 +44,18 @@ We actively encourage students to participate in feedback sessions. In the proce
 Optional comment afterward: Thesis advisor comment: We improved XY
 -->
 
+## 35.013
+
+Die Betreuung meiner Bachelorarbeit durch Herrn Prof. Wagner war durchweg positiv. Die Arbeit konnte vollständig remote verfasst werden, wobei regelmäßige und hilfreiche Online-Meetings den Austausch ermöglichten.
+Die Themenfindung verlief relativ unkompliziert, da bereits einige offene Themen zur Auswahl standen. In einem kurzen Bewerbungsgespräch und dem anschließenden Kick-off-Meeting erhielt ich wertvolle Einblicke sowie erste Literaturhinweise zum Thema, sowie der Methodik, die den Einstieg erleichterten.
+Fragen und Feedback konnten unkompliziert über Calendly-Termine geklärt werden. Dabei wurde auf Probleme schnell und kompetent eingegangen, und eigene Ideen konnten eingebracht und diskutiert werden. 
+Die Bewertungskriterien waren transparent und wurden auch im finalen Feedback-Gespräch nachvollziehbar angewendet und erklärt.
+
+Fazit:
+Ich kann die Betreuung bei Herrn Prof. Wagner uneingeschränkt weiterempfehlen.
+
+Bewertung: 5/5
+
 ## 35.012
 
 Meine Abschlussarbeit am Lehrstuhl von Herrn Wagner zu schreiben war sehr angenehm. Termine für Feedbackgespräche können per Online-Tool ganz einfach ausgemacht werden, Herr Wagner ist auch sehr oft verfügbar, selbst kurzfristige Terminabsagen waren kein Problem. Die vielen Feedbackgespräche haben mir die Gelegenheit gegeben, viele (auch mal weniger sinnvolle) Fragen zu stellen, die Herr Wagner immer sehr freundlich und respektvoll beantwortete - die Kommunikation fand generell komplett auf Augenhöhe statt. Dieses Feedback war in der anfänglichen, schwierigen Phase besonders wertvoll, in der noch Fokus und Methodik der Arbeit festgelegt werden mussten. Herr Wagner hatte außerdem immer eine Menge hilfreicher und relevanter Paper zur Hand, die mir sehr geholfen haben. Die Bewertung meiner Arbeit war fair, transparent und nachvollziehbar und wurde mir von Herrn Wagner im abschließenden Gespräch ausführlich erklärt. Alles in allem kann ich jeder und jedem nur wärmstens empfehlen, Abschlussarbeiten bei Herrn Wagner zu schreiben.
