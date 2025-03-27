@@ -44,6 +44,12 @@ We actively encourage students to participate in feedback sessions. In the proce
 Optional comment afterward: Thesis advisor comment: We improved XY
 -->
 
+## 35.014
+
+Ich kann das Verfassen einer Abschlussarbeit am Lehrstuhl Digital Work bei Prof. Wagner vollstens empfehlen. Mein Thema war sehr spannend und an das Projekt, das ich im vorherigen Semester an dem Lehrstul belegt hatte, angeknüpft. Dank der bereitgestellten Startliteratur und einer kurzen Einführung im Rahmen eines Kick-off-Meetings durch Prof. Wagner fiel mir der Einstieg in das Thema leicht. Der Arbeitsprozess und hilfreiche Tipps zu den einzelnen Schritten sowie die Evaluationskriterien wurden klar geschildert und waren online verfügbar. Besonders geschätzt habe ich das häufige und konstruktive Feedback von Prof. Wagner. Das Buchen von Zeitslots über Calendly machte die Terminfindung unkompliziert – Prof. Wagner war immer zuverlässig erreichbar und hat sich viel Zeit für meine Fragen genommen. Zudem hatte Prof. Wagner einen Review-Prozess mit drei anderen Studierenden mit ähnlichen Themen organisiert, durch welchen ich zusätzlich wertvolles Feedback erhalten konnte. Insgesamt war die Betreuung hervorragend.
+
+Bewertung: 5/5
+
 ## 35.013
 
 Die Betreuung meiner Bachelorarbeit durch Herrn Prof. Wagner war durchweg positiv. Die Arbeit konnte vollständig remote verfasst werden, wobei regelmäßige und hilfreiche Online-Meetings den Austausch ermöglichten.
