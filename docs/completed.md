@@ -33,7 +33,6 @@ Completed theses:
 - 003 **Antonia Pausch**: Remote work and mental health: A qualitative systematic review (Bachelor's thesis)
 - 002 **Salim Kahn**: Artificial Intelligence and Changes in Associated Skill Requirements Across Industry Sectors (Bachelor's thesis)
 - 001 **Marina Herold**: The Transformation of Organizational Culture in the Age of Remote Work: A Literature Review (Bachelor's thesis)
-
 - **Philip Empl**: Addressing the Inefficiency of Searching Backward: A Novel Tool to Support Authors of Literature Reviews (Bachelor's thesis)
 - **Richard Schuster**: How Do We Build on Information Systems Design Science Research? Steps Towards Cumulative Knowledge Development (Bachelor's thesis)
 - **Julian Prester**: Uncovering the Epistemological Impact of IS Literature Reviews: A Natural Language Processing Based Approach (Master's thesis)
