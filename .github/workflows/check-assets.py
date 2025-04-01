@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Define project root as two levels above the script's location
 project_root = Path(__file__).resolve().parents[2]
-markdown_dir = Path('slides')  # Directory containing markdown files
+markdown_dir = Path('.')  # Directory containing markdown files
 assets_dir = Path('assets')  # Directory containing assets
 ignore_file = project_root / '.github/workflows/.asset_ignore.txt'  # Path to the .asset_ignore.txt file
 
@@ -28,7 +28,7 @@ def find_linked_assets(markdown_dir):
     linked_assets = set()
     
     # Walk through all markdown files
-    for root, _, files in list(os.walk(markdown_dir)) + ['index.md']:
+    for root, _, files in os.walk(markdown_dir):
         for file in files:
             if file.endswith('.md'):
                 filepath = Path(root) / file
