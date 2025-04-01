@@ -1,4 +1,4 @@
-import os
+ import os
 import re
 from pathlib import Path
 
@@ -28,7 +28,7 @@ def find_linked_assets(markdown_dir):
     linked_assets = set()
     
     # Walk through all markdown files
-    for root, _, files in os.walk(markdown_dir):
+    for root, _, files in os.walk(markdown_dir) + ['index.md']:
         for file in files:
             if file.endswith('.md'):
                 filepath = Path(root) / file
