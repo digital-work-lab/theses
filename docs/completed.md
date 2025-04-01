@@ -10,13 +10,23 @@ nav_order: 9
 
 Present theses:
 
+- 030 **Julia Seibold**: awesome: An analysis of popular knowledge curations on GitHub (Bachelor's thesis)
+- 029 **Daniela Albaner**: How cobots are conquering the manufacturing industry: An analysis of management decisions on the use of cobots in the context of Industry 5.0 (Master's thesis)
 - 016 **Aroon Kumar**: Regulation of gig work platforms: An analysis of emergent policy agendas (Master's thesis)
-- 015 **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis)
+<!-- - 015 **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis) -->
 - 010 **Thi Thanh Thao Tran**: Investigating the Institutionalization of Human Capital Analytics and its Interplay within the Context of Strategic Human Resource Management and Innovation Diffusion: A Fuzzy-Set Qualitative Comparative Analysis (Master's thesis)
 - 005 **Carlo Tang**: Make behavioral change stick with chatbot interventions – An overview of systematic reviews (Master's thesis)
 
 Completed theses:
 
+- 028 **Jessica Klarmann**: Skill Signal Portfolios of IT Freelancers on Online Labor Markets: A Clustering Analysis of Hard and Soft Skills (Bachelor's thesis)
+- 027 **Peter Eckhardt**: Advances in literature searches: Evaluation, analysis, and improvement of Web of Science queries (Bachelor's thesis)
+- 026 **Karl Schnickmann**: Validating and Parsing Academic Search Queries: A Design Science Approach (Bachelor's thesis)
+- 025 **Anna Geßler**: Design of an Emulator for API-based Academic Literature Searches (Bachelor's thesis)
+- 024 **Thomas Fleischmann**: Advances in literature search queries: Validation and translation of search strings for EBSCO host (Bachelor's thesis)
+- 023 **Tharshiga Gunapalan**: Ethical challenges and regulatory responses in gig work: An analysis of emergent policy agendas (Maser's thesis)
+- 022 **Celina Schwarz**: Ethical challenges and regulatory responses in gig work: An analysis of emergent policy agendas (Bachelor's thesis)
+- 021 **Michael Bitz**: Online labor markets: Key constructs, items and nomological network (Master's thesis)
 - 020 **Laureen Thurner**: Understanding the process of organizing participatory knowledge resources: An exploratory study in the context of academic lab handbooks (Bachelor's thesis)
 - 019 **Robert Theis**: Analyzing the yield of literature search queries: An open source design science approach (Bachelor's thesis)
 - 018 **Aaron Hißting**: Generative artificial intelligence and archetype prompts in software development: A scoping review (Bachelor's thesis)
