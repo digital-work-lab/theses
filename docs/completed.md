@@ -8,17 +8,6 @@ nav_order: 9
 # Completed theses
 {: .no_toc }
 
-Present theses:
-
-- 030 **Julia Seibold**: awesome: An analysis of popular knowledge curations on GitHub (Bachelor's thesis)
-- 029 **Daniela Albaner**: How cobots are conquering the manufacturing industry: An analysis of management decisions on the use of cobots in the context of Industry 5.0 (Master's thesis)
-- 016 **Aroon Kumar**: Regulation of gig work platforms: An analysis of emergent policy agendas (Master's thesis)
-<!-- - 015 **Ali Ahmed**: Automating the CoLRev metadata prescreening process: A web application solution (Master's thesis) -->
-- 010 **Thi Thanh Thao Tran**: Investigating the Institutionalization of Human Capital Analytics and its Interplay within the Context of Strategic Human Resource Management and Innovation Diffusion: A Fuzzy-Set Qualitative Comparative Analysis (Master's thesis)
-- 005 **Carlo Tang**: Make behavioral change stick with chatbot interventions – An overview of systematic reviews (Master's thesis)
-
-Completed theses:
-
 - 028 **Jessica Klarmann**: Skill Signal Portfolios of IT Freelancers on Online Labor Markets: A Clustering Analysis of Hard and Soft Skills (Bachelor's thesis)
 - 027 **Peter Eckhardt**: Advances in literature searches: Evaluation, analysis, and improvement of Web of Science queries (Bachelor's thesis)
 - 026 **Karl Schnickmann**: Validating and Parsing Academic Search Queries: A Design Science Approach (Bachelor's thesis)
