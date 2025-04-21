@@ -136,29 +136,29 @@ The examination office **verifies** the admission requirements.
 - If admission requirements are met, the topic confirmation is created with text fields so that the topic of the thesis and the date of the topic issue can be entered.
 - If the admission requirements are not met, you are notified that the application has been rejected.
 
-The examination office may ask you to request an **approval from the examination committee** (Prüfungsausschuss) to write a thesis in the area of *Digital Work*.
+The examination office may ask you to request **approval from the examination committee** (Prüfungsausschuss) to write a thesis in the area of *Digital Work*.
 This is the case when older regulations (Studien- und Fachprüfungsordnung) apply (i.e., when master studies were started before 2018), or for students of Informatics and Applied Informatics (e.g., International Software Systems Science).
 
 You **receive the topic confirmation** as a (protected) Word document (.docx) by e-mail together with processing/submission instructions as well as inspection statement.
 The next step is to make an appointment with the thesis advisor to determine the topic and sign the topic confirmation.
-Please upload the Word document in your thesis repository before the meeting.
+Please upload the Word document to your thesis repository before the meeting.
 
 You and your thesis advisor schedule a meeting to determine the topic and **sign the topic confirmation**.
 If the topic was determined online or remotely, you can print and sign the confirmation, and send it to our [postal address](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}.
 It is important that we receive **two paper versions with original signatures**:
 
 - 1 original with two signatures (student and supervisor) **for the student**.
-- 1 original with two signatures (student and supervisor) **for archiving at the chair** .
+- 1 original with two signatures (student and supervisor) **for archiving at the chair**.
 
 {: .info }
-> To complete the admission, please add the topic and date in the Word document and upload it in your repository (or share it via e-mail).
+> To complete the admission, please add the topic and date in the Word document and upload it to your repository (or share it via e-mail).
 
 ## 3. Thesis writing and feedback sessions
 
 Bachelor's theses are usually due in 4 months, Master's theses in 6 months.
 The official requirements can be found in the regulations linked below.
 It is not necessary to submit the thesis in the semester in which it was started (unless it would take longer than the maximum duration of study).
-For students of Applied Informatics, Software Systems Science, and Computing in the Humanities a practical part is required for Bachelor's and Master's theses.
+For students of *Applied Informatics*, *Software Systems Science*, and *Computing in the Humanities* a practical part is required for Bachelor's and Master's theses.
 
 You are expected to complete the exposé before writing the thesis.
 A thesis must be written in English.
@@ -183,7 +183,7 @@ flowchart
 
 ## 4. Submission of the thesis
 
-Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter) including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
+Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter), including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
 The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
 
 {: .info }
@@ -216,3 +216,5 @@ A summary is stored on our [feedback page](docs/feedback.html) if you agree.
 {: .text-center}
 [Schedule feedback session](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
 {: .text-center}
+
+Remember to register for the [graduation ceremony](https://www.uni-bamberg.de/en/wiai/dekanat/graduation-ceremony/){: target="_blank"} 🥂 🎉 🎓
