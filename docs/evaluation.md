@@ -79,6 +79,11 @@ The contribution should be **discussed** with reference to
 - The implications for future research (research gaps)
 - The implications for practice (Ågerfalk and Karlsson, 2020).
 
+{: .info }
+> **Note on Student Ownership and Feedback**
+> 
+> Students are expected to critically engage with feedback provided by thesis advisors while accomplishing the contribution on their own. Especially for top grades (1.0–1.7), simply implementing suggestions is not sufficient. Instead, students are expected to maintain ownership of their work by applying independent judgment and, where appropriate, going beyond or critically reflecting on feedback from thesis advisors.
+
 ## Presentation
 
 A presentation is required for Master's theses. A presentation takes 15-20 minutes with 10 minutes of discussion. It is evaluated based on the following criteria:
