@@ -30,6 +30,8 @@ callouts:
   info:
     title: "Info"
     color: yellow
+  highlight:
+    color: yellow
   objective:
     title: Learning objective
     color: blue
