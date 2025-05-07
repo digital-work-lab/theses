@@ -32,6 +32,6 @@ The BACES team, which consists of professors, researchers, and student assistant
 - **Training sessions** on various statistical topics.
 - **Immediate support** on urgent statistical issues every Wednesday between 10 and 11 AM.
 
-For further details on their services and team, you can visit [BACES website](https://www.uni-bamberg.de/baces/) or directly reach out for statistical consultation via [BACES consultation page](https://www.uni-bamberg.de/baces/statistische-beratung/).
+For further details on their services and team, you can visit [BACES website](https://www.uni-bamberg.de/baces/){: target="_blank"} or directly reach out for statistical consultation via [BACES consultation page](https://www.uni-bamberg.de/baces/statistische-beratung/){: target="_blank"}.
 
 Please note that the consultations are provided with the consent of thesis advisors. We highly encourage students to take advantage of this valuable resource during their research phase.
