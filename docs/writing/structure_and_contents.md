@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Structure and Contents"
+title: Structure and Contents
 has_toc: true
-parent: "Writing Guide"
+parent: Writing Guide
 nav_order: 1
 ---
 

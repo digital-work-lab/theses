@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Feedback"
+title: Feedback
 has_toc: true
 parent: "Writing Guide"
 nav_order: 4

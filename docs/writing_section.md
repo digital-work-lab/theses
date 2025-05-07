@@ -27,6 +27,8 @@ The thesis process is divided into distinct phases, preparation, writing, and fi
 flowchart
     structure_and_contents["<a href='#structure-and-contents'>Structure and Contents</a>"] --> preparation["<a href='#preparation-phase'>Preparation</a>"]
     preparation --> writing["<a href='#writing-phase'>Writing</a>"]
+    research --> writing
+    writing --> research["<a href='#research'>Research</a>"]
     writing --> feedback["<a href='#feedback'>Feedback</a>"]
     feedback --> writing
     writing --> polishing["<a href='#polishing-phase'>Polishing</a>"]
@@ -63,6 +65,17 @@ Practical advice and recommendations are included to ensure clarity, consistency
 
 {: .text-center}
 [Learn about the preparation phase](writing/preparation_phase){: .btn .btn-blue target="_blank"}
+{: .text-center}
+
+## Research
+
+Research is a critical phase in the thesis writing process.
+It involves gathering relevant data, reviewing existing literature, and identifying gaps in knowledge that your thesis aims to address.
+This section provides guidance on how to conduct thorough research, select appropriate sources, and organize findings effectively.
+Successful research forms the foundation for your thesis and ensures that your work is grounded in existing scholarly discussions.
+
+{: .text-center}
+[Learn about research](writing/research){: .btn .btn-blue target="_blank"}
 {: .text-center}
 
 ## Writing Phase

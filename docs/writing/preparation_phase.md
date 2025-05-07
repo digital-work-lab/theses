@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Preparation phase"
+title: Preparation phase
 has_toc: true
-parent: "Writing Guide"
+parent: Writing Guide
 nav_order: 2
 ---
 
