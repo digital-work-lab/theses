@@ -3,7 +3,7 @@ layout: default
 title: Polishing phase
 has_toc: true
 parent: Writing Guide
-nav_order: 4
+nav_order: 6
 ---
 
 <style>

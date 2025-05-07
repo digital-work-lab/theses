@@ -3,7 +3,7 @@ layout: default
 title: Research
 has_toc: true
 parent: Writing Guide
-nav_order: 5
+nav_order: 3
 ---
 
 <style>

@@ -3,7 +3,7 @@ layout: default
 title: Writing phase
 has_toc: true
 parent: Writing Guide
-nav_order: 3
+nav_order: 4
 ---
 
 <style>
