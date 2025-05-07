@@ -3,7 +3,7 @@ layout: default
 title: Research
 has_toc: true
 parent: Writing Guide
-nav_order: 4
+nav_order: 5
 ---
 
 <style>
@@ -14,11 +14,7 @@ nav_order: 4
 
 # Research
 
-{: highlight }
-> This section is under development.
-
-- Overview of methods and data sources (see table in the evaluation criteria)
-- Consider the [evaluation criteria](../evaluation)
+## Research Methods
 
 | Method             | Criteria and reporting guideline                                                                                                       |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +45,6 @@ The BACES team, which consists of professors, researchers, and student assistant
 For further details on their services and team, you can visit [BACES website](https://www.uni-bamberg.de/baces/){: target="_blank"} or directly reach out for statistical consultation via [BACES consultation page](https://www.uni-bamberg.de/baces/statistische-beratung/){: target="_blank"}.
 
 Please note that the consultations are provided with the consent of thesis advisors. We highly encourage students to take advantage of this valuable resource during their research phase.
-
 
 ## References
 
