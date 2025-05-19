@@ -14,6 +14,12 @@ nav_order: 2
 # Open topics
 {: .no_toc }
 
+
+{: .info}
+**There are no open topics at the moment. New topics will be announced shortly.**
+
+<!--
+
 The following topics are currently open for Bachelor's and Master's theses.
 
 ## Overview
@@ -105,8 +111,6 @@ The thesis will generate insights into:
 {: .info}
 **Application**: This thesis is part of the **#GITHUB-BOTS** call-for-theses, expected to be completed between April 2025 and August/October 2025.
 
-<!--
-
 ## Mapping the Discourse on the Future of Work: A Network Analysis of Researchers and Their Collaborations
 {: .d-inline-block }
 #literature-review
@@ -163,8 +167,7 @@ The thesis will generate insights into:
 <p>Nakagawa, S., Dunn, A. G., Lagisz, M., Bannach-Brown, A., Grames, E. M., Sánchez-Tójar, A., ... & Haddaway, N. R. (2020). A new ecosystem for evidence synthesis. <em>Nature Ecology & Evolution</em>, 4(4), 498-501. <a href="https://doi.org/10.1038/s41559-020-1153-2" target="_blank">https://doi.org/10.1038/s41559-020-1153-2</a>.</p>
 </div>
 
-{: .info}
-**There are not open topics at the moment. New topics will be announced shortly.**
+
 
 {: .call_for_theses }
 Topis that are part of the **#SEARCH-QUERY** call-for-theses are marked with a label. They should be completed between August 2024 and December 2024. Students participating in this call are invited to review each of the others work after two months, and to contribute their work to the [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"} project. The project will be submitted to a journal, such as the [Journal of Open Source Software](https://joss.theoj.org/about){: target="_blank"}, giving students the opportunity to become a co-author on a peer-reviewed paper.
