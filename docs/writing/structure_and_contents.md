@@ -24,6 +24,7 @@ nav_order: 1
 > - Discussion
 > - Conclusion
 > - Declarations
+> - Appendices
 
 The default structure outlined below may need to be adapted to the thesis at hand.
 Each section has its own scope, as illustrated in the figure below.
@@ -37,18 +38,18 @@ Note: While creating your thesis, keep the [evaluation criteria](../evaluation.h
 
 **Abstract**
 
-The abstract acts as a point-of-entry for the reader, providing a first overview of the research study, namely, the motivation for the study, the methodological approach taken and a summary of the main results. 
+The abstract serves as a point of entry for the reader, providing an initial overview of the research study, including the motivation for the study, the methodological approach employed, and a summary of the main results. 
 In addition, the purpose of the research study should be clearly defined. Typically, an abstract consists of around 300 words.
 
 **Introduction**
 
-The introduction should precisely outline the purpose of the study as well as the research question that is sought to be answered. 
+The introduction should outline the purpose of the study as well as the research question that is sought to be answered. 
 By briefly outlining the context of the study in terms of content and time, the reader acquires a quick overview. 
 A key aspect of the introduction is the presentation of the motivation for conducting the study. 
 This gives the reader a basic understanding of the topic and underpins the relevance and importance of the study. 
 The relevance as well as the purpose can further be highlighted by using an appropriate quotation.
 
-The building blocks of Lange an Pfarrer (2017) may be helpful:
+The building blocks of Lange and Pfarrer (2017) may be helpful:
 
 - **Common Ground**: Establishing common ground involves presenting the current state of the literature and ensuring that the reader is in agreement with the basic assumptions, boundary conditions, and key concepts.
   This step is crucial for gaining the reader’s interest and tacit consent, making them more receptive to the forthcoming arguments and discussions.
@@ -75,11 +76,11 @@ This background knowledge also helps in building the conceptual framework of the
 
 The literature review should focus on concepts as opposed to authors and historical development (cf. Webster and Watson, 2002). 
 It is also possible to use a conceptual framework to structure the literature synthesis. 
-Provide precise definitions of those concepts that are central to your work, emphasize concepts rather than authors, and do not include your own judgment in the background section. 
+Provide precise definitions of those concepts that are central to your work, emphasize concepts rather than authors, and do not include your own judgment in the background section.
 Use established definitions and concepts and provide a justification when adapting them.
 
 A graphical representation of the framework helps to illustrate complex theoretical constructs as well as the boundaries of the research study. 
-The explicit statement of the conceptual framework not just informs the reader, it also guides the author in conducting the research.
+The explicit statement of the conceptual framework not only informs the reader, but it also guides the author in conducting the research.
 
 Relevant background literature can be found in journals such as those listed in
 
@@ -88,7 +89,7 @@ Relevant background literature can be found in journals such as those listed in
 - or conferences such as [ICIS](http://aisel.aisnet.org/icis/){: target="_blank"} and [ECIS](https://aisel.aisnet.org/ecis){: target="_blank"}.
 
 Papers can be accessed through the [Bamberger Katalog](https://katalog.ub.uni-bamberg.de/TouchPoint/start.do?View=ubg&Language=en&StartPage=UserAccount){: target="_blank"}, a search on [Researchgate](https://www.researchgate.net){: target="_blank"}, a search on Google Scholar, or by contacting the authors.
-For using the Bamberger Katalog, Researchgate and some of the Google Scholar paper you need to be connected to the University of Bamberg VPN.
+For using the Bamberger Katalog, Researchgate, and some of the Google Scholar papers, you need to be connected to the University of Bamberg VPN.
 
 Guidelines on searching the literature are provided by Webster and Watson (2002).
 
@@ -111,10 +112,10 @@ An example figure and table can be found in the template contained in this repos
 
 In this section, the author provides a discussion of the results and is thus able to draw an informed conclusion. 
 More precisely, the discussion is an evaluative summary of the research study in relation to the research question. 
-In general, the discussion can be divided in three parts. 
-First, the results should be tied to the research question, thus presenting the reader a solution or improvement to the identified problem space. 
+In general, the discussion can be divided into three parts. 
+First, the results should be tied to the research question, thus presenting the reader with a solution or improvement to the identified problem space. 
 Here, for example, the author can draw on empirical findings introduced in the Results section to support his or her argument. 
-Next, the author should outline the limitations of the research study by critically examining the used research approach. 
+Next, the author should outline the limitations of the research study by critically examining the research approach used. 
 Limitations might comprise, for example, a limited time frame considered in the research study, or the individual refinement of a specific research method due to time constraints. 
 Finally, suggestions for future research avenues should be provided. 
 These suggestions may be in line with the limitations, as this allows other researchers to build on the present work by extending or analyzing it. 
@@ -129,9 +130,31 @@ By so doing, the author clarifies to what extent the research study has presente
 
 **Declarations**
 
-Do not forget that the last page of your thesis hast to be the statutory declaration ("Eidestattliche Erklärung") of the examination office. 
-This declaration is printed on your topic confirmation.
-
 This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
 You may also refer to the [guideline for the use of digital tools](../digital_tools.html) for further information. 
-Additionally students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page for relevant guidance (although formal ethics approvals cannot be issued for a thesis).
+Additionally, students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page for relevant guidance (although formal ethics approvals cannot be issued for a thesis).
+
+**Appendices**
+
+The appendices provide supplementary material that supports the content of the thesis but is not essential to the core argument.
+These materials should be referenced in the main text where appropriate. 
+
+Appendices can be used to provide:
+
+- Extended tables or figures
+- Detailed methodological procedures
+- Questionnaires or interview guides
+- Supplementary analysis or additional results
+
+In addition, a digital appendix can include elements that support **reproducible research objectives**.
+These may be provided as part of the thesis (Git/GitHub) repository, including:
+
+- **Raw data** used or collected for the research
+- **Scripts** (e.g., analysis code, data processing steps)
+- **README file** that explains the structure, usage, and dependencies of the repository
+
+The digital appendix (repository) can also include the written thesis. It is not necessary to create a separate data repository.
+
+{: .highlight }
+> Do not forget that the last page of your thesis has to be the statutory declaration ("Eidestattliche Erklärung") of the examination office. 
+> This declaration is printed on your topic confirmation.
