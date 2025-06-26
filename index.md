@@ -183,7 +183,7 @@ flowchart
 
 ## 4. Submission of the thesis
 
-Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter), including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis are to be submitted to the examination office.
+Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter), including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis, are to be submitted to the examination office.
 The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
 
 {: .info }
@@ -194,7 +194,10 @@ The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF 
 
 - During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
 - Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
-- Dispatch by mail (the date of the postmark counts) Otto-Friedrich-University, Examination Office - 96045 Bamberg
+- Send it to the examination office via mail (the date of the postmark counts), Otto-Friedrich-University, Examination Office - 96045 Bamberg
+
+{: .info }
+> Purely digital submissions may become available in 2026.
 
 ## 5. Thesis presentation
 
@@ -202,7 +205,7 @@ Presentations are required for Master's theses.
 
 - A template is available [here](assets/UB-Folienmaster.pptx) and [here](https://github.com/digital-work-lab/slides_template){: target="_blank"}.
 - Evaluation criteria are stated [here](docs/evaluation.html#presentation).
-- You decide whether the presentation should be scheduled before or after submitting the thesis. You can suggest a date for the presentation and the thesis advisor selects a second examiner. Please schedule the presentation early and take into account our [availability](https://digital-work-lab.github.io/handbook/docs/02.calendar.html){: target="_blank"}.
+- You decide whether the presentation should be scheduled before or after submitting the thesis. You can suggest a date for the presentation, and the thesis advisor selects a second examiner. Please schedule the presentation early and take into account our [availability](https://digital-work-lab.github.io/handbook/docs/02.calendar.html){: target="_blank"}.
 
 ## 6. Grading and feedback session
 
