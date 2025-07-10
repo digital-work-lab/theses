@@ -22,7 +22,7 @@ The following topics are currently open for Bachelor's and Master's theses.
 - TOC
 {:toc}
 
-## Error Prevalence in Academic Search Queries: An Analysis Using an Automated Validation Tool
+## Error prevalence in academic search queries: An analysis using an automated validation tool
 
 {: .d-inline-block }
 #design-science
@@ -32,14 +32,13 @@ The following topics are currently open for Bachelor's and Master's theses.
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**: Literature search queries used to access scientific databases often contain syntactic errors and inconsistencies. Since such errors can adversely affect the quality of research, their detection and prevention are critical steps in query formulation, use and reporting. Due to the length and complexity of queries, manual validation is often impractical, which has prompted the development of automated solutions. Building on these advances, this thesis performs a comprehensive evaluation of academic search queries using the query validation tool, [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"}. The analysis aims to identify common pitfalls and inconsistencies, addressing both syntactic errors (e.g., unbalanced parentheses) and opportunities for refinement (e.g., removal of redundant components). A dataset of queries taken from [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv){: target="_blank"} will be compiled for the analysis. The dataset will include queries for the popular search platforms Web of Science, PubMed, and IEEE. The evaluation will also serve to assess the functionality of the *search-query* tool and reveal potential areas for improvement in its design.
+**Summary**: Literature search queries used to access scientific databases often contain syntactic errors and inconsistencies. Since such errors can adversely affect the effectiveness of reviews, their detection and prevention are critical steps in query formulation, use and reporting. Due to the length and complexity of queries, manual validation is often impractical, which has prompted the development of automated solutions. Building on these advances, this thesis performs a comprehensive evaluation of academic search queries using the query validation tool, [search-query](https://github.com/CoLRev-Environment/search-query){: target="_blank"}. The analysis aims to identify common pitfalls and inconsistencies, addressing both syntactic errors (e.g., unbalanced parentheses) and opportunities for refinement (e.g., removal of redundant components). A dataset of queries taken from [searchRxiv](https://www.cabidigitallibrary.org/journal/searchrxiv){: target="_blank"} will be compiled for the analysis. The dataset will include queries for the popular search platforms Web of Science, PubMed, and EBSCOHost. The evaluation will also serve to assess the functionality of the *search-query* tool and reveal potential areas for improvement in its design.
 
 **Methods**: The thesis combines design science and quantitative approaches, proceeding in three phases: 1) Creating of a test dataset of queries based on searchRxiv. 2) Analyzing the queries using the *search-query* package. 3) Preparing and evaluating the test data and suggesting improvements to the tool's design.
 
 **Expected Outcomes**: This thesis will provide a comprehensive evaluation of academic search queries used in peer-reviewed research. The analysis will offer statistical insights into the prevalence of different error types and structural characteristics of the queries. A deeper understanding of common patterns can support error prevention and the formulation of more effective search strategies. The evaluation will also verify the functionality of the *search-query* tool and highlight potential shortcomings and areas of improvement to the design.
 
-**Requirements**:  
-Students should have some prior experience with Git and Python. Familiarity with basic data analysis techniques is an advantage.
+**Requirements**: Students should have prior experience with Git and Python. Familiarity with basic data analysis techniques is an advantage.
 
 **References**:
 
@@ -51,6 +50,119 @@ Students should have some prior experience with Git and Python. Familiarity with
 </div>
 
 <div class="page-break"></div>
+
+## Shadow AI vs. bring-your-own-AI: A scoping review of emerging discourses
+
+{: .d-inline-block }
+#literature-review
+{: .label .label-yellow }
+#AI
+{: .label .label-green }
+#digital-work
+{: .label .label-blue }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary:** With the rapid diffusion of generative AI tools like ChatGPT, organizations are increasingly facing unregulated or informal use of such technologies—commonly referred to as Shadow AI. Closely related are discussions surrounding the idea of Bring-Your-Own-AI (BYOAI), where individuals integrate their own AI tools and utilize them across jobs. While both terms highlight user-driven AI adoption, they differ in emphasis: Shadow AI focuses on risks and unauthorized use, whereas BYOAI often emphasizes agency, empowerment, and productivity. This thesis will systematically compare how each concept is discussed across academic and grey literatures, scoping the discourse and mapping key concerns, arguments, and emerging themes. It will provide a comprehensive overview of how each term frames AI use in organizational contexts, including ethical, technical, managerial, and policy implications.
+
+**Methods:** Scoping review of academic and grey literatures, including reports, blog posts, policy briefs, and organizational guidelines. The review will map the discourse to structure current arguments. Databases may include Google Scholar, Web of Science, SSRN, and news aggregators, as well as selected organizational reports.
+
+**Expected outcomes:**
+
+- A comparative map of discourses around Shadow AI and Bring-Your-Own-AI.
+- Identification of core arguments, tensions, and stakeholder concerns.
+- Recommendations for future research and practical governance strategies.
+
+**Requirements:** Students should have an interest in digital work and AI technologies. Experience with literature review methods and qualitative analysis is advantageous.
+
+**References**
+
+<div class="references">
+  <p>Burnham, K. (2025). What leaders should know about 'bring your own AI'. <em>MIT Sloan Management Review</em>. Available at: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/what-leaders-should-know-about-bring-your-own-ai" target="_blank">mitsloan.mit.edu</a></p>
+  <p>Haag, S., & Eckhardt, A. (2017). Shadow IT. <em>Business & Information Systems Engineering</em>, 59, 469–473.</p>
+  <p>Arksey, H., & O'Malley, L. (2005). Scoping studies: Towards a methodological framework. <em>International Journal of Social Research Methodology</em>, 8(1), 19–32.</p>
+</div>
+
+
+## Designing a GUI for CoLRev: Enhancing user interaction with literature review workflows
+
+{: .d-inline-block }
+#design-science
+{: .label .label-yellow }
+#programming
+{: .label .label-green }
+#UI-UX
+{: .label .label-blue }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary**: CoLRev is a Python package that supports structured and reproducible literature reviews. While powerful and extensible, its command-line-based design poses usability challenges—particularly during complex tasks such as the prescreen phase, where researchers make inclusion or exclusion decisions across large volumes of records. This thesis aims to address this gap through the design and implementation of a graphical user interface (GUI) focused on prescreening workflows. The interface will provide visual support for reviewing metadata, assessing inclusion criteria, highlighting key information, and tracking decision progress.
+Following a design science research methodology, the thesis will develop a web-based prototype (React frontend, Flask backend) that integrates seamlessly with CoLRev’s core functions.
+
+**Methods**:
+
+- Review and comparison of existing user interfaces in open science software (e.g., ASReview)
+- Requirement elicitation and UI/UX concept development
+- Implementation of a prototype web UI
+- Iterative evaluation through expert feedback and usability testing
+
+**Expected outcomes**: The thesis will result in a functional prototype of a web-based CoLRev interface that enhances accessibility and user experience. Key deliverables include:
+
+- A modular, extensible UI architecture
+- Loading and saving of BibTex files in line with CoLRev infrastructure
+- Design requirements and principles for research software interfaces
+
+**Requirements**: Students should have experience in web development (especially React and Python) and an interest in academic tools or open science. Familiarity with Git and CoLRev is an advantage.
+
+**References**
+
+<div class="references">
+  <p>van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., Ma, Y., Fang, Q., Hindriks, S., Tummers, L., & Oberski, D. L. (2021). An open source machine learning framework for efficient and transparent systematic reviews. <em>Nature Machine Intelligence</em>, 3(2), 125–133. <a href="https://www.nature.com/articles/s42256-020-00287-7" target="_blank">https://www.nature.com/articles/s42256-020-00287-7</a></p>
+  <p>Peffers, K., Tuunanen, T., Rothenberger, M. A., &amp; Chatterjee, S. (2007). A design science research methodology for information systems research. <em>Journal of Management Information Systems</em>, 24(3), 45-77. <a href="https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222240302">link</a></p>
+  <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
+</div>
+
+
+## Mapping hybrid open-source/commercial ecosystems through public handbooks
+
+{: .d-inline-block }
+#data-science
+{: .label .label-yellow }
+#digital-work
+{: .label .label-green }
+#programming
+{: .label .label-blue }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary**: Public handbooks maintained on platforms like GitHub increasingly blend open-source principles with internal coordination structures of commercial organizations. These hybrid ecosystems—such as those listed in the [digital-work-lab/handbooks](https://github.com/digital-work-lab/handbooks) repository—offer a unique opportunity to study how open documentation, platform governance, and work coordination intersect in digital environments. This thesis will conduct a data-driven exploration of these ecosystems by parsing and analyzing handbook repositories. 
+
+**Methods**:
+
+This thesis follows a **design science research (DSR)** approach to develop and evaluate a workflow for analyzing hybrid public handbook ecosystems. The focus will be on:
+
+- Designing and developing a **generic Python package** for parsing, classifying, and analyzing handbook repositories.
+- Demonstrating the tool on the [digital-work-lab/handbooks](https://github.com/digital-work-lab/handbooks) dataset.
+- Evaluating accuracy, utility, and usability through expert feedback.
+
+**Expected Outcomes**:
+
+The thesis will produce a reusable Python package and a structured analytical pipeline that enables:
+
+- Parsing and classification of linked resources (e.g., Markdown files, public/private URLs).
+- Analysis of contributor types (e.g., human vs. bot) and contribution flows (commits, issues, pull requests).
+- Mapping of update patterns and collaboration dynamics over time.
+
+The results will be exported into a modular **Obsidian vault** (Markdown format), enabling visual and link-based exploration for further qualitative and network analysis.
+
+**Requirements**: Students should be familiar with Python, Git, and working with APIs. Familiarity with data analysis and interest in open-source or organizational research is a plus. Experience with Markdown/Obsidian is helpful but not required.
+
+**References**
+
+<div class="references">
+  <p>Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: Work where you want, when you want. <em>Journal of Organization Design</em>, 9, 1–17.</p>
+  <p>Aaltonen, A., & Stelmaszak, M. (2024). The performative production of trace data in knowledge work. <em>Information Systems Research</em>, 35(3), 1448–1462.</p>
+</div>
 
 <!--
 {: .info}
