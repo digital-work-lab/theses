@@ -135,14 +135,14 @@ Following a design science research methodology, the thesis will develop a web-b
 
 **Thesis Advisor**: Prof. Dr. Gerit Wagner
 
-**Summary**: Public handbooks maintained on platforms like GitHub increasingly blend open-source principles with internal coordination structures of commercial organizations. These hybrid ecosystems—such as those listed in the [digital-work-lab/handbooks](https://github.com/digital-work-lab/handbooks) repository—offer a unique opportunity to study how open documentation, platform governance, and work coordination intersect in digital environments. This thesis will conduct a data-driven exploration of these ecosystems by parsing and analyzing handbook repositories. 
+**Summary**: Public handbooks maintained on platforms like GitHub increasingly blend open-source principles with internal coordination structures of commercial organizations. These hybrid ecosystems—such as those listed in the [digital-work-lab/handbooks](https://github.com/digital-work-lab/handbooks){: target="_blank"} repository—offer a unique opportunity to study how open documentation, platform governance, and work coordination intersect in digital environments. This thesis will conduct a data-driven exploration of these ecosystems by parsing and analyzing handbook repositories. 
 
 **Methods**:
 
 This thesis follows a **design science research (DSR)** approach to develop and evaluate a workflow for analyzing hybrid public handbook ecosystems. The focus will be on:
 
 - Designing and developing a **generic Python package** for parsing, classifying, and analyzing handbook repositories.
-- Demonstrating the tool on the [digital-work-lab/handbooks](https://github.com/digital-work-lab/handbooks) dataset.
+- Demonstrating the tool on the [digital-work-lab/handbooks](https://github.com/digital-work-lab/handbooks){: target="_blank"} dataset.
 - Evaluating accuracy, utility, and usability through expert feedback.
 
 **Expected Outcomes**:
