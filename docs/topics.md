@@ -83,46 +83,6 @@ The following topics are currently open for Bachelor's and Master's theses.
   <p>Arksey, H., & O'Malley, L. (2005). Scoping studies: Towards a methodological framework. <em>International Journal of Social Research Methodology</em>, 8(1), 19–32.</p>
 </div>
 
-
-## Designing a GUI for CoLRev: Enhancing user interaction with literature review workflows
-
-{: .d-inline-block }
-#design-science
-{: .label .label-yellow }
-#programming
-{: .label .label-green }
-#UI-UX
-{: .label .label-blue }
-
-**Thesis Advisor**: Prof. Dr. Gerit Wagner
-
-**Summary**: CoLRev is a Python package that supports structured and reproducible literature reviews. While powerful and extensible, its command-line-based design poses usability challenges—particularly during complex tasks such as the prescreen phase, where researchers make inclusion or exclusion decisions across large volumes of records. This thesis aims to address this gap through the design and implementation of a graphical user interface (GUI) focused on prescreening workflows. The interface will provide visual support for reviewing metadata, assessing inclusion criteria, highlighting key information, and tracking decision progress.
-Following a design science research methodology, the thesis will develop a web-based prototype (React frontend, Flask backend) that integrates seamlessly with CoLRev’s core functions.
-
-**Methods**:
-
-- Review and comparison of existing user interfaces in open science software (e.g., ASReview)
-- Requirement elicitation and UI/UX concept development
-- Implementation of a prototype web UI
-- Iterative evaluation through expert feedback and usability testing
-
-**Expected outcomes**: The thesis will result in a functional prototype of a web-based CoLRev interface that enhances accessibility and user experience. Key deliverables include:
-
-- A modular, extensible UI architecture
-- Loading and saving of BibTex files in line with CoLRev infrastructure
-- Design requirements and principles for research software interfaces
-
-**Requirements**: Students should have experience in web development (especially React and Python) and an interest in academic tools or open science. Familiarity with Git and CoLRev is an advantage.
-
-**References**
-
-<div class="references">
-  <p>van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., Ma, Y., Fang, Q., Hindriks, S., Tummers, L., & Oberski, D. L. (2021). An open source machine learning framework for efficient and transparent systematic reviews. <em>Nature Machine Intelligence</em>, 3(2), 125–133. <a href="https://www.nature.com/articles/s42256-020-00287-7" target="_blank">https://www.nature.com/articles/s42256-020-00287-7</a></p>
-  <p>Peffers, K., Tuunanen, T., Rothenberger, M. A., &amp; Chatterjee, S. (2007). A design science research methodology for information systems research. <em>Journal of Management Information Systems</em>, 24(3), 45-77. <a href="https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222240302">link</a></p>
-  <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
-</div>
-
-
 ## Mapping hybrid open-source/commercial ecosystems through public handbooks
 
 {: .d-inline-block }
@@ -168,13 +128,45 @@ The results will be exported into a modular **Obsidian vault** (Markdown format)
 {: .info}
 **There are no open topics at the moment. New topics will be announced shortly.**
 
-The following topics are currently open for Bachelor's and Master's theses.
 
-## Overview
-{: .no_toc .text-delta }
+## Designing a GUI for CoLRev: Enhancing user interaction with literature review workflows
 
-- TOC
-{:toc}
+{: .d-inline-block }
+#design-science
+{: .label .label-yellow }
+#programming
+{: .label .label-green }
+#UI-UX
+{: .label .label-blue }
+
+**Thesis Advisor**: Prof. Dr. Gerit Wagner
+
+**Summary**: CoLRev is a Python package that supports structured and reproducible literature reviews. While powerful and extensible, its command-line-based design poses usability challenges—particularly during complex tasks such as the prescreen phase, where researchers make inclusion or exclusion decisions across large volumes of records. This thesis aims to address this gap through the design and implementation of a graphical user interface (GUI) focused on prescreening workflows. The interface will provide visual support for reviewing metadata, assessing inclusion criteria, highlighting key information, and tracking decision progress.
+Following a design science research methodology, the thesis will develop a web-based prototype (React frontend, Flask backend) that integrates seamlessly with CoLRev’s core functions.
+
+**Methods**:
+
+- Review and comparison of existing user interfaces in open science software (e.g., ASReview)
+- Requirement elicitation and UI/UX concept development
+- Implementation of a prototype web UI
+- Iterative evaluation through expert feedback and usability testing
+
+**Expected outcomes**: The thesis will result in a functional prototype of a web-based CoLRev interface that enhances accessibility and user experience. Key deliverables include:
+
+- A modular, extensible UI architecture
+- Loading and saving of BibTex files in line with CoLRev infrastructure
+- Design requirements and principles for research software interfaces
+
+**Requirements**: Students should have experience in web development (especially React and Python) and an interest in academic tools or open science. Familiarity with Git and CoLRev is an advantage.
+
+**References**
+
+<div class="references">
+  <p>van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., Ma, Y., Fang, Q., Hindriks, S., Tummers, L., & Oberski, D. L. (2021). An open source machine learning framework for efficient and transparent systematic reviews. <em>Nature Machine Intelligence</em>, 3(2), 125–133. <a href="https://www.nature.com/articles/s42256-020-00287-7" target="_blank">https://www.nature.com/articles/s42256-020-00287-7</a></p>
+  <p>Peffers, K., Tuunanen, T., Rothenberger, M. A., &amp; Chatterjee, S. (2007). A design science research methodology for information systems research. <em>Journal of Management Information Systems</em>, 24(3), 45-77. <a href="https://www.tandfonline.com/doi/abs/10.2753/MIS0742-1222240302">link</a></p>
+  <p>Wagner, G., & Ernst, K. M. (2024). Search-query: A Python package for queries in academic literature searches. (Version 0.10.0) [Computer software]. https://github.com/ColRev-Environment/search-query<a href="https://github.com/ColRev-Environment/search-query">https://github.com/ColRev-Environment/search-query</a></p>
+</div>
+
 
 ## Advancing the Design of Bots for Git-Based Organizing
 
