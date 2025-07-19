@@ -205,6 +205,7 @@ Presentations are required for Master's theses.
 
 - A template is available [here](assets/UB-Folienmaster.pptx) and [here](https://github.com/digital-work-lab/slides_template){: target="_blank"}.
 - Evaluation criteria are stated [here](docs/evaluation.html#presentation).
+- Presentations are typically on campus and in person. Please contact us if you need to present online.
 - You decide whether the presentation should be scheduled before or after submitting the thesis. You can suggest a date for the presentation, and the thesis advisor selects a second examiner. Please schedule the presentation early and take into account our [availability](https://digital-work-lab.github.io/handbook/docs/02.calendar.html){: target="_blank"}.
 
 ## 6. Grading and feedback session
