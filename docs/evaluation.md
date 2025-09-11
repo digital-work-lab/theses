@@ -92,7 +92,7 @@ A presentation is required for Master's theses. A presentation takes 15-20 minut
 - The introductory section should convey why the topic is interesting, and it should be easy to follow by a general audience
 - The main section should demonstrate the objective, method, main findings, and contribution, giving experts the possibility to critically assess the different parts
 - The concluding section should give an outlook and briefly outline the implications
-- Presentation style and slides should be appropriate, i.e., using academic terminology, displaying a clear structure, connecting with the audience,
+- Presentation style and slides should be appropriate, i.e., displaying a clear structure, using academic terminology, providing references, connecting with the audience,
   taking approx. 2-3 minutes per slide, using short bullet-point summaries instead of longer paragraphs, including illustrations rather than animations
 - Questions should be handled constructively, demonstrating in-depth knowledge of the thesis, and familiarity with the broader topic area 
 
