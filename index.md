@@ -223,5 +223,5 @@ A summary is stored on our [feedback page](docs/feedback.html) if you agree.
 
 Next steps...
 
-- 🥂 🎉 🎓 Remember to register for the [graduation ceremony](https://www.uni-bamberg.de/en/wiai/dekanat/graduation-ceremony/){: target="_blank"}
+- 🥂 🎉 🎓 Remember to register for the [graduation ceremony](https://www.uni-bamberg.de/en/wiai/dekanat/graduation-ceremony-1/){: target="_blank"}
 - ✉️ We are happy to support you with a [recommendation letter](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.70.recommendation_letters.html){: target="_blank"} — especially if you earned a good grade. Please reach out early!
