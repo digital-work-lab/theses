@@ -49,6 +49,8 @@ The following topics are currently open for Bachelor's and Master's theses.
   <p>Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. <em>Journal of Management Information Systems</em>, 24(3), 45–77.</p>
 </div>
 
+<!--
+
 <div class="page-break"></div>
 
 ## Shadow AI vs. bring-your-own-AI: A scoping review of emerging discourses
@@ -124,7 +126,6 @@ The results will be exported into a modular **Obsidian vault** (Markdown format)
   <p>Aaltonen, A., & Stelmaszak, M. (2024). The performative production of trace data in knowledge work. <em>Information Systems Research</em>, 35(3), 1448–1462.</p>
 </div>
 
-<!--
 {: .info}
 **There are no open topics at the moment. New topics will be announced shortly.**
 
