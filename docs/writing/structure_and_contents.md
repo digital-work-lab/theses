@@ -149,7 +149,7 @@ In addition, a digital appendix can include elements that support **reproducible
 These may be provided as part of the thesis (Git/GitHub) repository, including:
 
 - **Data** collected or reused for the study
-- **Code** (e.g., data processing or analysis scripts)
+- **Code** (e.g., data processing and/or analysis scripts)
 - **README file** that explains the structure, usage, and dependencies of the repository
 
 The digital appendix (repository) can also include the written thesis. It is not necessary to create a separate data repository.
