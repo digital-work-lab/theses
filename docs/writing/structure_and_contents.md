@@ -128,10 +128,9 @@ In contrast to the Discussion section, in which the main results are presented, 
 A well-crafted conclusion answers the research question stated in the Introduction. 
 By so doing, the author clarifies to what extent the research study has presented a solution or improvement to the examined problem space.
 
-**Declarations**
+**Acknowledgments**
 
-This section may contain an "Availability of data, materials, and code" statement (e.g., linking to a GitHub repository or a digital appendix), as well as acknowledgements. 
-You may also refer to the [guideline for the use of digital tools](../digital_tools.html) for further information. 
+In the acknowledgment section, you may refer to the [guideline for the use of digital tools](../digital_tools.html) for further information. 
 Additionally, students are advised to consult the [ethics](https://www.uni-bamberg.de/gremien/senat-kommissionen/kommissionen/ethikrat/){: target="_blank"} page for relevant guidance (although formal ethics approvals cannot be issued for a thesis).
 
 **Appendices**
@@ -149,8 +148,8 @@ Appendices can be used to provide:
 In addition, a digital appendix can include elements that support **reproducible research objectives**.
 These may be provided as part of the thesis (Git/GitHub) repository, including:
 
-- **Raw data** used or collected for the research
-- **Scripts** (e.g., analysis code, data processing steps)
+- **Data** collected or reused for the study
+- **Code** (e.g., data processing or analysis scripts)
 - **README file** that explains the structure, usage, and dependencies of the repository
 
 The digital appendix (repository) can also include the written thesis. It is not necessary to create a separate data repository.
