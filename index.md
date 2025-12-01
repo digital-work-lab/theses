@@ -183,11 +183,7 @@ flowchart
 
 ## 4. Submission of the thesis
 
-Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder Schnellhefter), including a CD with the digital Version on it in a paper cover in each copy taped onto the last page of the thesis, are to be submitted to the examination office.
-The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
-
-{: .info }
-> From December 1st, 2025, the binding and timely submission of bachelor's and master's theses will take place digitally via the form server (https://form.uni-bam-berg.de/form/alias/1/einreichung-ba-ma-arbeit/). Digital submission replaces the submission of printed copies, as was previously the case.
+From December 1st, 2025, the binding and timely submission of bachelor's and master's theses will take place digitally via the form server (https://form.uni-bam-berg.de/form/alias/1/einreichung-ba-ma-arbeit/). Digital submission replaces the submission of printed copies, as was previously the case.
 
 ## 5. Thesis presentation
 
