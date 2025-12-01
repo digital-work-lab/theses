@@ -187,17 +187,7 @@ Two copies in hardbound form (Klebe-/Hardcoverbindung, keine Spiralbindung oder 
 The digital thesis has to be on a CD-ROM. It should contain the thesis as a PDF document and possibly a digital appendix.
 
 {: .info }
-> - It is mandatory to include a 💿 CD-ROM with a PDF of the thesis.
-> - We provide CD-ROMs with paper covers free of charge—don’t spend 10€ at the copy shop! 😉 You can use the CIP-Pool computers to write data onto a CD-ROM.
-> - You have to submit the declaration ("Einverständniserklärung zur Einsichtnahme einer unveröffentlichten Abschlussarbeit") as a separate document along with the thesis.
->   If you plan to publish a paper based on your thesis, it may be advisable to withhold your consent.
-
-- During opening hours Mon-Fri 10.00 - 12.00: Hand in the thesis at the examination office (Kapuzinerstr. 25)
-- Outside of opening hours: Drop the thesis in the mailbox of the University Administration (Kapuzinerstr. 16)
-- Send it to the examination office via mail (the date of the postmark counts), Otto-Friedrich-University, Examination Office - 96045 Bamberg
-
-{: .info }
-> Purely digital submissions may become available in 2026.
+> From December 1st, 2025, the binding and timely submission of bachelor's and master's theses will take place digitally via the form server (https://form.uni-bam-berg.de/form/alias/1/einreichung-ba-ma-arbeit/). Digital submission replaces the submission of printed copies, as was previously the case.
 
 ## 5. Thesis presentation
 
