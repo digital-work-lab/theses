@@ -183,7 +183,7 @@ flowchart
 
 ## 4. Submission of the thesis
 
-From December 1st, 2025, the binding and timely submission of bachelor's and master's theses will take place digitally via the form server [here](https://form.uni-bam-berg.de/form/alias/1/einreichung-ba-ma-arbeit/). Digital submission replaces the submission of printed copies, as was previously the case.
+From December 1st, 2025, the binding and timely submission of bachelor's and master's theses will take place digitally via the form server [here](https://form.uni-bamberg.de/form/alias/1/einreichung-ba-ma-arbeit/). Digital submission replaces the submission of printed copies, as was previously the case.
 
 ## 5. Thesis presentation
 
