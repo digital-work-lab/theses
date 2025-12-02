@@ -88,7 +88,7 @@ Relevant background literature can be found in journals such as those listed in
 - the [VHB Jourqual Ranking](https://www.vhbonline.org/verband/wissenschaftliche-kommissionen/wirtschaftsinformatik/vhb-rating-2024-wirtschaftsinformatik){: target="_blank"}
 - or conferences such as [ICIS](http://aisel.aisnet.org/icis/){: target="_blank"} and [ECIS](https://aisel.aisnet.org/ecis){: target="_blank"}.
 
-Papers can be accessed through the [Bamberger Katalog](https://katalog.ub.uni-bamberg.de/TouchPoint/start.do?View=ubg&Language=en&StartPage=UserAccount){: target="_blank"}, a search on [Researchgate](https://www.researchgate.net){: target="_blank"}, a search on Google Scholar, or by contacting the authors.
+Papers can be accessed through the [Bamberger Katalog](https://katalog.ub.uni-bamberg.de/vufind/){: target="_blank"}, a search on [Researchgate](https://www.researchgate.net){: target="_blank"}, a search on Google Scholar, or by contacting the authors.
 For using the Bamberger Katalog, Researchgate, and some of the Google Scholar papers, you need to be connected to the University of Bamberg VPN.
 
 Guidelines on searching the literature are provided by Webster and Watson (2002).
@@ -97,7 +97,7 @@ Guidelines on searching the literature are provided by Webster and Watson (2002)
 
 The methodology section describes a systematic and goal-oriented approach to answer the research question. 
 Hence, the selection of the research method needs to be consistent with the research questions. 
-The approach may be, for example, empirical, analytical, comparative, systematic, historic, or hermeneutic ([Goethe Universität](https://www.uni-muenster.de/imperia/md/content/didaktik_der_chemie/wissenschaftlichesarbeiten/leitfaden.pdf){: target="_blank"}). 
+The approach may be, for example, empirical, analytical, comparative, systematic, historic, or hermeneutic. 
 The methodological approach needs to be described in detail; appropriate reporting standards for the research method should be considered (such as PRISMA for literature reviews); it should be possible to understand the methodological procedures based on the thesis. 
 For example, it is necessary to provide the formulas of regression models.
 
